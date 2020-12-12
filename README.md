@@ -1,2 +1,2 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wdg)
-![](https://github-readme-stats.vercel.app/api/?username=wdg&count_private=true)
+![](https://github-readme-stats.vercel.app/api/?username=wdg&count_private=true&show_icons=true)

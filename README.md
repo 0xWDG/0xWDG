@@ -22,7 +22,7 @@ And many more...
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=0xWDG'>
   </td></tr></table>
 
-![](https://komarev.com/ghpvc/?username=wdg&style=plastic)
+![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)
 
 <h3 align="left">Languages and Tools:</h3>

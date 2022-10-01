@@ -9,6 +9,7 @@
 
 ### I'm working on
 [Appsterdam](https://github.com/Appsterdam) [<a href="https://apps.apple.com/us/app/appsterdam/id1608532704" target="_blank" rel="noreferrer">App</a>, <a href="https://appsterdam.rs" target="_blank" rel="noreferrer">Website</a>]<br />
+[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)<br />
 [CodeEdit](https://github.com/CodeEditApp/CodeEdit)<br />
 And many more...
 

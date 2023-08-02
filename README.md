@@ -47,10 +47,10 @@ print(Wesley().details())
 -->
 
 ### Stats
-<img src='https://streak-stats.demolab.com/?user=0xWDG&hide_border=true&date_format=j-M-Y'>
+<a href='#'><img src='https://streak-stats.demolab.com/?user=0xWDG&hide_border=true&date_format=j-M-Y'></a>
 <table><tr>
-  <td><img src='https://github-readme-stats.vercel.app/api/?username=0xWDG&count_private=true&show_icons=true'></td>
-  <td><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=0xWDG'></td>
+  <td><a href='#'><img src='https://github-readme-stats.vercel.app/api/?username=0xWDG&count_private=true&show_icons=true'></a></td>
+  <td><a href='#'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=0xWDG'></a></td>
 </tr></table>
 
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)

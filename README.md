@@ -1,7 +1,7 @@
 ```swift
 class Wesley: Developer {
   let name = "Wesley de Groot"
-  let age = 33
+  let age = 32
   let location: Location = .netherlands
   let languages: [Languages] = [.dutch, .english]
 

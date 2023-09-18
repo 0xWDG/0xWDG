@@ -2,8 +2,8 @@
 class Wesley: Developer {
   let name = "Wesley de Groot"
   let age = 33
-  let location: Location = .netherlands
-  let languages: [Languages] = [.dutch, .english]
+  let location: Location = .Netherlands
+  let languages: [Languages] = [.Dutch, .English]
 
   let programmingLanguages = ["Swift", "Objective-C", "JavaScript", "PHP"]
   let markup = ["HTML", "CSS", ""]
@@ -21,15 +21,17 @@ class Wesley: Developer {
 print(Wesley().details())
 ```
 <details>
-  <summary>The above doesn't compile?</summary>
-  Just add this "missing" code.
+  <summary>// The above doesn't compile?</summary>
+  // Just add this "missing" code.
   
   ```swift
-  enum Location { case netherlands }
-  enum Languages { case dutch, english }
-  class Developer { }
+  class Developer {
+    enum Location { case Netherlands }
+    enum Languages { case Dutch, English }
+  }
   ```
 </details>
+Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PSdsQNm3AgR7iPWitsa1Wlowku7TL%2FntHlu0NHV9GmjePp8fzidWsYKofrAvwxY5GiqCsqeirtfAefqDX%2BKeAO5xQ2wEdnCoDoDGAET3CB6hYwoBE%2BOqsDRVbEaKNgJub9axtPdMXsF86GvNvGDp0WhjpN6Aw7UjbvoCX%2FdofCPzC78ZQdzvgn02rle8OUWpaGpxtneh7ZdptJ65UrPytGpK1I63fjz%2BxDmrCq9t08SAmUdZODQvg6f6pYoeVsxfu1zgklvvnx33C3JZlamZkxDajqcmAIJT2WQ5XH6EMjoQkt2JNwq2A2bTkUqzGrhNQBh6Vc9ZlDhsdhZq2AI%2B6yXndKS0dmgtlLHqmk4tnR9REnah4OqL2CCeorSGqEeH8eneRw8UwoJEZKaqyeY3XYlBBaPUXZV4AXS%2Bkk9Aj5hW9meUr00bpMIzOrKzxlkbn6M9AVoQsxSTL%2BeYTcVxfP3cI4mgnBGnRmzeB1PaD0vgpTh9GTzmSEkKnPNnWK%2B%2FJlIoRSiK%2FBPW%2FgKIZ%2B0vKyAFBRrxKWpKdUFtYFtgSsSVh8yvYjk30o7zj7%2Flbdv4H4O%2Ft7jYDAAA%3D'>Run in SwiftDiffle</a>.
 
 ### Socials
 <a href="https://www.twitter.com/0xWDG" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/0xWDG?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>

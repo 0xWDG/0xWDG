@@ -12,8 +12,7 @@ class Wesley: Developer {
       var details = ""
       for detail in Mirror(reflecting: self).children {
           guard let label = detail.label else { continue }
-          details.append("\(label.capitalized): \(detail.value)
-")
+          details.append("\(label.capitalized): \(detail.value)\n")
       }
       return details
   }
@@ -41,14 +40,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
-<!--
 ### Highlighted Project
 
 [Wesley's Website](https://wesleydegroot.nl)
-(This will come later)
--->
 
 ### Socials
 

@@ -49,6 +49,9 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 -->
 
 ### Stats
+
+[![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
+
 <a href='#stats'><img src='https://streak-stats.demolab.com/?user=0xWDG&hide_border=true&date_format=j-M-Y'></a>
 <table><tr>
   <td><a href='#stats'><img src='https://github-readme-stats.vercel.app/api/?username=0xWDG&count_private=true&show_icons=true'></a></td>

@@ -1,0 +1,26 @@
+name: Update Data
+
+on:
+  schedule:
+    - cron: "0 8,20 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run & Deploy
+        run: |
+          sh ./update.readme.command
+
+      - name: setup github env
+        run: |
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+      - name: push to Github Pages
+        run: |
+          git add --all
+          git commit -m "Automatic Deploy action"
+          git push origin HEAD:main --force

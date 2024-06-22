@@ -1,3 +1,5 @@
+#!/bin/bash
+
 TMPVAL=`curl -s https://wesleydegroot.nl/gh-api`
 TMPRDME=`cat README.template.md`
 echo $TMPVAL

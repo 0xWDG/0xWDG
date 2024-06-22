@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run & Deploy
         run: |
-          sh ./update.readme.command
+          ./update.readme.command
 
       - name: setup github env
         run: |

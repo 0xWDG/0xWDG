@@ -67,6 +67,8 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 ### Stats
 
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
+![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
+![](https://hit.yhype.me/github/profile?user_id=1290461)
 
 <a href='#stats'><img src='https://streak-stats.demolab.com/?user=0xWDG&hide_border=true&date_format=j-M-Y'></a>
 
@@ -74,9 +76,6 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
   <td><a href='#stats'><img src='https://github-readme-stats.vercel.app/api/?username=0xWDG&count_private=true&show_icons=true'></a></td>
   <td><a href='#stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=0xWDG'></a></td>
 </tr></table>
-
-![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
-![](https://hit.yhype.me/github/profile?user_id=1290461)
 
 <!--
 <h3 align="left">Languages and Tools:</h3>

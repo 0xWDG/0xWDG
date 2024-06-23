@@ -36,7 +36,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Handle hyperlinks in SwiftUI](https://wesleydegroot.nl/blog/Handle-hyperlinks-in-SwiftUI)
+<a href="https://wesleydegroot.nl/blog/Handle-hyperlinks-in-SwiftUI" target="_blank">Handle hyperlinks in SwiftUI</a>
 
 ### Highlighted Application
 

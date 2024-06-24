@@ -40,11 +40,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[DynamicUI](https://github.com/0xWDG/DynamicUI)
+[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
 
 ### Socials
 

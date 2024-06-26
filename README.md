@@ -44,7 +44,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
 
 ### Socials
 

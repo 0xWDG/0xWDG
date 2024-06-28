@@ -40,11 +40,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[Just selfie](https://wesleydegroot.nl/apps/Just-Selfie)
 
 ### Highlighted Project
 
-[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Socials
 

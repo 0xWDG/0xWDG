@@ -40,7 +40,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
 
 ### Highlighted Project
 

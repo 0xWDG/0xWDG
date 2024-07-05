@@ -36,15 +36,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Handle hyperlinks in SwiftUI](https://wesleydegroot.nl/blog/Handle-hyperlinks-in-SwiftUI)
+[Loging using OSLog](https://wesleydegroot.nl/blog/OSLog)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
+[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
 
 ### Socials
 

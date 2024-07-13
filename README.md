@@ -40,11 +40,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[Dreamlight Valley Guide](https://wesleydegroot.nl/apps/ddv)
 
 ### Highlighted Project
 
-[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Socials
 

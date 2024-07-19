@@ -36,15 +36,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[@Environment variables](https://wesleydegroot.nl/blog/@Environment)
+[@ViewBuilder in Swift](https://wesleydegroot.nl/blog/@ViewBuilder)
 
 ### Highlighted Application
 
-[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
+[Just selfie](https://wesleydegroot.nl/apps/Just-Selfie)
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
 
 ### Socials
 

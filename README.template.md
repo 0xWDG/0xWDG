@@ -50,11 +50,9 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 <a href="https://www.twitter.com/0xWDG" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/0xWDG?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 <a href="https://www.github.com/0xWDG" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/0xWDG?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<a href="https://wesleydegroot.nl" target="_blank" rel="noreferrer">WesleyDeGroot.nl</a>
 
-### Websites
-
-<a href="https://wesleydegroot.nl" target="_blank" rel="noreferrer">WesleyDeGroot.nl</a> (personal website), <a href="https://wdg.codes" target="_blank" rel="noreferrer">wdg.codes</a> (Blog)
-
+<!--
 ### I'm working on
 
 [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor), [CodeEdit](https://github.com/CodeEditApp/CodeEdit), And many more...

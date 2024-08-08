@@ -46,11 +46,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 {{HIGHLIGHTEDPROJECT}}
 
-### Socials
+### Connect
 
-<a href="https://www.twitter.com/0xWDG" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/0xWDG?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<a href="https://mastodon.social/@0xWDG" target="_blank" rel="noreferrer"><img src="https://img.shields.io/mastodon/follow/109083228102657977?logo=mastodon&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<a href="https://discordapp.com/users/918438083861573692" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/0xWDG?logo=discord&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/0xWDG" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/0xWDG?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a><br />
 <a href="https://www.github.com/0xWDG" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/0xWDG?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
-<a href="https://wesleydegroot.nl" target="_blank" rel="noreferrer">WesleyDeGroot.nl</a>
+<a href="https://wesleydegroot.nl" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Website-wesleydegroot.nl-blue?style=for-the-badge" />
+</a>
 
 <!--
 ### I'm working on
@@ -82,5 +86,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 <h3 align="left">More stats:</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=0xWDG&no-bg=true&no-frame=true" alt="GHPS">
 -->
+
+Interested learning more about Swift? [Check out my blog](https://wesleydegroot.nl/blog/).
 
 ### Pinned repo's:

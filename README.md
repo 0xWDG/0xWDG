@@ -36,11 +36,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[What is @frozen](https://wesleydegroot.nl/blog/@frozen)
+[iOS Settings URL's](https://wesleydegroot.nl/blog/iOS-settings-URLs)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 

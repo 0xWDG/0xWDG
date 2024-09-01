@@ -40,11 +40,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Application
 
-[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
 
 ### Connect
 

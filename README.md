@@ -36,15 +36,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Why You Should Avoid Using `AnyView` in SwiftUI](https://wesleydegroot.nl/blog/Why-you-should-avoid-AnyView-in-SwiftUI)
+[Why You Should Avoid Using AnyView in SwiftUI](https://wesleydegroot.nl/blog/Why-you-should-avoid-AnyView-in-SwiftUI)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
 
 ### Highlighted Project
 
-[Colors](https://github.com/0xWDG/Colors)
+[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
 
 ### Connect
 

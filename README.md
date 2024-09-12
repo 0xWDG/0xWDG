@@ -40,11 +40,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Application
 
-[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/AM2D)
 
 ### Highlighted Project
 
-[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 

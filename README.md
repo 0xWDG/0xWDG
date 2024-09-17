@@ -36,15 +36,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[A Guide to UI Testing in Swift](https://wesleydegroot.nl/blog/UI-Testing-in-Swift)
+[Understanding assertions in Swift](https://wesleydegroot.nl/blog/Understanding-assertions-in-Swift)
 
 ### Highlighted Application
 
-[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
+[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
 
 ### Highlighted Project
 
-[build-documentation](https://github.com/0xWDG/build-documentation)
+[Inspect](https://github.com/0xWDG/Inspect)
 
 ### Connect
 

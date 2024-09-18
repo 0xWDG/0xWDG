@@ -40,11 +40,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Application
 
-[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[Inspect](https://github.com/0xWDG/Inspect)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 
@@ -68,7 +68,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Stats
 
-185 ⭐️, 29 Forks.  
+186 ⭐️, 30 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

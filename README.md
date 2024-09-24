@@ -36,15 +36,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Understanding assertions in Swift](https://wesleydegroot.nl/blog/Understanding-assertions-in-Swift)
+[Safely unwrap optional values in SwiftUI bindings](https://wesleydegroot.nl/blog/Safely-unwrap-optional-values-in-SwiftUI-bindings)
 
 ### Highlighted Application
 
-[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/AM2D)
 
 ### Highlighted Project
 
-[Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 
@@ -68,7 +68,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Stats
 
-190 ⭐️, 30 Forks.  
+190 ⭐️, 31 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

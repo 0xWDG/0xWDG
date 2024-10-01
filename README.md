@@ -36,15 +36,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Safely unwrap optional values in SwiftUI bindings](https://wesleydegroot.nl/blog/Safely-unwrap-optional-values-in-SwiftUI-bindings)
+[Hacktoberfest 2024](https://wesleydegroot.nl/blog/Hacktoberfest-2024)
 
 ### Highlighted Application
 
-[Dreamlight Valley Guide](https://wesleydegroot.nl/apps/ddv)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/AM2D)
 
 ### Highlighted Project
 
-[Colors](https://github.com/0xWDG/Colors)
+[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
 
 ### Connect
 

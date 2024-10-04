@@ -36,15 +36,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Simplifying multiplatform Colors](https://wesleydegroot.nl/blog/Swift-Package-Colors)
+[Simplifying App Onboarding with OnboardingKit](https://wesleydegroot.nl/blog/Swift-Package-OnboardingKit)
 
 ### Highlighted Application
 
-[Dreamlight Valley Guide](https://wesleydegroot.nl/apps/ddv)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[Inspect](https://github.com/0xWDG/Inspect)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

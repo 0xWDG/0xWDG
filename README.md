@@ -36,15 +36,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Enhancing SwiftUI with CachedAsyncImage](https://wesleydegroot.nl/blog/Swift-Package-CachedAsyncImage)
+[Inspect: A Powerful Tool for SwiftUI Developers](https://wesleydegroot.nl/blog/Swift-Package-Inspect)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[Just selfie](https://wesleydegroot.nl/apps/Just-Selfie)
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

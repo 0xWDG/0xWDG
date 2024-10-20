@@ -6,7 +6,7 @@ class Wesley: Developer {
   let languages: [Languages] = [.Dutch, .English]
 
   let programmingLanguages = ["Swift", "Objective-C", "JavaScript", "PHP"]
-  let markup = ["HTML", "CSS", ""]
+  let markup = ["HTML", "CSS"]
 
   func details() -> String {
       var details = ""
@@ -40,11 +40,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
 
 ### Connect
 

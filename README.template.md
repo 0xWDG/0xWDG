@@ -6,7 +6,7 @@ class Wesley: Developer {
   let languages: [Languages] = [.Dutch, .English]
 
   let programmingLanguages = ["Swift", "Objective-C", "JavaScript", "PHP"]
-  let markup = ["HTML", "CSS", ""]
+  let markup = ["HTML", "CSS"]
 
   func details() -> String {
       var details = ""

@@ -36,15 +36,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Translation framework in Swift](https://wesleydegroot.nl/blog/Translation-framework-in-Swift)
+[Building an Asynchronous Button in SwiftUI](https://wesleydegroot.nl/blog/async-buttons-in-SwiftUI)
 
 ### Highlighted Application
 
-[Just selfie](https://wesleydegroot.nl/apps/Just-Selfie)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
 
 ### Connect
 

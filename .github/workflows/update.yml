@@ -6,7 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  update:
+    timeout-minutes: 5 # More than 5 minutes is not good.
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

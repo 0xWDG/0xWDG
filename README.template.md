@@ -38,6 +38,10 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 {{BLOGPOST}}
 
+### Random Blog Post
+
+{{RND_BLOGPOST}}
+
 ### Highlighted Application
 
 {{HIGHLIGHTEDAPPLICATION}}

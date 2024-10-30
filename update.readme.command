@@ -6,6 +6,7 @@ TMPRDME=`cat README.template.md`
 echo $TMPVAL
 
 TMP_BLOG="[`jq -r '.blog.title' <<< $TMPVAL`](`jq -r '.blog.url' <<< $TMPVAL`)"
+RND_BLOG="[`jq -r '.random_blog.title' <<< $TMPVAL`](`jq -r '.random_blog.url' <<< $TMPVAL`)"
 
 TMP_APP="[`jq -r '.app.name' <<< $TMPVAL`](`jq -r '.app.url' <<< $TMPVAL`)"
 
@@ -16,6 +17,9 @@ TOTAL_FORKS="`jq -r '.forks' <<< $STATS`"
 
 # Replace {{BLOGPOST}} with the latest blog post
 TMPRDME="${TMPRDME//\{\{BLOGPOST\}\}/$TMP_BLOG}"
+
+# Replace {{RND_BLOGPOST}} with the latest blog post
+TMPRDME="${TMPRDME//\{\{RND_BLOGPOST\}\}/$RND_BLOG}"
 
 # Replace {{HIGHLIGHTEDAPPLICATION}} with the latest app
 TMPRDME="${TMPRDME//\{\{HIGHLIGHTEDAPPLICATION\}\}/$TMP_APP}"

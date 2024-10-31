@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Handle hyperlinks in SwiftUI](https://wesleydegroot.nl/blog/Handle-hyperlinks-in-SwiftUI)
+[SwiftLeeds 2024, Day 2](https://wesleydegroot.nl/blog/SwiftLeeds-2024-2)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[Dreamlight Valley Guide](https://wesleydegroot.nl/apps/ddv)
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[tvOS.js](https://github.com/0xWDG/tvOS.js)
 
 ### Connect
 

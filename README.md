@@ -40,7 +40,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[SwiftLeeds 2024, Day 2](https://wesleydegroot.nl/blog/SwiftLeeds-2024-2)
+[Dive into GIT](https://wesleydegroot.nl/blog/GIT)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
 
 ### Connect
 

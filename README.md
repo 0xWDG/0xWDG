@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Building an Asynchronous Button in SwiftUI](https://wesleydegroot.nl/blog/async-buttons-in-SwiftUI)
+[Exploring the .inspector Modifier in SwiftUI](https://wesleydegroot.nl/blog/the-inspector-modifier-in-SwiftUI)
 
 ### Random Blog Post
 
-[Default values for UserDefaults](https://wesleydegroot.nl/blog/Default-values-for-UserDefaults)
+[Xcode shortcuts](https://wesleydegroot.nl/blog/Xcode-shortcuts)
 
 ### Highlighted Application
 
-[Just selfie](https://wesleydegroot.nl/apps/Just-Selfie)
+[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
 
 ### Highlighted Project
 
-[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 

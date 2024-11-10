@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Easy Publishers](https://wesleydegroot.nl/blog/Easy-Publishers)
+[Subscripts in Swift](https://wesleydegroot.nl/blog/Subscript-in-Swift)
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[Dreamlight Valley Guide](https://wesleydegroot.nl/apps/ddv)
 
 ### Highlighted Project
 
-[Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
+[Colors](https://github.com/0xWDG/Colors)
 
 ### Connect
 

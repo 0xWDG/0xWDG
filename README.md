@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Subscripts in Swift](https://wesleydegroot.nl/blog/Subscript-in-Swift)
+[Aurora Editor](https://wesleydegroot.nl/blog/Aurora-Editor)
 
 ### Highlighted Application
 
-[Dreamlight Valley Guide](https://wesleydegroot.nl/apps/ddv)
+[Just selfie](https://wesleydegroot.nl/apps/Just-Selfie)
 
 ### Highlighted Project
 
-[Colors](https://github.com/0xWDG/Colors)
+[tvOS.js](https://github.com/0xWDG/tvOS.js)
 
 ### Connect
 

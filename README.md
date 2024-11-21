@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Swipe actions in Swift](https://wesleydegroot.nl/blog/Swipe-actions-in-Swift)
+[New Website](https://wesleydegroot.nl/blog/new-website)
 
 ### Highlighted Application
 
-[Just selfie](https://wesleydegroot.nl/apps/Just-Selfie)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[Inspect](https://github.com/0xWDG/Inspect)
+[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
 
 ### Connect
 

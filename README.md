@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Aurora Editor](https://wesleydegroot.nl/blog/Aurora-Editor)
+[Translating closures to async](https://wesleydegroot.nl/blog/Closures-to-Async)
 
 ### Highlighted Application
 
-[Dreamlight Valley Guide](https://wesleydegroot.nl/apps/ddv)
+[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
 
 ### Highlighted Project
 
-[Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
+[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
 
 ### Connect
 

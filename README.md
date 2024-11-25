@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Pull-to-Refresh in SwiftUI](https://wesleydegroot.nl/blog/Pull-to-Refresh-in-SwiftUI)
+[Simplifying Game Controller Integration with GameControllerKit](https://wesleydegroot.nl/blog/Swift-Package-GameControllerKit)
 
 ### Highlighted Application
 
-[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/AM2D)
 
 ### Highlighted Project
 
-[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
+[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Stats
 
-My projects have 218 ⭐️, and 34 Forks.  
+My projects have 219 ⭐️, and 34 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

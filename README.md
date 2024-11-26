@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Creating a dynamic user interface for extensions in Aurora Editor](https://wesleydegroot.nl/blog/Creating-a-dynamic-ui-for-extensions-in-Aurora-Editor)
+[Understanding Sendable in Swift](https://wesleydegroot.nl/blog/Sendable-in-Swift)
 
 ### Random Blog Post
 
-[Simplifying Game Controller Integration with GameControllerKit](https://wesleydegroot.nl/blog/Swift-Package-GameControllerKit)
+[OTP Code Generation with CryptoKit: A Swift Approach](https://wesleydegroot.nl/blog/CryptoKit-TOTP)
 
 ### Highlighted Application
 
-[Apple Music 2 Discord](https://wesleydegroot.nl/apps/AM2D)
+[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
 
 ### Highlighted Project
 
-[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

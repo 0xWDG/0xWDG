@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Implementing Admob in SwiftUI](https://wesleydegroot.nl/blog/Admob-in-SwiftUI)
+[TipKit](https://wesleydegroot.nl/blog/TipKit)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 

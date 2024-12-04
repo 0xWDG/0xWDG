@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Dive into GIT](https://wesleydegroot.nl/blog/GIT)
+[OTP Code Generation with CryptoKit: A Swift Approach](https://wesleydegroot.nl/blog/CryptoKit-TOTP)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[Just selfie](https://wesleydegroot.nl/apps/Just-Selfie)
 
 ### Highlighted Project
 
-[build-documentation](https://github.com/0xWDG/build-documentation)
+[Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
 
 ### Connect
 

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Safari in SwiftUI](https://wesleydegroot.nl/blog/Safari-in-SwiftUI)
+[Enhancing SwiftUI with CachedAsyncImage](https://wesleydegroot.nl/blog/Swift-Package-CachedAsyncImage)
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 

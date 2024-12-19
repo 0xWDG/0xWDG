@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[SwiftUI ViewModifiers](https://wesleydegroot.nl/blog/SwiftUI-ViewModifiers)
+[@dynamicMemberLookup](https://wesleydegroot.nl/blog/@dynamicMemberLookup)
 
 ### Highlighted Application
 
-[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
+[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
 
 ### Highlighted Project
 
-[Apple-Music-to-Discord](https://github.com/0xWDG/Apple-Music-to-Discord)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Stats
 
-My projects have 229 ⭐️, and 34 Forks.  
+My projects have 230 ⭐️, and 35 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

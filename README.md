@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[@dynamicMemberLookup](https://wesleydegroot.nl/blog/@dynamicMemberLookup)
+[Creating a dynamic user interface for extensions in Aurora Editor](https://wesleydegroot.nl/blog/Creating-a-dynamic-ui-for-extensions-in-Aurora-Editor)
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[DynamicUI](https://github.com/0xWDG/DynamicUI)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 

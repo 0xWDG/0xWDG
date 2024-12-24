@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Deep linking in SwiftUI](https://wesleydegroot.nl/blog/Deep-linking-in-SwiftUI)
+[Navigation in SwiftUI](https://wesleydegroot.nl/blog/Navigation-in-SwiftUI)
 
 ### Random Blog Post
 
-[Subscripts in Swift](https://wesleydegroot.nl/blog/Subscript-in-Swift)
+[Simplifying multiplatform Colors](https://wesleydegroot.nl/blog/Swift-Package-Colors)
 
 ### Highlighted Application
 
-[Dreamlight Valley Guide](https://wesleydegroot.nl/apps/ddv)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[Colors](https://github.com/0xWDG/Colors)
+[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Stats
 
-My projects have 231 ⭐️, and 35 Forks.  
+My projects have 232 ⭐️, and 35 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

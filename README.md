@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Simplifying multiplatform Colors](https://wesleydegroot.nl/blog/Swift-Package-Colors)
+[If case let](https://wesleydegroot.nl/blog/if-case-let)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
 
 ### Highlighted Project
 
-[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
+[ImagePicker](https://github.com/0xWDG/ImagePicker)
 
 ### Connect
 

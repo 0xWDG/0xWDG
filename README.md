@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[If case let](https://wesleydegroot.nl/blog/if-case-let)
+[Understanding Sendable in Swift](https://wesleydegroot.nl/blog/Sendable-in-Swift)
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/AM2D)
 
 ### Highlighted Project
 
-[ImagePicker](https://github.com/0xWDG/ImagePicker)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 

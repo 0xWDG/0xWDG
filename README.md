@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Understanding Sendable in Swift](https://wesleydegroot.nl/blog/Sendable-in-Swift)
+[New Website](https://wesleydegroot.nl/blog/new-website)
 
 ### Highlighted Application
 
-[Apple Music 2 Discord](https://wesleydegroot.nl/apps/AM2D)
+[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
 
 ### Connect
 

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Enhancing SwiftUI with CachedAsyncImage](https://wesleydegroot.nl/blog/Swift-Package-CachedAsyncImage)
+[Localizing In Xcode](https://wesleydegroot.nl/blog/Localizing-in-Xcode)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/AM2D)
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[Apple-Music-to-Discord](https://github.com/0xWDG/Apple-Music-to-Discord)
 
 ### Connect
 

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Localizing In Xcode](https://wesleydegroot.nl/blog/Localizing-in-Xcode)
+[Inspect: A Powerful Tool for SwiftUI Developers](https://wesleydegroot.nl/blog/Swift-Package-Inspect)
 
 ### Highlighted Application
 
-[Apple Music 2 Discord](https://wesleydegroot.nl/apps/AM2D)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[Apple-Music-to-Discord](https://github.com/0xWDG/Apple-Music-to-Discord)
+[tvOS.js](https://github.com/0xWDG/tvOS.js)
 
 ### Connect
 

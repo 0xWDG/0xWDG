@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[It's a wrap (2024)](https://wesleydegroot.nl/blog/Its-a-wrap-2024)
+[Apple version numbers](https://wesleydegroot.nl/blog/Apple-version-numbers)
 
 ### Random Blog Post
 
-[ExpressibleByStringLiteral URL](https://wesleydegroot.nl/blog/ExpressibleByStringLiteral-URL)
+[SimpleNetworking](https://wesleydegroot.nl/blog/SimpleNetworking)
 
 ### Highlighted Application
 
-[Just selfie](https://wesleydegroot.nl/apps/Just-Selfie)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[ImagePicker](https://github.com/0xWDG/ImagePicker)
 
 ### Connect
 

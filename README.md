@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[SimpleNetworking](https://wesleydegroot.nl/blog/SimpleNetworking)
+[Implementing Admob in SwiftUI](https://wesleydegroot.nl/blog/Admob-in-SwiftUI)
 
 ### Highlighted Application
 
-[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
+[Dreamlight Valley Guide](https://wesleydegroot.nl/apps/ddv)
 
 ### Highlighted Project
 
-[ImagePicker](https://github.com/0xWDG/ImagePicker)
+[tvOS.js](https://github.com/0xWDG/tvOS.js)
 
 ### Connect
 

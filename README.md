@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[@Environment variables](https://wesleydegroot.nl/blog/@Environment)
+[Easy Publishers](https://wesleydegroot.nl/blog/Easy-Publishers)
 
 ### Highlighted Application
 
-[Calendo](https://wesleydegroot.nl/apps/Calendo)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
 
 ### Connect
 

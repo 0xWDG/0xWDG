@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Snippet: @EnvironmentVariable](https://wesleydegroot.nl/blog/@EnvironmentVariable)
+[Simplifying App Onboarding with OnboardingKit](https://wesleydegroot.nl/blog/Swift-Package-OnboardingKit)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[Dreamlight Valley Guide](https://wesleydegroot.nl/apps/ddv)
 
 ### Highlighted Project
 
-[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
+[ImagePicker](https://github.com/0xWDG/ImagePicker)
 
 ### Connect
 

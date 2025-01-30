@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[self, Self, and Self.self in Swift](https://wesleydegroot.nl/blog/self-Self-Self.self-in-Swift)
+[Appril Festival 2024](https://wesleydegroot.nl/blog/Appril-festival-2024)
 
 ### Highlighted Application
 
-[Calendo](https://wesleydegroot.nl/apps/Calendo)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
 
 ### Connect
 

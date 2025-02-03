@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[How to monitor network in SwiftUI](https://wesleydegroot.nl/blog/Monitor-network-in-SwiftUI)
+[Snippet: @EnvironmentVariable](https://wesleydegroot.nl/blog/@EnvironmentVariable)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[build-documentation](https://github.com/0xWDG/build-documentation)
+[Inspect](https://github.com/0xWDG/Inspect)
 
 ### Connect
 

@@ -36,11 +36,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Using MetricKit](https://wesleydegroot.nl/blog/MetricKit)
+[iOS App States](https://wesleydegroot.nl/blog/App-States-in-iOS)
 
 ### Random Blog Post
 
-[Snippet: @EnvironmentVariable](https://wesleydegroot.nl/blog/@EnvironmentVariable)
+[OTP Code Generation with CryptoKit: A Swift Approach](https://wesleydegroot.nl/blog/CryptoKit-TOTP)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Project
 
-[Inspect](https://github.com/0xWDG/Inspect)
+[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
 
 ### Connect
 

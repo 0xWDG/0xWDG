@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[ContentUnavailableView](https://wesleydegroot.nl/blog/ContentUnavailableView)
+[Dive into GIT](https://wesleydegroot.nl/blog/GIT)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
 
 ### Connect
 

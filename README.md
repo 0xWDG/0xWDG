@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Dive into GIT](https://wesleydegroot.nl/blog/GIT)
+[Implementing Admob in SwiftUI](https://wesleydegroot.nl/blog/Admob-in-SwiftUI)
 
 ### Highlighted Application
 
-[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
 
 ### Highlighted Project
 
-[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Stats
 
-My projects have 263 ⭐️, and 33 Forks.  
+My projects have 264 ⭐️, and 33 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

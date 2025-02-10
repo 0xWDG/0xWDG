@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Accessibility in SwiftUI](https://wesleydegroot.nl/blog/Accessibility-in-SwiftUI)
+[Apple version numbers](https://wesleydegroot.nl/blog/Apple-version-numbers)
 
 ### Highlighted Application
 
-[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
+[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
 
 ### Highlighted Project
 
-[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 

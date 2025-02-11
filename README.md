@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[iOS App States](https://wesleydegroot.nl/blog/App-States-in-iOS)
+[Controllig login and background items](https://wesleydegroot.nl/blog/Controlling-login-and-background-items)
 
 ### Random Blog Post
 
-[Apple version numbers](https://wesleydegroot.nl/blog/Apple-version-numbers)
+[Simplifying Game Controller Integration with GameControllerKit](https://wesleydegroot.nl/blog/Swift-Package-GameControllerKit)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
 
 ### Connect
 

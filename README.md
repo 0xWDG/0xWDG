@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Simplifying Game Controller Integration with GameControllerKit](https://wesleydegroot.nl/blog/Swift-Package-GameControllerKit)
+[ExpressibleByStringLiteral URL](https://wesleydegroot.nl/blog/ExpressibleByStringLiteral-URL)
 
 ### Highlighted Application
 
-[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 

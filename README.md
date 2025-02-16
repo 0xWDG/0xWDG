@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Default values for UserDefaults](https://wesleydegroot.nl/blog/Default-values-for-UserDefaults)
+[@dynamicMemberLookup](https://wesleydegroot.nl/blog/@dynamicMemberLookup)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[Inspect](https://github.com/0xWDG/Inspect)
 
 ### Connect
 

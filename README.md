@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Understanding reducers in Swift](https://wesleydegroot.nl/blog/Understanding-reducers-in-Swift)
+[Simplifying App Onboarding with OnboardingKit](https://wesleydegroot.nl/blog/Swift-Package-OnboardingKit)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
 
 ### Highlighted Project
 
-[SecureStorage](https://github.com/0xWDG/SecureStorage)
+[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
 
 ### Connect
 

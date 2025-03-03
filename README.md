@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Xcode shortcuts](https://wesleydegroot.nl/blog/Xcode-shortcuts)
+[Pull-to-Refresh in SwiftUI](https://wesleydegroot.nl/blog/Pull-to-Refresh-in-SwiftUI)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[Colors](https://github.com/0xWDG/Colors)
+[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
 
 ### Connect
 

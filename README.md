@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Expressible Literals](https://wesleydegroot.nl/blog/expressible-literals)
+[JavaScriptCore](https://wesleydegroot.nl/blog/JavaScriptCore)
 
 ### Random Blog Post
 
-[Pull-to-Refresh in SwiftUI](https://wesleydegroot.nl/blog/Pull-to-Refresh-in-SwiftUI)
+[Safari in SwiftUI](https://wesleydegroot.nl/blog/Safari-in-SwiftUI)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
+[ImagePicker](https://github.com/0xWDG/ImagePicker)
 
 ### Connect
 

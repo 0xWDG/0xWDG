@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[CoreSpotlight](https://wesleydegroot.nl/blog/CoreSpotlight)
+[ContentUnavailableView](https://wesleydegroot.nl/blog/ContentUnavailableView)
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[Colors](https://github.com/0xWDG/Colors)
+[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
 
 ### Connect
 

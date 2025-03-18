@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[NavigationStack](https://wesleydegroot.nl/blog/NavigationStack)
+[Build a personal brand as developer](https://wesleydegroot.nl/blog/Build-a-personal-brand-as-developer)
 
 ### Random Blog Post
 
-[iOS App States](https://wesleydegroot.nl/blog/App-States-in-iOS)
+[MacOS Terminal Commands](https://wesleydegroot.nl/blog/macOS-Terminal-commands)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 

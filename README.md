@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Building an Asynchronous Button in SwiftUI](https://wesleydegroot.nl/blog/async-buttons-in-SwiftUI)
+[SwiftUI Development with DynamicUI](https://wesleydegroot.nl/blog/Swift-Package-DynamicUI)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[DynamicUI](https://github.com/0xWDG/DynamicUI)
+[Colors](https://github.com/0xWDG/Colors)
 
 ### Connect
 

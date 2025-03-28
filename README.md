@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[SwiftUI property wrappers](https://wesleydegroot.nl/blog/SwiftUI-property-wrappers)
+[Exploring the .inspector Modifier in SwiftUI](https://wesleydegroot.nl/blog/the-inspector-modifier-in-SwiftUI)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[iCloudStorage](https://github.com/0xWDG/iCloudStorage)
+[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
 
 ### Connect
 

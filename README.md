@@ -36,11 +36,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Fixing slow scrolling in Calendo](https://wesleydegroot.nl/blog/Fixing-slow-scrolling-in-Calendo)
+[Dutch.swift](https://wesleydegroot.nl/blog/Dutch.swift)
 
 ### Random Blog Post
 
-[Why You Should Avoid Using AnyView in SwiftUI](https://wesleydegroot.nl/blog/Why-you-should-avoid-AnyView-in-SwiftUI)
+[Swipe actions in Swift](https://wesleydegroot.nl/blog/Swipe-actions-in-Swift)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Project
 
-[SwiftCronParser](https://github.com/0xWDG/SwiftCronParser)
+[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Stats
 
-My projects have 304 ⭐️, and 33 Forks.  
+My projects have 311 ⭐️, and 33 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

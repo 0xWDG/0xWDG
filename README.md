@@ -36,7 +36,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Dutch.swift](https://wesleydegroot.nl/blog/Dutch.swift)
+[Building iWebTools](https://wesleydegroot.nl/blog/Building-iWebTools)
 
 ### Random Blog Post
 
@@ -44,11 +44,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
 
 ### Highlighted Project
 
-[CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 

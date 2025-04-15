@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Building iWebTools](https://wesleydegroot.nl/blog/Building-iWebTools)
+[NumberFormatter](https://wesleydegroot.nl/blog/NumberFormatter)
 
 ### Random Blog Post
 
-[Snippet: @EnvironmentVariable](https://wesleydegroot.nl/blog/@EnvironmentVariable)
+[Mastering animations in SwiftUI](https://wesleydegroot.nl/blog/Animations-in-SwiftUI)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
+[iCloudStorage](https://github.com/0xWDG/iCloudStorage)
 
 ### Connect
 

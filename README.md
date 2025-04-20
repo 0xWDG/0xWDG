@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[self, Self, and Self.self in Swift](https://wesleydegroot.nl/blog/self-Self-Self.self-in-Swift)
+[Building iWebTools](https://wesleydegroot.nl/blog/Building-iWebTools)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[Colors](https://github.com/0xWDG/Colors)
+[PHPFramework](https://github.com/0xWDG/PHPFramework)
 
 ### Connect
 

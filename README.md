@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[NumberFormatter](https://wesleydegroot.nl/blog/NumberFormatter)
+[Tips and ideas to start your own blog](https://wesleydegroot.nl/blog/Start-your-own-blog)
 
 ### Random Blog Post
 
-[async/await](https://wesleydegroot.nl/blog/async-await)
+[Translation framework in Swift](https://wesleydegroot.nl/blog/Translation-framework-in-Swift)
 
 ### Highlighted Application
 
-[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
+[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
 
 ### Highlighted Project
 
-[SecureStorage](https://github.com/0xWDG/SecureStorage)
+[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
 
 ### Connect
 

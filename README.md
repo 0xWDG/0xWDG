@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Translation framework in Swift](https://wesleydegroot.nl/blog/Translation-framework-in-Swift)
+[TipKit](https://wesleydegroot.nl/blog/TipKit)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
 
 ### Highlighted Project
 
-[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
+[tvOS.js](https://github.com/0xWDG/tvOS.js)
 
 ### Connect
 

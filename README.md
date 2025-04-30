@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Hacktoberfest 2024](https://wesleydegroot.nl/blog/Hacktoberfest-2024)
+[Contact Provider Extension](https://wesleydegroot.nl/blog/ContactProvider)
 
 ### Highlighted Application
 
-[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 

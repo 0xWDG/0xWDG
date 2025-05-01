@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Contact Provider Extension](https://wesleydegroot.nl/blog/ContactProvider)
+[How to monitor network in SwiftUI](https://wesleydegroot.nl/blog/Monitor-network-in-SwiftUI)
 
 ### Highlighted Application
 
-[Calendo](https://wesleydegroot.nl/apps/Calendo)
+[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
 
 ### Highlighted Project
 
-[SecureStorage](https://github.com/0xWDG/SecureStorage)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

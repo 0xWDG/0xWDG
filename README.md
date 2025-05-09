@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[SwiftUI ViewModifiers](https://wesleydegroot.nl/blog/SwiftUI-ViewModifiers)
+[SimpleNetworking](https://wesleydegroot.nl/blog/SimpleNetworking)
 
 ### Highlighted Application
 
-[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
+[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
 
 ### Highlighted Project
 
-[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 

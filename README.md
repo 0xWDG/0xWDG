@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[ContentUnavailableView](https://wesleydegroot.nl/blog/ContentUnavailableView)
+[Appril Festival 2024](https://wesleydegroot.nl/blog/Appril-festival-2024)
 
 ### Highlighted Application
 
-[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
+[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
 
 ### Highlighted Project
 
-[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 

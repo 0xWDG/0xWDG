@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Building xcstrings-translator](https://wesleydegroot.nl/blog/)
+[Customizing macOS windows](https://wesleydegroot.nl/blog/Customizing-macOS-windows)
 
 ### Random Blog Post
 
-[TipKit](https://wesleydegroot.nl/blog/TipKit)
+[Customizing macOS windows](https://wesleydegroot.nl/blog/Customizing-macOS-windows)
 
 ### Highlighted Application
 
-[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Stats
 
-My projects have 320 ⭐️, and 33 Forks.  
+My projects have 321 ⭐️, and 33 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

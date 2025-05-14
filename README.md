@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Customizing macOS windows](https://wesleydegroot.nl/blog/Customizing-macOS-windows)
+[Loging using OSLog](https://wesleydegroot.nl/blog/OSLog)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
 
 ### Highlighted Project
 
-[FilePicker](https://github.com/0xWDG/FilePicker)
+[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
 
 ### Connect
 

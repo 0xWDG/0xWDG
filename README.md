@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Build a personal brand as developer](https://wesleydegroot.nl/blog/Build-a-personal-brand-as-developer)
+[Handle hyperlinks in SwiftUI](https://wesleydegroot.nl/blog/Handle-hyperlinks-in-SwiftUI)
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[build-documentation](https://github.com/0xWDG/build-documentation)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 

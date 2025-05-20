@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Customizing macOS windows](https://wesleydegroot.nl/blog/Customizing-macOS-windows)
+[Creating macOS Menu Bar App in SwiftUI](https://wesleydegroot.nl/blog/Creating-macOS-menu-bar-app)
 
 ### Random Blog Post
 
-[LabeledContent in SwiftUI](https://wesleydegroot.nl/blog/LabeledContent-in-SwiftUI)
+[Building Calendo](https://wesleydegroot.nl/blog/Building-Calendo)
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
 
 ### Highlighted Project
 
-[build-documentation](https://github.com/0xWDG/build-documentation)
+[SwiftCronParser](https://github.com/0xWDG/SwiftCronParser)
 
 ### Connect
 

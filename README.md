@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Safari in SwiftUI](https://wesleydegroot.nl/blog/Safari-in-SwiftUI)
+[Translating closures to async](https://wesleydegroot.nl/blog/Closures-to-Async)
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
+[tvOS.js](https://github.com/0xWDG/tvOS.js)
 
 ### Connect
 

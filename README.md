@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Creating macOS Menu Bar App in SwiftUI](https://wesleydegroot.nl/blog/Creating-macOS-menu-bar-app)
+[Popovers in SwiftUI](https://wesleydegroot.nl/blog/Popovers-in-SwiftUI)
 
 ### Random Blog Post
 
-[Dutch.swift](https://wesleydegroot.nl/blog/Dutch.swift)
+[New Website](https://wesleydegroot.nl/blog/new-website)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
 
 ### Highlighted Project
 
-[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
+[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
 
 ### Connect
 

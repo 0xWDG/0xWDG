@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[New Website](https://wesleydegroot.nl/blog/new-website)
+[Dive into GIT](https://wesleydegroot.nl/blog/GIT)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 

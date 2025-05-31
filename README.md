@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[A Guide to UI Testing in Swift](https://wesleydegroot.nl/blog/UI-Testing-in-Swift)
+[MacOS Terminal Commands](https://wesleydegroot.nl/blog/macOS-Terminal-commands)
 
 ### Highlighted Application
 
-[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
+[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[Colors](https://github.com/0xWDG/Colors)
 
 ### Connect
 

@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Popovers in SwiftUI](https://wesleydegroot.nl/blog/Popovers-in-SwiftUI)
+[Handle plurals in Swift with inflection](https://wesleydegroot.nl/blog/Handle-plurals-in-Swift-with-inflection)
 
 ### Random Blog Post
 
-[Simplifying Game Controller Integration with GameControllerKit](https://wesleydegroot.nl/blog/Swift-Package-GameControllerKit)
+[Aurora Editor](https://wesleydegroot.nl/blog/Aurora-Editor)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 

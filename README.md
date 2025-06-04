@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Aurora Editor](https://wesleydegroot.nl/blog/Aurora-Editor)
+[Popovers in SwiftUI](https://wesleydegroot.nl/blog/Popovers-in-SwiftUI)
 
 ### Highlighted Application
 
-[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[FilePicker](https://github.com/0xWDG/FilePicker)
+[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
 
 ### Connect
 

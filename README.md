@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Popovers in SwiftUI](https://wesleydegroot.nl/blog/Popovers-in-SwiftUI)
+[Building iWebTools](https://wesleydegroot.nl/blog/Building-iWebTools)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 

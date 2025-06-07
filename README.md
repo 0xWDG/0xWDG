@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[SwiftLeeds 2024 (day 1)](https://wesleydegroot.nl/blog/SwiftLeeds-2024-1)
+[Popovers in SwiftUI](https://wesleydegroot.nl/blog/Popovers-in-SwiftUI)
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[PHPFramework](https://github.com/0xWDG/PHPFramework)
+[tvOS.js](https://github.com/0xWDG/tvOS.js)
 
 ### Connect
 

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Popovers in SwiftUI](https://wesleydegroot.nl/blog/Popovers-in-SwiftUI)
+[Dutch.swift](https://wesleydegroot.nl/blog/Dutch.swift)
 
 ### Highlighted Application
 
-[Calendo](https://wesleydegroot.nl/apps/Calendo)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[iCloudStorage](https://github.com/0xWDG/iCloudStorage)
 
 ### Connect
 

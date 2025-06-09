@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Dutch.swift](https://wesleydegroot.nl/blog/Dutch.swift)
+[Implementing Sign in with Apple](https://wesleydegroot.nl/blog/Implementing-Sign-in-with-Apple)
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[iCloudStorage](https://github.com/0xWDG/iCloudStorage)
+[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
 
 ### Connect
 

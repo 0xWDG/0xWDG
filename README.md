@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Handle plurals in Swift with inflection](https://wesleydegroot.nl/blog/Handle-plurals-in-Swift-with-inflection)
+[CocoaPods Trunk Read-only Plan](https://wesleydegroot.nl/blog/CocoaPods-Trunk-Read-only-Plan)
 
 ### Random Blog Post
 
-[Implementing Sign in with Apple](https://wesleydegroot.nl/blog/Implementing-Sign-in-with-Apple)
+[CocoaPods Trunk Read-only Plan](https://wesleydegroot.nl/blog/CocoaPods-Trunk-Read-only-Plan)
 
 ### Highlighted Application
 
-[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
+[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Stats
 
-My projects have 326 ⭐️, and 33 Forks.  
+My projects have 327 ⭐️, and 33 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

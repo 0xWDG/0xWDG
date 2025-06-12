@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Creating a dynamic user interface for extensions in Aurora Editor](https://wesleydegroot.nl/blog/Creating-a-dynamic-ui-for-extensions-in-Aurora-Editor)
+[Default values for UserDefaults](https://wesleydegroot.nl/blog/Default-values-for-UserDefaults)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Stats
 
-My projects have 328 ⭐️, and 33 Forks.  
+My projects have 328 ⭐️, and 31 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

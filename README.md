@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Default values for UserDefaults](https://wesleydegroot.nl/blog/Default-values-for-UserDefaults)
+[@Environment variables](https://wesleydegroot.nl/blog/@Environment)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
 
 ### Highlighted Project
 
-[SecureStorage](https://github.com/0xWDG/SecureStorage)
+[PHPFramework](https://github.com/0xWDG/PHPFramework)
 
 ### Connect
 

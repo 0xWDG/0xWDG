@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[CocoaPods Trunk Read-only Plan](https://wesleydegroot.nl/blog/CocoaPods-Trunk-Read-only-Plan)
+[Building iWebTools](https://wesleydegroot.nl/blog/Building-iWebTools)
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Building an Asynchronous Button in SwiftUI](https://wesleydegroot.nl/blog/async-buttons-in-SwiftUI)
+[What is @frozen](https://wesleydegroot.nl/blog/@frozen)
 
 ### Highlighted Application
 
-[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
 
 ### Highlighted Project
 
-[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
+[iCloudStorage](https://github.com/0xWDG/iCloudStorage)
 
 ### Connect
 

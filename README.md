@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[JavaScriptCore](https://wesleydegroot.nl/blog/JavaScriptCore)
+[Localizing In Xcode](https://wesleydegroot.nl/blog/Localizing-in-Xcode)
 
 ### Highlighted Application
 
-[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[Apple-Music-to-Discord](https://github.com/0xWDG/Apple-Music-to-Discord)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 

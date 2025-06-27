@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Enhancing SwiftUI with CachedAsyncImage](https://wesleydegroot.nl/blog/Swift-Package-CachedAsyncImage)
+[Translating closures to async](https://wesleydegroot.nl/blog/Closures-to-Async)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

@@ -36,15 +36,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Move your app to the background](https://wesleydegroot.nl/blog/Move-your-app-to-the-background)
+[Using the share sheet to share content](https://wesleydegroot.nl/blog/Using-the-share-sheet-to-share-content)
 
 ### Random Blog Post
 
-[Navigation in SwiftUI](https://wesleydegroot.nl/blog/Navigation-in-SwiftUI)
+[SwiftLeeds 2024 (day 1)](https://wesleydegroot.nl/blog/SwiftLeeds-2024-1)
 
 ### Highlighted Application
 
-[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
+[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
 
 ### Highlighted Project
 

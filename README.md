@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[SwiftLeeds 2024 (day 1)](https://wesleydegroot.nl/blog/SwiftLeeds-2024-1)
+[Building xcstrings-translator](https://wesleydegroot.nl/blog/Building-xcstrings-translator)
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
 
 ### Connect
 

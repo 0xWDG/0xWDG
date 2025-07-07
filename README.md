@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Variadic Parameters](https://wesleydegroot.nl/blog/Variadic-Parameters)
+[Exploring ControlGroup in SwiftUI](https://wesleydegroot.nl/blog/Controlgroup-in-SwiftUI)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[SecureStorage](https://github.com/0xWDG/SecureStorage)
+[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
 
 ### Connect
 

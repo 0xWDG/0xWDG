@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Using the share sheet to share content](https://wesleydegroot.nl/blog/Using-the-share-sheet-to-share-content)
+[Gradients in text using foregroundStyle](https://wesleydegroot.nl/blog/Gradients-in-text-using-foregroundStyle)
 
 ### Random Blog Post
 
-[Exploring ControlGroup in SwiftUI](https://wesleydegroot.nl/blog/Controlgroup-in-SwiftUI)
+[TipKit](https://wesleydegroot.nl/blog/TipKit)
 
 ### Highlighted Application
 
-[Calendo](https://wesleydegroot.nl/apps/Calendo)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
+[Colors](https://github.com/0xWDG/Colors)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Stats
 
-My projects have 331 ⭐️, and 31 Forks.  
+My projects have 332 ⭐️, and 31 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

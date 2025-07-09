@@ -40,11 +40,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[TipKit](https://wesleydegroot.nl/blog/TipKit)
+[SwiftLeeds 2024 (day 2)](https://wesleydegroot.nl/blog/SwiftLeeds-2024-2)
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 

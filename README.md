@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[SwiftUI property wrappers](https://wesleydegroot.nl/blog/SwiftUI-property-wrappers)
+[Deep linking in SwiftUI](https://wesleydegroot.nl/blog/Deep-linking-in-SwiftUI)
 
 ### Highlighted Application
 
-[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
+[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
 
 ### Connect
 

@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Gradients in text using foregroundStyle](https://wesleydegroot.nl/blog/Gradients-in-text-using-foregroundStyle)
+[Difference between animations in SwiftUI](https://wesleydegroot.nl/blog/difference-between-animations-in-SwiftUI)
 
 ### Random Blog Post
 
-[What is @MainActor](https://wesleydegroot.nl/blog/@MainActor)
+[SwiftUI Development with DynamicUI](https://wesleydegroot.nl/blog/Swift-Package-DynamicUI)
 
 ### Highlighted Application
 
-[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[Apple-Music-to-Discord](https://github.com/0xWDG/Apple-Music-to-Discord)
+[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
 
 ### Connect
 

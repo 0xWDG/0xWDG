@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[SwiftUI Development with DynamicUI](https://wesleydegroot.nl/blog/Swift-Package-DynamicUI)
+[Popovers in SwiftUI](https://wesleydegroot.nl/blog/Popovers-in-SwiftUI)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
+[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
 
 ### Connect
 

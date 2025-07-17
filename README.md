@@ -40,11 +40,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Popovers in SwiftUI](https://wesleydegroot.nl/blog/Popovers-in-SwiftUI)
+[Navigation in SwiftUI](https://wesleydegroot.nl/blog/Navigation-in-SwiftUI)
 
 ### Highlighted Application
 
-[Calendo](https://wesleydegroot.nl/apps/Calendo)
+[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
 
 ### Highlighted Project
 

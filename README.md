@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Build a personal brand as developer](https://wesleydegroot.nl/blog/Build-a-personal-brand-as-developer)
+[Easy Publishers](https://wesleydegroot.nl/blog/Easy-Publishers)
 
 ### Highlighted Application
 
-[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
+[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
 
 ### Connect
 

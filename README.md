@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Difference between animations in SwiftUI](https://wesleydegroot.nl/blog/difference-between-animations-in-SwiftUI)
+[Adjust the intensity of colors in SwiftUI views](https://wesleydegroot.nl/blog/Adjust-the-intensity-of-colors-in-SwiftUI-views)
 
 ### Random Blog Post
 
-[Easy Publishers](https://wesleydegroot.nl/blog/Easy-Publishers)
+[Observable Geocoder](https://wesleydegroot.nl/blog/Observable-GeoCoder)
 
 ### Highlighted Application
 
-[Calendo](https://wesleydegroot.nl/apps/Calendo)
+[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
 
 ### Highlighted Project
 
-[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 

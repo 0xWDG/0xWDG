@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Using the share sheet to share content](https://wesleydegroot.nl/blog/Using-the-share-sheet-to-share-content)
+[Difference between map, flatMap, compactMap](https://wesleydegroot.nl/blog/map,flatMap,compactMap)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[ImagePicker](https://github.com/0xWDG/ImagePicker)
+[Inspect](https://github.com/0xWDG/Inspect)
 
 ### Connect
 

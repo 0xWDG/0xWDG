@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Difference between map, flatMap, compactMap](https://wesleydegroot.nl/blog/map,flatMap,compactMap)
+[Exploring ControlGroup in SwiftUI](https://wesleydegroot.nl/blog/Controlgroup-in-SwiftUI)
 
 ### Highlighted Application
 
-[Calendo](https://wesleydegroot.nl/apps/Calendo)
+[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
 
 ### Highlighted Project
 
-[Inspect](https://github.com/0xWDG/Inspect)
+[tvOS.js](https://github.com/0xWDG/tvOS.js)
 
 ### Connect
 

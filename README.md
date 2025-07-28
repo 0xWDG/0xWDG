@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Move your app to the background](https://wesleydegroot.nl/blog/Move-your-app-to-the-background)
+[Simplifying Game Controller Integration with GameControllerKit](https://wesleydegroot.nl/blog/Swift-Package-GameControllerKit)
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
 
 ### Highlighted Project
 
-[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
+[CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
 
 ### Connect
 

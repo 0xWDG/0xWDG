@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Exploring ControlGroup in SwiftUI](https://wesleydegroot.nl/blog/Controlgroup-in-SwiftUI)
+[If case let](https://wesleydegroot.nl/blog/if-case-let)
 
 ### Highlighted Application
 
-[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
+[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
 
 ### Highlighted Project
 
-[PHPFramework](https://github.com/0xWDG/PHPFramework)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 

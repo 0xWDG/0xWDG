@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[If case let](https://wesleydegroot.nl/blog/if-case-let)
+[TipKit](https://wesleydegroot.nl/blog/TipKit)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[DynamicUI](https://github.com/0xWDG/DynamicUI)
+[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
 
 ### Connect
 

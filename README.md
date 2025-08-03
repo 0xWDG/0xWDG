@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[SwiftUI Buttons](https://wesleydegroot.nl/blog/SwiftUI-Buttons)
+[Surprise Route](https://wesleydegroot.nl/blog/Surprise-Route)
 
 ### Random Blog Post
 
-[TipKit](https://wesleydegroot.nl/blog/TipKit)
+[Thermal States on iOS](https://wesleydegroot.nl/blog/Thermal-States-on-iOS)
 
 ### Highlighted Application
 
-[Calendo](https://wesleydegroot.nl/apps/Calendo)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 

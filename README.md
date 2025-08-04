@@ -40,7 +40,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Thermal States on iOS](https://wesleydegroot.nl/blog/Thermal-States-on-iOS)
+[Understanding Sendable in Swift](https://wesleydegroot.nl/blog/Sendable-in-Swift)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Project
 
-[SecureStorage](https://github.com/0xWDG/SecureStorage)
+[SwiftCronParser](https://github.com/0xWDG/SwiftCronParser)
 
 ### Connect
 

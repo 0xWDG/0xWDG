@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Surprise Route](https://wesleydegroot.nl/blog/Surprise-Route)
+[SwiftUI Lists](https://wesleydegroot.nl/blog/SwiftUI-Lists)
 
 ### Random Blog Post
 
-[Understanding Sendable in Swift](https://wesleydegroot.nl/blog/Sendable-in-Swift)
+[Observable Geocoder](https://wesleydegroot.nl/blog/Observable-GeoCoder)
 
 ### Highlighted Application
 
-[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
+[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
 
 ### Highlighted Project
 
-[SwiftCronParser](https://github.com/0xWDG/SwiftCronParser)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 

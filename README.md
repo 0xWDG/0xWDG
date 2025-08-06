@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Observable Geocoder](https://wesleydegroot.nl/blog/Observable-GeoCoder)
+[Thermal States on iOS](https://wesleydegroot.nl/blog/Thermal-States-on-iOS)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

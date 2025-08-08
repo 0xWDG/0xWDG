@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Subscripts in Swift](https://wesleydegroot.nl/blog/Subscript-in-Swift)
+[Xcode shortcuts](https://wesleydegroot.nl/blog/Xcode-shortcuts)
 
 ### Highlighted Application
 
-[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
 
 ### Highlighted Project
 
-[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 

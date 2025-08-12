@@ -36,11 +36,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[SwiftUI Lists](https://wesleydegroot.nl/blog/SwiftUI-Lists)
+[Interpolation and formatting in Text](https://wesleydegroot.nl/blog/Interpolation-and-formatting-in-Text)
 
 ### Random Blog Post
 
-[@ViewBuilder in Swift](https://wesleydegroot.nl/blog/@ViewBuilder)
+[Generics in Swift](https://wesleydegroot.nl/blog/Swift-Generics)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Highlighted Project
 
-[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 

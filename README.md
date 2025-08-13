@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Generics in Swift](https://wesleydegroot.nl/blog/Swift-Generics)
+[Fixing slow scrolling in Calendo](https://wesleydegroot.nl/blog/Fixing-slow-scrolling-in-Calendo)
 
 ### Highlighted Application
 
-[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[FilePicker](https://github.com/0xWDG/FilePicker)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 

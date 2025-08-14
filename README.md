@@ -40,7 +40,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Fixing slow scrolling in Calendo](https://wesleydegroot.nl/blog/Fixing-slow-scrolling-in-Calendo)
+[Interpolation and formatting in Text](https://wesleydegroot.nl/blog/Interpolation-and-formatting-in-Text)
 
 ### Highlighted Application
 

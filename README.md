@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Expressible Literals](https://wesleydegroot.nl/blog/expressible-literals)
+[Fixing slow scrolling in Calendo](https://wesleydegroot.nl/blog/Fixing-slow-scrolling-in-Calendo)
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[Colors](https://github.com/0xWDG/Colors)
 
 ### Connect
 

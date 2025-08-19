@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Interpolation and formatting in Text](https://wesleydegroot.nl/blog/Interpolation-and-formatting-in-Text)
+[Placing components within the Safe Area Inset](https://wesleydegroot.nl/blog/Placing-components-within-the-Safe-Area-Inset)
 
 ### Random Blog Post
 
-[iOS Settings URL's](https://wesleydegroot.nl/blog/iOS-settings-URLs)
+[It's a wrap (2024)](https://wesleydegroot.nl/blog/Its-a-wrap-2024)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
 
 ### Highlighted Project
 
-[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
+[PHPFramework](https://github.com/0xWDG/PHPFramework)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Stats
 
-My projects have 336 ⭐️, and 31 Forks.  
+My projects have 338 ⭐️, and 31 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Dutch.swift](https://wesleydegroot.nl/blog/dutch.swift)
+[SwiftUI Development with DynamicUI](https://wesleydegroot.nl/blog/swift-package-dynamicui)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
 
 ### Highlighted Project
 
-[ImagePicker](https://github.com/0xWDG/ImagePicker)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 

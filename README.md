@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Dive into GIT](https://wesleydegroot.nl/blog/git)
+[iCloud Drive Tips {{RND_BLOGPOST}} Tricks](https://wesleydegroot.nl/blog/icloud-drive-tips-and-tricks)
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[DynamicUI](https://github.com/0xWDG/DynamicUI)
+[Apple-Music-to-Discord](https://github.com/0xWDG/Apple-Music-to-Discord)
 
 ### Connect
 

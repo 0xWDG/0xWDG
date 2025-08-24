@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[iCloud Drive Tips {{RND_BLOGPOST}} Tricks](https://wesleydegroot.nl/blog/icloud-drive-tips-and-tricks)
+[Variadic Parameters](https://wesleydegroot.nl/blog/variadic-parameters)
 
 ### Highlighted Application
 
-[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
+[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
 
 ### Highlighted Project
 
-[Apple-Music-to-Discord](https://github.com/0xWDG/Apple-Music-to-Discord)
+[CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Stats
 
-My projects have 339 ⭐️, and 31 Forks.  
+My projects have 340 ⭐️, and 31 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

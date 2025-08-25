@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Variadic Parameters](https://wesleydegroot.nl/blog/variadic-parameters)
+[Safari in SwiftUI](https://wesleydegroot.nl/blog/safari-in-swiftui)
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
+[Colors](https://github.com/0xWDG/Colors)
 
 ### Connect
 

@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Latest Blog Post
 
-[Placing components within the Safe Area Inset](https://wesleydegroot.nl/blog/placing-components-within-the-safe-area-inset)
+[Building Editable Lists in SwiftUI](https://wesleydegroot.nl/blog/building-editable-lists-in-swiftui)
 
 ### Random Blog Post
 
-[Safari in SwiftUI](https://wesleydegroot.nl/blog/safari-in-swiftui)
+[SimpleNetworking](https://wesleydegroot.nl/blog/simplenetworking)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
 
 ### Highlighted Project
 
-[Colors](https://github.com/0xWDG/Colors)
+[tvOS.js](https://github.com/0xWDG/tvOS.js)
 
 ### Connect
 

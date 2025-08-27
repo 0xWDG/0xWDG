@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[SimpleNetworking](https://wesleydegroot.nl/blog/simplenetworking)
+[Snippet: @EnvironmentVariable](https://wesleydegroot.nl/blog/@environmentvariable)
 
 ### Highlighted Application
 
-[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
+[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[PHPFramework](https://github.com/0xWDG/PHPFramework)
 
 ### Connect
 

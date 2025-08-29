@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Using MetricKit](https://wesleydegroot.nl/blog/metrickit)
+[Gradients in text using foregroundStyle](https://wesleydegroot.nl/blog/gradients-in-text-using-foregroundstyle)
 
 ### Highlighted Application
 
-[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

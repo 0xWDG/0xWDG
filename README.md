@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[Aurora Editor](https://wesleydegroot.nl/blog/aurora-editor)
+[@ViewBuilder in Swift](https://wesleydegroot.nl/blog/@viewbuilder)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
 
 ### Highlighted Project
 
-[Apple-Music-to-Discord](https://github.com/0xWDG/Apple-Music-to-Discord)
+[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
 
 ### Connect
 

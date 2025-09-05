@@ -40,11 +40,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKKFQDG0PS
 
 ### Random Blog Post
 
-[@ViewBuilder in Swift](https://wesleydegroot.nl/blog/@viewbuilder)
+[Fixing slow scrolling in Calendo](https://wesleydegroot.nl/blog/fixing-slow-scrolling-in-calendo)
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 

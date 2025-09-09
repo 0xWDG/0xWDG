@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Building SwiftUI Debugging Utilities](https://wesleydegroot.nl/blog/building-swiftui-debugging-utilities)
+[Remove the background from images using Swift](https://wesleydegroot.nl/blog/remove-the-background-from-images-using-swift)
 
 ### Random Blog Post
 
-[TipKit](https://wesleydegroot.nl/blog/tipkit)
+[Implementing Sign in with Apple](https://wesleydegroot.nl/blog/implementing-sign-in-with-apple)
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 

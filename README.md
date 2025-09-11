@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Understanding Sendable in Swift](https://wesleydegroot.nl/blog/sendable-in-swift)
+[Building Calendo](https://wesleydegroot.nl/blog/building-calendo)
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
 
 ### Highlighted Project
 
-[PHPFramework](https://github.com/0xWDG/PHPFramework)
+[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
 
 ### Connect
 

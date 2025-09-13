@@ -40,7 +40,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[NumberFormatter](https://wesleydegroot.nl/blog/numberformatter)
+[Controllig login and background items](https://wesleydegroot.nl/blog/controlling-login-and-background-items)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Highlighted Project
 
-[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 

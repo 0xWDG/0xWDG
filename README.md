@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Remove the background from images using Swift](https://wesleydegroot.nl/blog/remove-the-background-from-images-using-swift)
+[Custom Tabbar with SwiftUI](https://wesleydegroot.nl/blog/custom-tabbar-with-swiftui)
 
 ### Random Blog Post
 
-[TipKit](https://wesleydegroot.nl/blog/tipkit)
+[Subscripts in Swift](https://wesleydegroot.nl/blog/subscript-in-swift)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
 
 ### Connect
 

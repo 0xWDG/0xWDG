@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[SwiftUI property wrappers](https://wesleydegroot.nl/blog/swiftui-property-wrappers)
+[iOS Settings URL's](https://wesleydegroot.nl/blog/ios-settings-urls)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
+[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
 
 ### Connect
 

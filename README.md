@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Custom Tabbar with SwiftUI](https://wesleydegroot.nl/blog/custom-tabbar-with-swiftui)
+[Hidden macOS features](https://wesleydegroot.nl/blog/hidden-macos-features)
 
 ### Random Blog Post
 
-[What is @frozen](https://wesleydegroot.nl/blog/@frozen)
+[LabeledContent in SwiftUI](https://wesleydegroot.nl/blog/labeledcontent-in-swiftui)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[SwiftCronParser](https://github.com/0xWDG/SwiftCronParser)
+[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
 
 ### Connect
 

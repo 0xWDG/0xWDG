@@ -40,11 +40,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[LabeledContent in SwiftUI](https://wesleydegroot.nl/blog/labeledcontent-in-swiftui)
+[Localizing In Xcode](https://wesleydegroot.nl/blog/localizing-in-xcode)
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
 
 ### Highlighted Project
 

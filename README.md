@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Sensory feedback in SwiftUI](https://wesleydegroot.nl/blog/sensory-feedback-in-swiftui)
+[Hacktoberfest 2025](https://wesleydegroot.nl/blog/hacktoberfest-2025)
 
 ### Random Blog Post
 
-[Exploring ControlGroup in SwiftUI](https://wesleydegroot.nl/blog/controlgroup-in-swiftui)
+[Tips and ideas to start your own blog](https://wesleydegroot.nl/blog/start-your-own-blog)
 
 ### Highlighted Application
 
-[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

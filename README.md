@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Variadic Parameters](https://wesleydegroot.nl/blog/variadic-parameters)
+[Mastering animations in SwiftUI](https://wesleydegroot.nl/blog/animations-in-swiftui)
 
 ### Highlighted Application
 
-[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
+[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
 
 ### Connect
 

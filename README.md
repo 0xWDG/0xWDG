@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Translation framework in Swift](https://wesleydegroot.nl/blog/translation-framework-in-swift)
+[Sensory feedback in SwiftUI](https://wesleydegroot.nl/blog/sensory-feedback-in-swiftui)
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[PHPFramework](https://github.com/0xWDG/PHPFramework)
+[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
 
 ### Connect
 

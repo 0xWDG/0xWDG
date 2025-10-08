@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[SwiftLeeds 2025 (day 1)](https://wesleydegroot.nl/blog/~swiftleeds-2025-day-1)
+[SwiftLeeds 2025 (day 2)](https://wesleydegroot.nl/blog/~swiftleeds-2025-day-2)
 
 ### Random Blog Post
 
-[Why You Should Avoid Using AnyView in SwiftUI](https://wesleydegroot.nl/blog/why-you-should-avoid-anyview-in-swiftui)
+[AppDevCon 2025](https://wesleydegroot.nl/blog/appdevcon-2025)
 
 ### Highlighted Application
 
-[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
 
 ### Highlighted Project
 
-[FilePicker](https://github.com/0xWDG/FilePicker)
+[Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
 
 ### Connect
 

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Building Editable Lists in SwiftUI](https://wesleydegroot.nl/blog/building-editable-lists-in-swiftui)
+[SwiftLeeds 2025 (day 2)](https://wesleydegroot.nl/blog/~swiftleeds-2025-day-2)
 
 ### Highlighted Application
 
-[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
 
 ### Highlighted Project
 
-[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 

@@ -40,7 +40,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Surprise Route](https://wesleydegroot.nl/blog/surprise-route)
+[Using the share sheet to share content](https://wesleydegroot.nl/blog/using-the-share-sheet-to-share-content)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[Inspect](https://github.com/0xWDG/Inspect)
 
 ### Connect
 

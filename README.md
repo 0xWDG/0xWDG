@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[SwiftLeeds 2025 (day 2)](https://wesleydegroot.nl/blog/~swiftleeds-2025-day-2)
+[Swift Package: ImagePicker](https://wesleydegroot.nl/blog/swift-package-imagepicker)
 
 ### Random Blog Post
 
-[Using the share sheet to share content](https://wesleydegroot.nl/blog/using-the-share-sheet-to-share-content)
+[self, Self, and Self.self in Swift](https://wesleydegroot.nl/blog/self-self-self.self-in-swift)
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[Inspect](https://github.com/0xWDG/Inspect)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

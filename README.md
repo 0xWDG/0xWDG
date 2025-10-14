@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Swift Package: ImagePicker](https://wesleydegroot.nl/blog/swift-package-imagepicker)
+[Contextmenu](https://wesleydegroot.nl/blog/contextmenu)
 
 ### Random Blog Post
 
-[self, Self, and Self.self in Swift](https://wesleydegroot.nl/blog/self-self-self.self-in-swift)
+[What is @MainActor](https://wesleydegroot.nl/blog/@mainactor)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
 
 ### Highlighted Project
 
-[build-documentation](https://github.com/0xWDG/build-documentation)
+[Inspect](https://github.com/0xWDG/Inspect)
 
 ### Connect
 

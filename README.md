@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Contextmenu](https://wesleydegroot.nl/blog/contextmenu)
+[Swift Package: FilePicker](https://wesleydegroot.nl/blog/swift-package-filepicker)
 
 ### Random Blog Post
 
-[What is @MainActor](https://wesleydegroot.nl/blog/@mainactor)
+[Simplifying App Onboarding with OnboardingKit](https://wesleydegroot.nl/blog/swift-package-onboardingkit)
 
 ### Highlighted Application
 
-[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
+[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
 
 ### Highlighted Project
 
-[Inspect](https://github.com/0xWDG/Inspect)
+[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
 
 ### Connect
 

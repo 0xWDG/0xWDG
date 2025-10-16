@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Simplifying App Onboarding with OnboardingKit](https://wesleydegroot.nl/blog/swift-package-onboardingkit)
+[Exploring the .inspector Modifier in SwiftUI](https://wesleydegroot.nl/blog/the-inspector-modifier-in-swiftui)
 
 ### Highlighted Application
 
-[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 

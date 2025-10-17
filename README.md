@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Swift Package: FilePicker](https://wesleydegroot.nl/blog/swift-package-filepicker)
+[Swift Package: iCloudStorage](https://wesleydegroot.nl/blog/swift-package-icloudstorage)
 
 ### Random Blog Post
 
-[Exploring the .inspector Modifier in SwiftUI](https://wesleydegroot.nl/blog/the-inspector-modifier-in-swiftui)
+[Building Calendo](https://wesleydegroot.nl/blog/building-calendo)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[Workout Route](https://wesleydegroot.nl/apps/Workout-Route)
 
 ### Highlighted Project
 
-[SecureStorage](https://github.com/0xWDG/SecureStorage)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

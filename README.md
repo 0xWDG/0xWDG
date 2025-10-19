@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Swift Package: iCloudStorage](https://wesleydegroot.nl/blog/swift-package-icloudstorage)
+[]()
 
 ### Random Blog Post
 
-[Creating macOS Menu Bar App in SwiftUI](https://wesleydegroot.nl/blog/creating-macos-menu-bar-app)
+[]()
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[]()
 
 ### Highlighted Project
 
-[Apple-Music-to-Discord](https://github.com/0xWDG/Apple-Music-to-Discord)
+[]()
 
 ### Connect
 

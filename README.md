@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Supporting Reduced Motion accessibility setting in SwiftUI](https://wesleydegroot.nl/blog/supporting-reduced-motion-accessibility-setting-in-swiftui)
+[Swift Package: XCUITestHelper](https://wesleydegroot.nl/blog/swift-package-xcuitesthelper)
 
 ### Random Blog Post
 
-[Swipe actions in Swift](https://wesleydegroot.nl/blog/swipe-actions-in-swift)
+[Deep linking in SwiftUI](https://wesleydegroot.nl/blog/deep-linking-in-swiftui)
 
 ### Highlighted Application
 
-[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
+[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
 
 ### Highlighted Project
 
-[SwiftCronParser](https://github.com/0xWDG/SwiftCronParser)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

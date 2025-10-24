@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Swift Package: XCUITestHelper](https://wesleydegroot.nl/blog/swift-package-xcuitesthelper)
+[Swift Package: PreventScreenshot](https://wesleydegroot.nl/blog/swift-package-preventscreenshot)
 
 ### Random Blog Post
 
-[Hidden macOS features](https://wesleydegroot.nl/blog/hidden-macos-features)
+[CocoaPods Trunk Read-only Plan](https://wesleydegroot.nl/blog/cocoapods-trunk-read-only-plan)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
 
 ### Highlighted Project
 
-[build-documentation](https://github.com/0xWDG/build-documentation)
+[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
 
 ### Connect
 

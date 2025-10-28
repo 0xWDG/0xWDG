@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Swift Package: NetworkMonitor](https://wesleydegroot.nl/blog/swift-package-networkmonitor)
+[Identifiable protocol](https://wesleydegroot.nl/blog/post-identifiable-protocol)
 
 ### Random Blog Post
 
-[What is @MainActor](https://wesleydegroot.nl/blog/@mainactor)
+[SwiftUI Buttons](https://wesleydegroot.nl/blog/swiftui-buttons)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[PHPFramework](https://github.com/0xWDG/PHPFramework)
 
 ### Connect
 

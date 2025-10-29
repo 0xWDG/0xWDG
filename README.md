@@ -36,11 +36,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Identifiable protocol](https://wesleydegroot.nl/blog/post-identifiable-protocol)
+[Swift Package: SwiftCronParser](https://wesleydegroot.nl/blog/swift-package-swiftcronparser)
 
 ### Random Blog Post
 
-[SwiftUI Buttons](https://wesleydegroot.nl/blog/swiftui-buttons)
+[Thermal States on iOS](https://wesleydegroot.nl/blog/thermal-states-on-ios)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Highlighted Project
 
-[PHPFramework](https://github.com/0xWDG/PHPFramework)
+[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
 
 ### Connect
 

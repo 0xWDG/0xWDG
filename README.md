@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Thermal States on iOS](https://wesleydegroot.nl/blog/thermal-states-on-ios)
+[JavaScriptCore](https://wesleydegroot.nl/blog/javascriptcore)
 
 ### Highlighted Application
 
-[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
+[Workout Route](https://wesleydegroot.nl/apps/Workout-Route)
 
 ### Highlighted Project
 
-[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
+[Colors](https://github.com/0xWDG/Colors)
 
 ### Connect
 

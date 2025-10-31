@@ -36,7 +36,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Swift Package: SwiftCronParser](https://wesleydegroot.nl/blog/swift-package-swiftcronparser)
+[Swift Package: SwiftExtras](https://wesleydegroot.nl/blog/swift-package-swiftextras)
 
 ### Random Blog Post
 
@@ -44,11 +44,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Highlighted Application
 
-[Workout Route](https://wesleydegroot.nl/apps/Workout-Route)
+[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
 
 ### Highlighted Project
 
-[Colors](https://github.com/0xWDG/Colors)
+[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 362 ⭐️, and 35 Forks.  
+My projects have 363 ⭐️, and 35 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

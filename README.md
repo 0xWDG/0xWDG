@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[JavaScriptCore](https://wesleydegroot.nl/blog/javascriptcore)
+[Interpolation and formatting in Text](https://wesleydegroot.nl/blog/interpolation-and-formatting-in-text)
 
 ### Highlighted Application
 
-[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
+[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
 
 ### Highlighted Project
 
-[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
+[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
 
 ### Connect
 

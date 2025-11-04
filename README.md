@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Swift Package: SwiftExtras](https://wesleydegroot.nl/blog/swift-package-swiftextras)
+[Quick actions in SwiftUI](https://wesleydegroot.nl/blog/quick-actions-for-swiftui)
 
 ### Random Blog Post
 
-[Building SwiftUI Debugging Utilities](https://wesleydegroot.nl/blog/building-swiftui-debugging-utilities)
+[async/await](https://wesleydegroot.nl/blog/async-await)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 

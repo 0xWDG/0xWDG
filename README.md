@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Placing components within the Safe Area Inset](https://wesleydegroot.nl/blog/placing-components-within-the-safe-area-inset)
+[SwiftLeeds 2025 (day 1)](https://wesleydegroot.nl/blog/~swiftleeds-2025-day-1)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
 
 ### Highlighted Project
 
-[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 

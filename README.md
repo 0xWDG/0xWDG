@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Quick actions in SwiftUI](https://wesleydegroot.nl/blog/quick-actions-for-swiftui)
+[Picker in SwiftUI](https://wesleydegroot.nl/blog/swiftui-picker)
 
 ### Random Blog Post
 
-[Default values for UserDefaults](https://wesleydegroot.nl/blog/default-values-for-userdefaults)
+[Dutch.swift](https://wesleydegroot.nl/blog/dutch.swift)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
 
 ### Highlighted Project
 
-[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
+[tvOS.js](https://github.com/0xWDG/tvOS.js)
 
 ### Connect
 

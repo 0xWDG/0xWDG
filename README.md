@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Dutch.swift](https://wesleydegroot.nl/blog/dutch.swift)
+[Customizing macOS windows](https://wesleydegroot.nl/blog/customizing-macos-windows)
 
 ### Highlighted Application
 
-[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
+[Workout Route](https://wesleydegroot.nl/apps/Workout-Route)
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 

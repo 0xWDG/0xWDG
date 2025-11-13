@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Customizing macOS windows](https://wesleydegroot.nl/blog/customizing-macos-windows)
+[Building iWebTools](https://wesleydegroot.nl/blog/building-iwebtools)
 
 ### Highlighted Application
 
-[Workout Route](https://wesleydegroot.nl/apps/Workout-Route)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[DynamicUI](https://github.com/0xWDG/DynamicUI)
+[SwiftCronParser](https://github.com/0xWDG/SwiftCronParser)
 
 ### Connect
 

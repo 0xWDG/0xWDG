@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[iCloud Drive Tips {{RND_BLOGPOST}} Tricks](https://wesleydegroot.nl/blog/icloud-drive-tips-and-tricks)
+[Contact Provider Extension](https://wesleydegroot.nl/blog/contactprovider)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
+[ImagePicker](https://github.com/0xWDG/ImagePicker)
 
 ### Connect
 

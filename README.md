@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Creating macOS Menu Bar App in SwiftUI](https://wesleydegroot.nl/blog/creating-macos-menu-bar-app)
+[Why You Should Avoid Using AnyView in SwiftUI](https://wesleydegroot.nl/blog/why-you-should-avoid-anyview-in-swiftui)
 
 ### Highlighted Application
 
-[Calendo](https://wesleydegroot.nl/apps/Calendo)
+[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

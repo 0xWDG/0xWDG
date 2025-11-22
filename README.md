@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Why You Should Avoid Using AnyView in SwiftUI](https://wesleydegroot.nl/blog/why-you-should-avoid-anyview-in-swiftui)
+[iOS Settings URL's](https://wesleydegroot.nl/blog/ios-settings-urls)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[build-documentation](https://github.com/0xWDG/build-documentation)
+[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
 
 ### Connect
 

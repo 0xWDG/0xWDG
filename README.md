@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[iOS Settings URL's](https://wesleydegroot.nl/blog/ios-settings-urls)
+[SwiftUI property wrappers](https://wesleydegroot.nl/blog/swiftui-property-wrappers)
 
 ### Highlighted Application
 
-[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
+[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
 
 ### Highlighted Project
 
-[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
+[PHPFramework](https://github.com/0xWDG/PHPFramework)
 
 ### Connect
 

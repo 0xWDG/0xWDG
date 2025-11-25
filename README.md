@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Monospace digits](https://wesleydegroot.nl/blog/monospace-digits)
+[Environment: OpenURL](https://wesleydegroot.nl/blog/environment-openurl)
 
 ### Random Blog Post
 
-[Understanding Package.swift](https://wesleydegroot.nl/blog/understanding-swift-package)
+[Gradients in text using foregroundStyle](https://wesleydegroot.nl/blog/gradients-in-text-using-foregroundstyle)
 
 ### Highlighted Application
 
-[Calendo](https://wesleydegroot.nl/apps/Calendo)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[PHPFramework](https://github.com/0xWDG/PHPFramework)
+[Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
 
 ### Connect
 

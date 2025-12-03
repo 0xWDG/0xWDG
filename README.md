@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Make your app visible with alternative app names](https://wesleydegroot.nl/blog/inalternativeappnames)
+[]()
 
 ### Random Blog Post
 
-[Creating a dynamic user interface for extensions in Aurora Editor](https://wesleydegroot.nl/blog/creating-a-dynamic-ui-for-extensions-in-aurora-editor)
+[]()
 
 ### Highlighted Application
 
-[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
+[]()
 
 ### Highlighted Project
 
-[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
+[]()
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 0 ⭐️, and 0 Forks.  
+My projects have 376 ⭐️, and 35 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

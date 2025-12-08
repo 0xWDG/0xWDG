@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Xcode shortcuts](https://wesleydegroot.nl/blog/xcode-shortcuts)
+[What is @frozen](https://wesleydegroot.nl/blog/@frozen)
 
 ### Highlighted Application
 
-[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[iCloudStorage](https://github.com/0xWDG/iCloudStorage)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 

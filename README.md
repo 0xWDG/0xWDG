@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[SwiftLeeds 2025 (day 1)](https://wesleydegroot.nl/blog/~swiftleeds-2025-day-1)
+[Environment: OpenURL](https://wesleydegroot.nl/blog/environment-openurl)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
+[Colors](https://github.com/0xWDG/Colors)
 
 ### Connect
 

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Placing components within the Safe Area Inset](https://wesleydegroot.nl/blog/placing-components-within-the-safe-area-inset)
+[Hidden macOS features](https://wesleydegroot.nl/blog/hidden-macos-features)
 
 ### Highlighted Application
 
-[Calendo](https://wesleydegroot.nl/apps/Calendo)
+[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
 
 ### Highlighted Project
 
-[ImagePicker](https://github.com/0xWDG/ImagePicker)
+[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
 
 ### Connect
 

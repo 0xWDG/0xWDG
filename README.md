@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Hidden macOS features](https://wesleydegroot.nl/blog/hidden-macos-features)
+[SwiftLeeds 2025 (day 1)](https://wesleydegroot.nl/blog/~swiftleeds-2025-day-1)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[Workout Route](https://wesleydegroot.nl/apps/Workout-Route)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[Colors](https://github.com/0xWDG/Colors)
 
 ### Connect
 

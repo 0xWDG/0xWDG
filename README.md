@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[SwiftUI property wrappers](https://wesleydegroot.nl/blog/swiftui-property-wrappers)
+[Dutch.swift](https://wesleydegroot.nl/blog/dutch.swift)
 
 ### Highlighted Application
 
-[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[iCloudStorage](https://github.com/0xWDG/iCloudStorage)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 

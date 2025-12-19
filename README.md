@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Dutch.swift](https://wesleydegroot.nl/blog/dutch.swift)
+[Simplifying App Onboarding with OnboardingKit](https://wesleydegroot.nl/blog/swift-package-onboardingkit)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
 
 ### Highlighted Project
 
-[DynamicUI](https://github.com/0xWDG/DynamicUI)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 

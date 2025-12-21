@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[SimpleNetworking](https://wesleydegroot.nl/blog/simplenetworking)
+[Safely unwrap optional values in SwiftUI bindings](https://wesleydegroot.nl/blog/safely-unwrap-optional-values-in-swiftui-bindings)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[ImagePicker](https://github.com/0xWDG/ImagePicker)
+[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
 
 ### Connect
 

@@ -36,11 +36,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Task.sleep() vs. Task.yield(): The differences explained](https://wesleydegroot.nl/blog/task-sleep-vs-task-yield-the-differences-explained)
+[Form in SwiftUI](https://wesleydegroot.nl/blog/swiftui-form)
 
 ### Random Blog Post
 
-[Identifiable protocol](https://wesleydegroot.nl/blog/post-identifiable-protocol)
+[Picker in SwiftUI](https://wesleydegroot.nl/blog/swiftui-picker)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Highlighted Project
 
-[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
+[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
 
 ### Connect
 

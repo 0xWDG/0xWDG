@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Gradients in text using foregroundStyle](https://wesleydegroot.nl/blog/gradients-in-text-using-foregroundstyle)
+[Translation framework in Swift](https://wesleydegroot.nl/blog/translation-framework-in-swift)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
 
 ### Highlighted Project
 
-[SecureStorage](https://github.com/0xWDG/SecureStorage)
+[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
 
 ### Connect
 

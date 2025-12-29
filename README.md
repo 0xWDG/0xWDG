@@ -40,7 +40,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Snippet: @EnvironmentVariable](https://wesleydegroot.nl/blog/@environmentvariable)
+[Simplifying multiplatform Colors](https://wesleydegroot.nl/blog/swift-package-colors)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Highlighted Project
 
-[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
+[Colors](https://github.com/0xWDG/Colors)
 
 ### Connect
 

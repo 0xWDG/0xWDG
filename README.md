@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Form in SwiftUI](https://wesleydegroot.nl/blog/swiftui-form)
+[How to Position Views in SwiftUI](https://wesleydegroot.nl/blog/how-to-position-views-in-swiftui)
 
 ### Random Blog Post
 
-[Simplifying multiplatform Colors](https://wesleydegroot.nl/blog/swift-package-colors)
+[Dive into GIT](https://wesleydegroot.nl/blog/git)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[Colors](https://github.com/0xWDG/Colors)
+[iCloudStorage](https://github.com/0xWDG/iCloudStorage)
 
 ### Connect
 

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[CocoaPods Trunk Read-only Plan](https://wesleydegroot.nl/blog/cocoapods-trunk-read-only-plan)
+[Make your app visible with alternative app names](https://wesleydegroot.nl/blog/inalternativeappnames)
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
 
 ### Highlighted Project
 
-[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
+[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 378 ⭐️, and 36 Forks.  
+My projects have 0 ⭐️, and 0 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

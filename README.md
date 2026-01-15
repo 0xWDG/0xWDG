@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Make your app visible with alternative app names](https://wesleydegroot.nl/blog/inalternativeappnames)
+[SwiftUI ViewModifiers](https://wesleydegroot.nl/blog/swiftui-viewmodifiers)
 
 ### Highlighted Application
 
-[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
+[iCloudStorage](https://github.com/0xWDG/iCloudStorage)
 
 ### Connect
 

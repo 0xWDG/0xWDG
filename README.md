@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Swipe actions in Swift](https://wesleydegroot.nl/blog/swipe-actions-in-swift)
+[Creating a dynamic user interface for extensions in Aurora Editor](https://wesleydegroot.nl/blog/creating-a-dynamic-ui-for-extensions-in-aurora-editor)
 
 ### Highlighted Application
 
-[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
+[Inspect](https://github.com/0xWDG/Inspect)
 
 ### Connect
 

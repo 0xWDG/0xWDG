@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Creating a dynamic user interface for extensions in Aurora Editor](https://wesleydegroot.nl/blog/creating-a-dynamic-ui-for-extensions-in-aurora-editor)
+[Pull-to-Refresh in SwiftUI](https://wesleydegroot.nl/blog/pull-to-refresh-in-swiftui)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[Inspect](https://github.com/0xWDG/Inspect)
+[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
 
 ### Connect
 

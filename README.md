@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Difference between animations in SwiftUI](https://wesleydegroot.nl/blog/difference-between-animations-in-swiftui)
+[Building xcstrings-translator](https://wesleydegroot.nl/blog/building-xcstrings-translator)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
+[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 382 ⭐️, and 37 Forks.  
+My projects have 0 ⭐️, and 0 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

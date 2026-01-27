@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Sufficient Contrast](https://wesleydegroot.nl/blog/sufficient-contrast)
+[Larger Text](https://wesleydegroot.nl/blog/larger-text)
 
 ### Random Blog Post
 
-[Make your app visible with alternative app names](https://wesleydegroot.nl/blog/inalternativeappnames)
+[A Guide to UI Testing in Swift](https://wesleydegroot.nl/blog/ui-testing-in-swift)
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
 
 ### Highlighted Project
 
-[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
+[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
 
 ### Connect
 

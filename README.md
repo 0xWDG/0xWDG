@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Tips and ideas to start your own blog](https://wesleydegroot.nl/blog/start-your-own-blog)
+[Dark Mode](https://wesleydegroot.nl/blog/dark-mode)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
 
 ### Highlighted Project
 
-[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
+[Colors](https://github.com/0xWDG/Colors)
 
 ### Connect
 

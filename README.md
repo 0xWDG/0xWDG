@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[iOS Settings URL's](https://wesleydegroot.nl/blog/ios-settings-urls)
+[Building Calendo](https://wesleydegroot.nl/blog/building-calendo)
 
 ### Highlighted Application
 
-[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
+[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
 
 ### Highlighted Project
 
-[Inspect](https://github.com/0xWDG/Inspect)
+[iCloudStorage](https://github.com/0xWDG/iCloudStorage)
 
 ### Connect
 

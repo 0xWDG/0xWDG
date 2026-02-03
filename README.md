@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Larger Text](https://wesleydegroot.nl/blog/larger-text)
+[Differentiate Without Color](https://wesleydegroot.nl/blog/differentiate-without-color)
 
 ### Random Blog Post
 
-[Building Calendo](https://wesleydegroot.nl/blog/building-calendo)
+[Supporting Reduced Motion accessibility setting in SwiftUI](https://wesleydegroot.nl/blog/supporting-reduced-motion-accessibility-setting-in-swiftui)
 
 ### Highlighted Application
 
-[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
+[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
 
 ### Highlighted Project
 
-[iCloudStorage](https://github.com/0xWDG/iCloudStorage)
+[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
 
 ### Connect
 

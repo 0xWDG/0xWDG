@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Supporting Reduced Motion accessibility setting in SwiftUI](https://wesleydegroot.nl/blog/supporting-reduced-motion-accessibility-setting-in-swiftui)
+[Subscripts in Swift](https://wesleydegroot.nl/blog/subscript-in-swift)
 
 ### Highlighted Application
 
-[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
+[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
 
 ### Connect
 

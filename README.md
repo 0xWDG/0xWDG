@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[]()
+[Differentiate Without Color](https://wesleydegroot.nl/blog/differentiate-without-color)
 
 ### Random Blog Post
 
-[]()
+[Implementing Admob in SwiftUI](https://wesleydegroot.nl/blog/admob-in-swiftui)
 
 ### Highlighted Application
 
-[]()
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[]()
+[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
 
 ### Connect
 

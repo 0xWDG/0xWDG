@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Implementing Admob in SwiftUI](https://wesleydegroot.nl/blog/admob-in-swiftui)
+[Loging using OSLog](https://wesleydegroot.nl/blog/oslog)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

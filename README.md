@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Differentiate Without Color](https://wesleydegroot.nl/blog/differentiate-without-color)
+[VoiceOver](https://wesleydegroot.nl/blog/voiceover)
 
 ### Random Blog Post
 
-[Understanding Package.swift](https://wesleydegroot.nl/blog/understanding-swift-package)
+[ExpressibleByStringLiteral URL](https://wesleydegroot.nl/blog/expressiblebystringliteral-url)
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
+[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
 
 ### Connect
 

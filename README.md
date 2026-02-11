@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[VoiceOver](https://wesleydegroot.nl/blog/voiceover)
+[]()
 
 ### Random Blog Post
 
-[ExpressibleByStringLiteral URL](https://wesleydegroot.nl/blog/expressiblebystringliteral-url)
+[]()
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[]()
 
 ### Highlighted Project
 
-[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
+[]()
 
 ### Connect
 

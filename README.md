@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Hacktoberfest 2024](https://wesleydegroot.nl/blog/hacktoberfest-2024)
+[JavaScriptCore](https://wesleydegroot.nl/blog/javascriptcore)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
+[Inspect](https://github.com/0xWDG/Inspect)
 
 ### Connect
 

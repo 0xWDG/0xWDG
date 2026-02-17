@@ -36,11 +36,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[VoiceOver](https://wesleydegroot.nl/blog/voiceover)
+[Voice Control](https://wesleydegroot.nl/blog/voice-control)
 
 ### Random Blog Post
 
-[What is @frozen](https://wesleydegroot.nl/blog/@frozen)
+[How to monitor network in SwiftUI](https://wesleydegroot.nl/blog/monitor-network-in-swiftui)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Highlighted Project
 
-[Apple-Music-to-Discord](https://github.com/0xWDG/Apple-Music-to-Discord)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

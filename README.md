@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Surprise Route](https://wesleydegroot.nl/blog/surprise-route)
+[Swift Package: SecureStorage](https://wesleydegroot.nl/blog/swift-package-securestorage)
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
 
 ### Highlighted Project
 
-[SwiftCronParser](https://github.com/0xWDG/SwiftCronParser)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 0 ⭐️, and 0 Forks.  
+My projects have 389 ⭐️, and 37 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

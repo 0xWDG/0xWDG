@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Pull-to-Refresh in SwiftUI](https://wesleydegroot.nl/blog/pull-to-refresh-in-swiftui)
+[If case let](https://wesleydegroot.nl/blog/if-case-let)
 
 ### Highlighted Application
 
-[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
+[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
 
 ### Highlighted Project
 
-[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
+[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 0 ⭐️, and 0 Forks.  
+My projects have 389 ⭐️, and 37 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Adjust the intensity of colors in SwiftUI views](https://wesleydegroot.nl/blog/adjust-the-intensity-of-colors-in-swiftui-views)
+[Welcome 2026](https://wesleydegroot.nl/blog/welcome-2026)
 
 ### Highlighted Application
 
-[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
+[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
 
 ### Highlighted Project
 
-[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
+[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
 
 ### Connect
 

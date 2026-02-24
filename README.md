@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Voice Control](https://wesleydegroot.nl/blog/voice-control)
+[Captions](https://wesleydegroot.nl/blog/captions)
 
 ### Random Blog Post
 
-[Welcome 2026](https://wesleydegroot.nl/blog/welcome-2026)
+[Implementing Sign in with Apple](https://wesleydegroot.nl/blog/implementing-sign-in-with-apple)
 
 ### Highlighted Application
 
-[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
+[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
 
 ### Highlighted Project
 
-[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
+[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
 
 ### Connect
 

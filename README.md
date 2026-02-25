@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Implementing Sign in with Apple](https://wesleydegroot.nl/blog/implementing-sign-in-with-apple)
+[TipKit](https://wesleydegroot.nl/blog/tipkit)
 
 ### Highlighted Application
 
-[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 

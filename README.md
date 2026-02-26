@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[TipKit](https://wesleydegroot.nl/blog/tipkit)
+[Handle plurals in Swift with inflection](https://wesleydegroot.nl/blog/handle-plurals-in-swift-with-inflection)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
 
 ### Highlighted Project
 
-[DynamicUI](https://github.com/0xWDG/DynamicUI)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 

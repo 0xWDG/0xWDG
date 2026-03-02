@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Supporting Reduced Motion accessibility setting in SwiftUI](https://wesleydegroot.nl/blog/supporting-reduced-motion-accessibility-setting-in-swiftui)
+[Understanding Package.swift](https://wesleydegroot.nl/blog/understanding-swift-package)
 
 ### Highlighted Application
 
-[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
+[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

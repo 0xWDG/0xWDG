@@ -36,11 +36,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Captions](https://wesleydegroot.nl/blog/captions)
+[Audio Descriptions](https://wesleydegroot.nl/blog/audio-descriptions)
 
 ### Random Blog Post
 
-[Understanding Package.swift](https://wesleydegroot.nl/blog/understanding-swift-package)
+[It's a wrap (2024)](https://wesleydegroot.nl/blog/its-a-wrap-2024)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Highlighted Project
 
-[build-documentation](https://github.com/0xWDG/build-documentation)
+[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
 
 ### Connect
 

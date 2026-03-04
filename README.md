@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[It's a wrap (2024)](https://wesleydegroot.nl/blog/its-a-wrap-2024)
+[Dive into GIT](https://wesleydegroot.nl/blog/git)
 
 ### Highlighted Application
 
-[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
+[tvOS.js](https://github.com/0xWDG/tvOS.js)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 389 ⭐️, and 37 Forks.  
+My projects have 0 ⭐️, and 0 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Fixing slow scrolling in Calendo](https://wesleydegroot.nl/blog/fixing-slow-scrolling-in-calendo)
+[Thermal States on iOS](https://wesleydegroot.nl/blog/thermal-states-on-ios)
 
 ### Highlighted Application
 
-[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
+[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
 
 ### Highlighted Project
 
-[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
+[Inspect](https://github.com/0xWDG/Inspect)
 
 ### Connect
 

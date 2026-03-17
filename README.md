@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Keyboard Navigation](https://wesleydegroot.nl/blog/keyboard-navigation)
+[withAnimation](https://wesleydegroot.nl/blog/withanimation)
 
 ### Random Blog Post
 
-[Contact Provider Extension](https://wesleydegroot.nl/blog/contactprovider)
+[Adjust the intensity of colors in SwiftUI views](https://wesleydegroot.nl/blog/adjust-the-intensity-of-colors-in-swiftui-views)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
 
 ### Highlighted Project
 
-[Colors](https://github.com/0xWDG/Colors)
+[Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 0 ⭐️, and 0 Forks.  
+My projects have 391 ⭐️, and 37 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

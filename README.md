@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Difference between map, flatMap, compactMap](https://wesleydegroot.nl/blog/map,flatmap,compactmap)
+[Larger Text](https://wesleydegroot.nl/blog/larger-text)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 

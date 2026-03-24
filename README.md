@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[withAnimation](https://wesleydegroot.nl/blog/withanimation)
+[Focus State in SwiftUI](https://wesleydegroot.nl/blog/focus-state-in-swiftui)
 
 ### Random Blog Post
 
-[Tracking Screen Views in SwiftUI with a Custom ViewModifier](https://wesleydegroot.nl/blog/tracking-screen-views-in-swiftui-with-a-custom-viewmodifier)
+[VoiceOver](https://wesleydegroot.nl/blog/voiceover)
 
 ### Highlighted Application
 
-[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
+[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
 
 ### Highlighted Project
 
-[Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
+[CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 0 ⭐️, and 0 Forks.  
+My projects have 394 ⭐️, and 37 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

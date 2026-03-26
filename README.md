@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Implementing Admob in SwiftUI](https://wesleydegroot.nl/blog/admob-in-swiftui)
+[Swift Package: SwiftExtras](https://wesleydegroot.nl/blog/swift-package-swiftextras)
 
 ### Highlighted Application
 
-[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
+[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
 
 ### Connect
 

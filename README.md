@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Focus State in SwiftUI](https://wesleydegroot.nl/blog/focus-state-in-swiftui)
+[TextField Styles in SwiftUI](https://wesleydegroot.nl/blog/textfield-styles-in-swiftui)
 
 ### Random Blog Post
 
-[Localizing In Xcode](https://wesleydegroot.nl/blog/localizing-in-xcode)
+[Customizing macOS windows](https://wesleydegroot.nl/blog/customizing-macos-windows)
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
 
 ### Highlighted Project
 
-[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 0 ⭐️, and 0 Forks.  
+My projects have 394 ⭐️, and 37 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

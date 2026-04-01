@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Customizing macOS windows](https://wesleydegroot.nl/blog/customizing-macos-windows)
+[SwiftUI Development with DynamicUI](https://wesleydegroot.nl/blog/swift-package-dynamicui)
 
 ### Highlighted Application
 
-[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[PHPFramework](https://github.com/0xWDG/PHPFramework)
 
 ### Connect
 

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[SwiftUI Development with DynamicUI](https://wesleydegroot.nl/blog/swift-package-dynamicui)
+[Understanding Sendable in Swift](https://wesleydegroot.nl/blog/sendable-in-swift)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
 
 ### Highlighted Project
 
-[PHPFramework](https://github.com/0xWDG/PHPFramework)
+[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 394 ⭐️, and 37 Forks.  
+My projects have 395 ⭐️, and 37 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

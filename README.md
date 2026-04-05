@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[]()
+[TextField Styles in SwiftUI](https://wesleydegroot.nl/blog/textfield-styles-in-swiftui)
 
 ### Random Blog Post
 
-[]()
+[TextField Styles in SwiftUI](https://wesleydegroot.nl/blog/textfield-styles-in-swiftui)
 
 ### Highlighted Application
 
-[]()
+[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
 
 ### Highlighted Project
 
-[]()
+[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor)
 
 ### Connect
 

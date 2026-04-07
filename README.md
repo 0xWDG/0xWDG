@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[TextField Styles in SwiftUI](https://wesleydegroot.nl/blog/textfield-styles-in-swiftui)
+[]()
 
 ### Random Blog Post
 
-[Xcode shortcuts](https://wesleydegroot.nl/blog/xcode-shortcuts)
+[]()
 
 ### Highlighted Application
 
-[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
+[]()
 
 ### Highlighted Project
 
-[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
+[]()
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 396 ⭐️, and 37 Forks.  
+My projects have 0 ⭐️, and 0 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

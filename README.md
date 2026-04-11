@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Observable Geocoder](https://wesleydegroot.nl/blog/observable-geocoder)
+[Difference between map, flatMap, compactMap](https://wesleydegroot.nl/blog/map,flatmap,compactmap)
 
 ### Highlighted Application
 
-[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
+[ImagePicker](https://github.com/0xWDG/ImagePicker)
 
 ### Connect
 

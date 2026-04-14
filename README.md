@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[AsyncImage in SwiftUI](https://wesleydegroot.nl/blog/asyncimage-in-swiftui)
+[Searchable Modifier in SwiftUI](https://wesleydegroot.nl/blog/searchable-modifier-in-swiftui)
 
 ### Random Blog Post
 
-[Localizing In Xcode](https://wesleydegroot.nl/blog/localizing-in-xcode)
+[Hacktoberfest 2024](https://wesleydegroot.nl/blog/hacktoberfest-2024)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
 
 ### Highlighted Project
 
-[Inspect](https://github.com/0xWDG/Inspect)
+[PHPFramework](https://github.com/0xWDG/PHPFramework)
 
 ### Connect
 

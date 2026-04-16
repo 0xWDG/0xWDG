@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[SwiftLeeds 2024 (day 1)](https://wesleydegroot.nl/blog/swiftleeds-2024-1)
+[Swipe actions in Swift](https://wesleydegroot.nl/blog/swipe-actions-in-swift)
 
 ### Highlighted Application
 
-[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
+[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
 
 ### Highlighted Project
 
-[SwiftCronParser](https://github.com/0xWDG/SwiftCronParser)
+[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
 
 ### Connect
 

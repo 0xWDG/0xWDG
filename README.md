@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Swipe actions in Swift](https://wesleydegroot.nl/blog/swipe-actions-in-swift)
+[Swift Package: FilePicker](https://wesleydegroot.nl/blog/swift-package-filepicker)
 
 ### Highlighted Application
 
-[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 

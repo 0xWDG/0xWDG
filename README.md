@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[A Guide to UI Testing in Swift](https://wesleydegroot.nl/blog/ui-testing-in-swift)
+[Understanding assertions in Swift](https://wesleydegroot.nl/blog/understanding-assertions-in-swift)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
+[FilePicker](https://github.com/0xWDG/FilePicker)
 
 ### Connect
 

@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Searchable Modifier in SwiftUI](https://wesleydegroot.nl/blog/searchable-modifier-in-swiftui)
+[ScrollView Performance in SwiftUI](https://wesleydegroot.nl/blog/scrollview-performance-in-swiftui)
 
 ### Random Blog Post
 
-[Understanding assertions in Swift](https://wesleydegroot.nl/blog/understanding-assertions-in-swift)
+[CoreSpotlight](https://wesleydegroot.nl/blog/corespotlight)
 
 ### Highlighted Application
 
-[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
+[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
 
 ### Highlighted Project
 
-[FilePicker](https://github.com/0xWDG/FilePicker)
+[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
 
 ### Connect
 

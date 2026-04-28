@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[ScrollView Performance in SwiftUI](https://wesleydegroot.nl/blog/scrollview-performance-in-swiftui)
+[Custom Shapes in SwiftUI](https://wesleydegroot.nl/blog/custom-shapes-in-swiftui)
 
 ### Random Blog Post
 
-[Move your app to the background](https://wesleydegroot.nl/blog/move-your-app-to-the-background)
+[Controllig login and background items](https://wesleydegroot.nl/blog/controlling-login-and-background-items)
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
 
 ### Highlighted Project
 
-[SwiftCronParser](https://github.com/0xWDG/SwiftCronParser)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 0 ⭐️, and 0 Forks.  
+My projects have 397 ⭐️, and 38 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

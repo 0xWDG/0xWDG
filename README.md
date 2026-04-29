@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Controllig login and background items](https://wesleydegroot.nl/blog/controlling-login-and-background-items)
+[Differentiate Without Color](https://wesleydegroot.nl/blog/differentiate-without-color)
 
 ### Highlighted Application
 
-[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
+[Workout Route](https://wesleydegroot.nl/apps/Workout-Route)
 
 ### Highlighted Project
 
-[SecureStorage](https://github.com/0xWDG/SecureStorage)
+[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
 
 ### Connect
 

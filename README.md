@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[GeometryReader in SwiftUI](https://wesleydegroot.nl/blog/geometryreader-in-swiftui)
+[SwiftData Basics](https://wesleydegroot.nl/blog/swiftdata-basics)
 
 ### Random Blog Post
 
-[Simplifying Game Controller Integration with GameControllerKit](https://wesleydegroot.nl/blog/swift-package-gamecontrollerkit)
+[Enums](https://wesleydegroot.nl/blog/enums)
 
 ### Highlighted Application
 
-[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
+[SwiftCronParser](https://github.com/0xWDG/SwiftCronParser)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 396 ⭐️, and 38 Forks.  
+My projects have 397 ⭐️, and 38 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

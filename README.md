@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Subscripts in Swift](https://wesleydegroot.nl/blog/subscript-in-swift)
+[Why You Should Avoid Using AnyView in SwiftUI](https://wesleydegroot.nl/blog/why-you-should-avoid-anyview-in-swiftui)
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
 
 ### Highlighted Project
 
-[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
+[SwiftCronParser](https://github.com/0xWDG/SwiftCronParser)
 
 ### Connect
 

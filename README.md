@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Safari in SwiftUI](https://wesleydegroot.nl/blog/safari-in-swiftui)
+[Tips and ideas to start your own blog](https://wesleydegroot.nl/blog/start-your-own-blog)
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[FilePicker](https://github.com/0xWDG/FilePicker)
+[build-documentation](https://github.com/0xWDG/build-documentation)
 
 ### Connect
 

@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[SwiftData Basics](https://wesleydegroot.nl/blog/swiftdata-basics)
+[Observation Framework in Swift](https://wesleydegroot.nl/blog/observation-framework-in-swift)
 
 ### Random Blog Post
 
-[Tips and ideas to start your own blog](https://wesleydegroot.nl/blog/start-your-own-blog)
+[SwiftUI Development with DynamicUI](https://wesleydegroot.nl/blog/swift-package-dynamicui)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
 
 ### Highlighted Project
 
-[build-documentation](https://github.com/0xWDG/build-documentation)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 

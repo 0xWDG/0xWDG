@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Focus State in SwiftUI](https://wesleydegroot.nl/blog/focus-state-in-swiftui)
+[@ViewBuilder in Swift](https://wesleydegroot.nl/blog/@viewbuilder)
 
 ### Highlighted Application
 
-[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
+[Workout Route](https://wesleydegroot.nl/apps/Workout-Route)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[PHPFramework](https://github.com/0xWDG/PHPFramework)
 
 ### Connect
 

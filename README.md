@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Swift Concurrency Best Practices](https://wesleydegroot.nl/blog/swift-concurrency-best-practices)
+[]()
 
 ### Random Blog Post
 
-[CoreSpotlight](https://wesleydegroot.nl/blog/corespotlight)
+[]()
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[]()
 
 ### Highlighted Project
 
-[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
+[]()
 
 ### Connect
 

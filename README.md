@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Swift Concurrency Best Practices](https://wesleydegroot.nl/blog/swift-concurrency-best-practices)
+[Result Builders in Swift](https://wesleydegroot.nl/blog/result-builders-in-swift)
 
 ### Random Blog Post
 
-[Hidden macOS features](https://wesleydegroot.nl/blog/hidden-macos-features)
+[Variadic Parameters](https://wesleydegroot.nl/blog/variadic-parameters)
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
 
 ### Highlighted Project
 
-[PreventScreenshot](https://github.com/0xWDG/PreventScreenshot)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 0 ⭐️, and 0 Forks.  
+My projects have 397 ⭐️, and 38 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

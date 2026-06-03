@@ -40,7 +40,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Variadic Parameters](https://wesleydegroot.nl/blog/variadic-parameters)
+[Placing components within the Safe Area Inset](https://wesleydegroot.nl/blog/placing-components-within-the-safe-area-inset)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 

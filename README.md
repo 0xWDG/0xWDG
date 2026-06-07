@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[]()
+[Result Builders in Swift](https://wesleydegroot.nl/blog/result-builders-in-swift)
 
 ### Random Blog Post
 
-[]()
+[Contextmenu](https://wesleydegroot.nl/blog/contextmenu)
 
 ### Highlighted Application
 
-[]()
+[Workout Route](https://wesleydegroot.nl/apps/Workout-Route)
 
 ### Highlighted Project
 
-[]()
+[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
 
 ### Connect
 

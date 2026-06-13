@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Pull-to-Refresh in SwiftUI](https://wesleydegroot.nl/blog/pull-to-refresh-in-swiftui)
+[Custom Shapes in SwiftUI](https://wesleydegroot.nl/blog/custom-shapes-in-swiftui)
 
 ### Highlighted Application
 
-[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
+[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
 
 ### Highlighted Project
 
-[SwiftExtras](https://github.com/0xWDG/SwiftExtras)
+[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
 
 ### Connect
 

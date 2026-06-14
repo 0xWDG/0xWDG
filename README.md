@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Custom Shapes in SwiftUI](https://wesleydegroot.nl/blog/custom-shapes-in-swiftui)
+[Reduced Motion](https://wesleydegroot.nl/blog/reduced-motion)
 
 ### Highlighted Application
 
-[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[OSLogViewer](https://github.com/0xWDG/OSLogViewer)
+[Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
 
 ### Connect
 

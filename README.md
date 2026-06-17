@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[]()
+[Custom Codable Implementations in Swift](https://wesleydegroot.nl/blog/custom-codable-implementations-in-swift)
 
 ### Random Blog Post
 
-[]()
+[Swift Package: PreventScreenshot](https://wesleydegroot.nl/blog/swift-package-preventscreenshot)
 
 ### Highlighted Application
 
-[]()
+[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
 
 ### Highlighted Project
 
-[]()
+[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
 
 ### Connect
 

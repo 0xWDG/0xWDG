@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Hacktoberfest 2025](https://wesleydegroot.nl/blog/hacktoberfest-2025)
+[Differentiate Without Color](https://wesleydegroot.nl/blog/differentiate-without-color)
 
 ### Highlighted Application
 
-[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
+[iWebTools](https://wesleydegroot.nl/apps/iWebTools)
 
 ### Highlighted Project
 
-[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
+[DynamicUI](https://github.com/0xWDG/DynamicUI)
 
 ### Connect
 

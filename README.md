@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[URLSession with async await](https://wesleydegroot.nl/blog/urlsession-with-async-await)
+[Swift Testing Framework](https://wesleydegroot.nl/blog/swift-testing-framework)
 
 ### Random Blog Post
 
-[Enums](https://wesleydegroot.nl/blog/enums)
+[Move your app to the background](https://wesleydegroot.nl/blog/move-your-app-to-the-background)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
+[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
 
 ### Connect
 

@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[]()
+[Protocol Extensions in Swift](https://wesleydegroot.nl/blog/protocol-extensions-in-swift)
 
 ### Random Blog Post
 
-[]()
+[Environment: OpenURL](https://wesleydegroot.nl/blog/environment-openurl)
 
 ### Highlighted Application
 
-[]()
+[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
 
 ### Highlighted Project
 
-[]()
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Environment: OpenURL](https://wesleydegroot.nl/blog/environment-openurl)
+[Thermal States on iOS](https://wesleydegroot.nl/blog/thermal-states-on-ios)
 
 ### Highlighted Application
 
-[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
+[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[tvOS.js](https://github.com/0xWDG/tvOS.js)
 
 ### Connect
 

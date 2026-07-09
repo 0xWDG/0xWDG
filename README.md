@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Thermal States on iOS](https://wesleydegroot.nl/blog/thermal-states-on-ios)
+[What is @MainActor](https://wesleydegroot.nl/blog/@mainactor)
 
 ### Highlighted Application
 
-[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
+[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
 
 ### Connect
 

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Protocol Extensions in Swift](https://wesleydegroot.nl/blog/protocol-extensions-in-swift)
+[Variadic Parameters](https://wesleydegroot.nl/blog/variadic-parameters)
 
 ### Highlighted Application
 
-[Apple Music 2 Discord](https://wesleydegroot.nl/apps/Apple-Music-2-Discord)
+[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
 
 ### Highlighted Project
 
-[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
+[spm](https://github.com/0xWDG/spm)
 
 ### Connect
 

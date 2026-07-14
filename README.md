@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Protocol Extensions in Swift](https://wesleydegroot.nl/blog/protocol-extensions-in-swift)
+[Error Handling in Swift](https://wesleydegroot.nl/blog/error-handling-in-swift)
 
 ### Random Blog Post
 
-[It's a wrap (2024)](https://wesleydegroot.nl/blog/its-a-wrap-2024)
+[Hacktoberfest 2025](https://wesleydegroot.nl/blog/hacktoberfest-2025)
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
+[tvOS.js](https://github.com/0xWDG/tvOS.js)
 
 ### Connect
 

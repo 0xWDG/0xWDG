@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Hacktoberfest 2025](https://wesleydegroot.nl/blog/hacktoberfest-2025)
+[Reduced Motion](https://wesleydegroot.nl/blog/reduced-motion)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
 
 ### Highlighted Project
 
-[tvOS.js](https://github.com/0xWDG/tvOS.js)
+[Appsterdam-app-ios](https://github.com/Appsterdam/Appsterdam-app-ios)
 
 ### Connect
 

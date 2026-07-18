@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Pull-to-Refresh in SwiftUI](https://wesleydegroot.nl/blog/pull-to-refresh-in-swiftui)
+[Dark Mode](https://wesleydegroot.nl/blog/dark-mode)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[Meeter](https://github.com/0xWDG/Meeter)
+[SwiftOniguruma](https://github.com/thecoolwinter/SwiftOniguruma)
 
 ### Connect
 

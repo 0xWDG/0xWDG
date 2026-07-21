@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Error Handling in Swift](https://wesleydegroot.nl/blog/error-handling-in-swift)
+[Combine Framework Essentials](https://wesleydegroot.nl/blog/combine-framework-essentials)
 
 ### Random Blog Post
 
-[Focus State in SwiftUI](https://wesleydegroot.nl/blog/focus-state-in-swiftui)
+[Pull-to-Refresh in SwiftUI](https://wesleydegroot.nl/blog/pull-to-refresh-in-swiftui)
 
 ### Highlighted Application
 
-[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
+[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
 
 ### Highlighted Project
 
-[iGive](https://github.com/0xWDG/iGive)
+[Dutch.swift](https://github.com/0xWDG/Dutch.swift)
 
 ### Connect
 

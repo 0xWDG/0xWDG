@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Swift Package: ImagePicker](https://wesleydegroot.nl/blog/swift-package-imagepicker)
+[Contact Provider Extension](https://wesleydegroot.nl/blog/contactprovider)
 
 ### Highlighted Application
 
-[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
+[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
 
 ### Highlighted Project
 
-[build-swift](https://github.com/0xWDG/build-swift)
+[Meeter](https://github.com/0xWDG/Meeter)
 
 ### Connect
 

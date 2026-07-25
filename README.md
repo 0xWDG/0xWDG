@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Contact Provider Extension](https://wesleydegroot.nl/blog/contactprovider)
+[Adjust the intensity of colors in SwiftUI views](https://wesleydegroot.nl/blog/adjust-the-intensity-of-colors-in-swiftui-views)
 
 ### Highlighted Application
 
-[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
+[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
 
 ### Highlighted Project
 
-[Meeter](https://github.com/0xWDG/Meeter)
+[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
 
 ### Connect
 

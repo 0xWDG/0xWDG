@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Combine Framework Essentials](https://wesleydegroot.nl/blog/combine-framework-essentials)
+[]()
 
 ### Random Blog Post
 
-[Adjust the intensity of colors in SwiftUI views](https://wesleydegroot.nl/blog/adjust-the-intensity-of-colors-in-swiftui-views)
+[]()
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[]()
 
 ### Highlighted Project
 
-[NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
+[]()
 
 ### Connect
 

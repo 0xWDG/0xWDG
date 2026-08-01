@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Sufficient Contrast](https://wesleydegroot.nl/blog/sufficient-contrast)
+[Simplifying App Onboarding with OnboardingKit](https://wesleydegroot.nl/blog/swift-package-onboardingkit)
 
 ### Highlighted Application
 
-[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[iGive](https://github.com/0xWDG/iGive)
+[xcstrings-translator](https://github.com/0xWDG/xcstrings-translator)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 0 ⭐️, and 0 Forks.  
+My projects have 407 ⭐️, and 45 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Why You Should Avoid Using AnyView in SwiftUI](https://wesleydegroot.nl/blog/why-you-should-avoid-anyview-in-swiftui)
+[Quick actions in SwiftUI](https://wesleydegroot.nl/blog/quick-actions-for-swiftui)
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[Workout Route](https://wesleydegroot.nl/apps/Workout-Route)
 
 ### Highlighted Project
 
-[CodeEdit](https://github.com/codeeditapp/CodeEdit)
+[startupAgenda](https://github.com/0xWDG/startupAgenda)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 407 ⭐️, and 45 Forks.  
+My projects have  ⭐️, and  Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

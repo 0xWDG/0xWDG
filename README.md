@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Navigation in SwiftUI](https://wesleydegroot.nl/blog/navigation-in-swiftui)
+[Larger Text](https://wesleydegroot.nl/blog/larger-text)
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
 
 ### Highlighted Project
 
-[quacky.nl](https://github.com/0xWDG/quacky.nl)
+[iGive](https://github.com/0xWDG/iGive)
 
 ### Connect
 

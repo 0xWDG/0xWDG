@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Dependency Injection in Swift](https://wesleydegroot.nl/blog/dependency-injection-in-swift)
+[App Lifecycle Management in iOS](https://wesleydegroot.nl/blog/app-lifecycle-management-in-ios)
 
 ### Random Blog Post
 
-[Handle plurals in Swift with inflection](https://wesleydegroot.nl/blog/handle-plurals-in-swift-with-inflection)
+[@Environment variables](https://wesleydegroot.nl/blog/@environment)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[ScreenshotImporter](https://github.com/0xWDG/ScreenshotImporter)
+[GlobalChat](https://github.com/0xWDG/GlobalChat)
 
 ### Connect
 

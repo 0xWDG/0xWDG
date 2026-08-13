@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[ScrollView Performance in SwiftUI](https://wesleydegroot.nl/blog/scrollview-performance-in-swiftui)
+[@Environment variables](https://wesleydegroot.nl/blog/@environment)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[SimpleNetworking](https://github.com/0xWDG/SimpleNetworking)
+[EmojiSaver](https://github.com/0xWDG/EmojiSaver)
 
 ### Connect
 

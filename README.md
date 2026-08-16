@@ -40,7 +40,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Tracking Screen Views in SwiftUI with a Custom ViewModifier](https://wesleydegroot.nl/blog/tracking-screen-views-in-swiftui-with-a-custom-viewmodifier)
+[SwiftUI Buttons](https://wesleydegroot.nl/blog/swiftui-buttons)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Highlighted Project
 
-[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 

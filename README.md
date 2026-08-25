@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Custom Operators in Swift](https://wesleydegroot.nl/blog/custom-operators-in-swift)
+[SwiftUI Animation Curves and Timing](https://wesleydegroot.nl/blog/swiftui-animation-curves-and-timing)
 
 ### Random Blog Post
 
-[Creating a dynamic user interface for extensions in Aurora Editor](https://wesleydegroot.nl/blog/creating-a-dynamic-ui-for-extensions-in-aurora-editor)
+[Swift Testing Framework](https://wesleydegroot.nl/blog/swift-testing-framework)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[Meeter](https://github.com/0xWDG/Meeter)
+[hot-jake.online](https://github.com/0xWDG/hot-jake.online)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 409 ⭐️, and 45 Forks.  
+My projects have 0 ⭐️, and 0 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

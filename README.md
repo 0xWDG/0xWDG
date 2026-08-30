@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Property Wrappers Deep Dive](https://wesleydegroot.nl/blog/property-wrappers-deep-dive)
+[Popovers in SwiftUI](https://wesleydegroot.nl/blog/popovers-in-swiftui)
 
 ### Highlighted Application
 
-[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[GlobalChat](https://github.com/0xWDG/GlobalChat)
+[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
 
 ### Connect
 

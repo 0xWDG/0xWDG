@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Exploring the .inspector Modifier in SwiftUI](https://wesleydegroot.nl/blog/the-inspector-modifier-in-swiftui)
+[GeometryReader in SwiftUI](https://wesleydegroot.nl/blog/geometryreader-in-swiftui)
 
 ### Highlighted Application
 
-[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
+[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
 
 ### Highlighted Project
 
-[build-swift](https://github.com/0xWDG/build-swift)
+[TelemetryDeck-Stats](https://github.com/0xWDG/TelemetryDeck-Stats)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 411 ⭐️, and 44 Forks.  
+My projects have 412 ⭐️, and 44 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

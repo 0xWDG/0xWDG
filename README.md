@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[GeometryReader in SwiftUI](https://wesleydegroot.nl/blog/geometryreader-in-swiftui)
+[It's a wrap (2025)](https://wesleydegroot.nl/blog/its-a-wrap-2025)
 
 ### Highlighted Application
 
-[DV Guide](https://wesleydegroot.nl/apps/DV-Guide)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[TelemetryDeck-Stats](https://github.com/0xWDG/TelemetryDeck-Stats)
+[ImagePicker](https://github.com/0xWDG/ImagePicker)
 
 ### Connect
 

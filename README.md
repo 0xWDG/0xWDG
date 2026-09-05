@@ -40,7 +40,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[iCloud Drive Tips {{RND_BLOGPOST}} Tricks](https://wesleydegroot.nl/blog/icloud-drive-tips-and-tricks)
+[Protocol Extensions in Swift](https://wesleydegroot.nl/blog/protocol-extensions-in-swift)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Highlighted Project
 
-[GameControllerKit](https://github.com/0xWDG/GameControllerKit)
+[SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 ### Connect
 

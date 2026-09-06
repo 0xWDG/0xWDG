@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Protocol Extensions in Swift](https://wesleydegroot.nl/blog/protocol-extensions-in-swift)
+[Contextmenu](https://wesleydegroot.nl/blog/contextmenu)
 
 ### Highlighted Application
 
-[DinnerConnect](https://wesleydegroot.nl/apps/DinnerConnect)
+[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
 
 ### Highlighted Project
 
-[SecureStorage](https://github.com/0xWDG/SecureStorage)
+[ScreenshotImporter](https://github.com/0xWDG/ScreenshotImporter)
 
 ### Connect
 

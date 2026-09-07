@@ -40,7 +40,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Contextmenu](https://wesleydegroot.nl/blog/contextmenu)
+[Property Wrappers Deep Dive](https://wesleydegroot.nl/blog/property-wrappers-deep-dive)
 
 ### Highlighted Application
 
@@ -48,7 +48,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Highlighted Project
 
-[ScreenshotImporter](https://github.com/0xWDG/ScreenshotImporter)
+[Appsterdam-App-Android](https://github.com/Appsterdam/Appsterdam-App-Android)
 
 ### Connect
 

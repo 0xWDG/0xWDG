@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Building App Extensions in iOS](https://wesleydegroot.nl/blog/building-app-extensions)
+[Navigation Destinations in SwiftUI](https://wesleydegroot.nl/blog/navigation-destinations-in-swiftui)
 
 ### Random Blog Post
 
-[Property Wrappers Deep Dive](https://wesleydegroot.nl/blog/property-wrappers-deep-dive)
+[Creating macOS Menu Bar App in SwiftUI](https://wesleydegroot.nl/blog/creating-macos-menu-bar-app)
 
 ### Highlighted Application
 
-[World Of Crime](https://wesleydegroot.nl/apps/World-Of-Crime)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[Appsterdam-App-Android](https://github.com/Appsterdam/Appsterdam-App-Android)
+[ScreenshotImporter](https://github.com/0xWDG/ScreenshotImporter)
 
 ### Connect
 

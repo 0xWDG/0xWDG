@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Creating macOS Menu Bar App in SwiftUI](https://wesleydegroot.nl/blog/creating-macos-menu-bar-app)
+[Placing components within the Safe Area Inset](https://wesleydegroot.nl/blog/placing-components-within-the-safe-area-inset)
 
 ### Highlighted Application
 
-[Calendo](https://wesleydegroot.nl/apps/Calendo)
+[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
 
 ### Highlighted Project
 
-[ScreenshotImporter](https://github.com/0xWDG/ScreenshotImporter)
+[GlobalChat](https://github.com/0xWDG/GlobalChat)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 413 ⭐️, and 44 Forks.  
+My projects have 414 ⭐️, and 44 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

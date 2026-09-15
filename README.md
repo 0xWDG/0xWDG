@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Navigation Destinations in SwiftUI](https://wesleydegroot.nl/blog/navigation-destinations-in-swiftui)
+[Local Notifications in iOS](https://wesleydegroot.nl/blog/local-notifications-in-ios)
 
 ### Random Blog Post
 
-[Swift Concurrency Best Practices](https://wesleydegroot.nl/blog/swift-concurrency-best-practices)
+[Building Editable Lists in SwiftUI](https://wesleydegroot.nl/blog/building-editable-lists-in-swiftui)
 
 ### Highlighted Application
 
-[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
+[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
 
 ### Highlighted Project
 
-[XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
+[Aurora.swift](https://github.com/0xWDG/Aurora.swift)
 
 ### Connect
 

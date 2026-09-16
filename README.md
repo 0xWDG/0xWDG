@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Building Editable Lists in SwiftUI](https://wesleydegroot.nl/blog/building-editable-lists-in-swiftui)
+[SimpleNetworking](https://wesleydegroot.nl/blog/simplenetworking)
 
 ### Highlighted Application
 
-[xcstrings-translator](https://wesleydegroot.nl/apps/xcstrings-translator)
+[Appsterdam](https://wesleydegroot.nl/apps/Appsterdam)
 
 ### Highlighted Project
 
-[Aurora.swift](https://github.com/0xWDG/Aurora.swift)
+[iCloudStorage](https://github.com/0xWDG/iCloudStorage)
 
 ### Connect
 

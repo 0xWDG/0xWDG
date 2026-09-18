@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Popovers in SwiftUI](https://wesleydegroot.nl/blog/popovers-in-swiftui)
+[Pull-to-Refresh in SwiftUI](https://wesleydegroot.nl/blog/pull-to-refresh-in-swiftui)
 
 ### Highlighted Application
 
-[Image Actions](https://wesleydegroot.nl/apps/Image-Actions)
+[PopArt Stickers](https://wesleydegroot.nl/apps/PopArt-Stickers)
 
 ### Highlighted Project
 
-[Appsterdam-app-ios](https://github.com/Appsterdam/Appsterdam-app-ios)
+[Dutch.swift](https://github.com/0xWDG/Dutch.swift)
 
 ### Connect
 

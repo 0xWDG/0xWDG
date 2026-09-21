@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[]()
+[Local Notifications in iOS](https://wesleydegroot.nl/blog/local-notifications-in-ios)
 
 ### Random Blog Post
 
-[]()
+[SwiftUI Buttons](https://wesleydegroot.nl/blog/swiftui-buttons)
 
 ### Highlighted Application
 
-[]()
+[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
 
 ### Highlighted Project
 
-[]()
+[Aurora.swift](https://github.com/0xWDG/Aurora.swift)
 
 ### Connect
 

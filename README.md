@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Local Notifications in iOS](https://wesleydegroot.nl/blog/local-notifications-in-ios)
+[Creating Widgets with WidgetKit](https://wesleydegroot.nl/blog/creating-widgets-with-widgetkit)
 
 ### Random Blog Post
 
-[SwiftUI Buttons](https://wesleydegroot.nl/blog/swiftui-buttons)
+[iOS Settings URL's](https://wesleydegroot.nl/blog/ios-settings-urls)
 
 ### Highlighted Application
 
-[Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[Aurora.swift](https://github.com/0xWDG/Aurora.swift)
+[Apple-Music-to-Discord](https://github.com/0xWDG/Apple-Music-to-Discord)
 
 ### Connect
 

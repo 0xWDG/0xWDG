@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[iCloud Drive Tips {{RND_BLOGPOST}} Tricks](https://wesleydegroot.nl/blog/icloud-drive-tips-and-tricks)
+[Apple version numbers](https://wesleydegroot.nl/blog/apple-version-numbers)
 
 ### Highlighted Application
 
-[Workout Route](https://wesleydegroot.nl/apps/Workout-Route)
+[HexConquest](https://wesleydegroot.nl/apps/HexConquest)
 
 ### Highlighted Project
 
-[Appsterdam-App-Android](https://github.com/Appsterdam/Appsterdam-App-Android)
+[TemplateParser](https://github.com/0xWDG/TemplateParser)
 
 ### Connect
 

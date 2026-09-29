@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Creating Widgets with WidgetKit](https://wesleydegroot.nl/blog/creating-widgets-with-widgetkit)
+[Swift Charts Framework](https://wesleydegroot.nl/blog/swift-charts-framework)
 
 ### Random Blog Post
 
-[Default values for UserDefaults](https://wesleydegroot.nl/blog/default-values-for-userdefaults)
+[Building an Asynchronous Button in SwiftUI](https://wesleydegroot.nl/blog/async-buttons-in-swiftui)
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
 
 ### Highlighted Project
 
-[FilePicker](https://github.com/0xWDG/FilePicker)
+[hot-jake.online](https://github.com/0xWDG/hot-jake.online)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Stats
 
-My projects have 414 ⭐️, and 44 Forks.  
+My projects have 0 ⭐️, and 0 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

@@ -36,19 +36,19 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Latest Blog Post
 
-[Swift Charts Framework](https://wesleydegroot.nl/blog/swift-charts-framework)
+[]()
 
 ### Random Blog Post
 
-[Building an Asynchronous Button in SwiftUI](https://wesleydegroot.nl/blog/async-buttons-in-swiftui)
+[]()
 
 ### Highlighted Application
 
-[Tools Stickers](https://wesleydegroot.nl/apps/Tools-Stickers)
+[]()
 
 ### Highlighted Project
 
-[hot-jake.online](https://github.com/0xWDG/hot-jake.online)
+[]()
 
 ### Connect
 

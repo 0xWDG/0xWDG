@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[Variadic Parameters](https://wesleydegroot.nl/blog/variadic-parameters)
+[NavigationStack](https://wesleydegroot.nl/blog/navigationstack)
 
 ### Highlighted Application
 
-[Lucky Stickers](https://wesleydegroot.nl/apps/Lucky-Stickers)
+[Just Selfie](https://wesleydegroot.nl/apps/Just-Selfie)
 
 ### Highlighted Project
 
-[Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
+[ImagePicker](https://github.com/0xWDG/ImagePicker)
 
 ### Connect
 

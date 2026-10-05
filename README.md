@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PS
 
 ### Random Blog Post
 
-[iOS App States](https://wesleydegroot.nl/blog/app-states-in-ios)
+[Swift Package: XCUITestHelper](https://wesleydegroot.nl/blog/swift-package-xcuitesthelper)
 
 ### Highlighted Application
 
-[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
+[Calendo](https://wesleydegroot.nl/apps/Calendo)
 
 ### Highlighted Project
 
-[SwiftLoggerUI](https://github.com/0xWDG/SwiftLoggerUI)
+[SwiftDiagnostics](https://github.com/0xWDG/SwiftDiagnostics)
 
 ### Connect
 

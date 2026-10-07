@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA12ST2vcMBDFv8qgS23YKJTSUgzbH
 
 ### Random Blog Post
 
-[Hidden macOS features](https://wesleydegroot.nl/blog/hidden-macos-features)
+[SwiftUI Lists](https://wesleydegroot.nl/blog/swiftui-lists)
 
 ### Highlighted Application
 
-[Electrical Symbols Stickers](https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers)
+[Hacker Stickers](https://wesleydegroot.nl/apps/Hacker-Stickers)
 
 ### Highlighted Project
 
-[Aurora.js](https://github.com/0xWDG/Aurora.js)
+[OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 ### Connect
 

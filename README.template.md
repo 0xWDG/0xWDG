@@ -1,7 +1,7 @@
 ```swift
 class Wesley: Developer {
   let name = "Wesley de Groot"
-  let age = 35
+  let age = 36
   let location: Location = .Netherlands
   let languages: [Languages] = [.Dutch, .English]
 
@@ -32,7 +32,7 @@ print(Wesley().details())
   }
   ```
 </details>
-Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA11TwWrcMBD9lUGX2rBRKCVQDG0PSdsQNm3AgR7iPWitsa1Wlowku7TL%2FntHlu0NlS%2FSzJvHm8fzidWsYKofrAvwxY5GiqCsqeirtfAefqDX%2BKeAO5xQ2wEdnCoDoDGAET3CB6hYwoBE%2BOqsDRVbEaKNgHc361vbeqYvYL%2FcqM2%2FYejQaWGk34DCtCNN%2BwJe9uv9QOAXfjeGutsB%2F2xarXx3iFLT0OBs60TfK9NuM3GkYuVv1ZCsHWn9fvyJdVATXt2mwoOYRFk7NSyAp%2Funih1Wzl64X%2BOQWO6fH%2FcJc1uWMyaimtHUtHoQSvssh6uPUAZHEpJP8UzCrYDZruRPPI1dO6AMPCrnrMscNjpKNG0BHnWT87pTWjo0F8p4aEEnF7eOqIk6UfH0RO0RTlBbQ1Qjwvn17CKHi2FAIzNSVGXzGK%2FFoILQ6i%2FKvAAqL6ST0CPmFe3M8pVpo3QYRmdW1lil1jn6M5AVIUsByXK%2B%2BUQc19fPHYI42glBWvTmTSC1%2FaA0fordh9FTgqSE0ClPtvXKezKlYoSSyC8R%2FS%2BaaMb%2Bki9yQJARrzKWZCfUFpMFtoRryda8BduxiX6RG%2F6ev2XnfwSuK0IwAwAA'>Run in SwiftFiddle</a>.
+Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA12ST2vcMBDFv8qgS23YKJTSUgzbHpK2IWzagAM5RHvQSrO2Wnlk9MelXfa7F63s3dA5SaPfPEaPd2CKNcwMo%2FMRvrpEWkbjSJAgZWUI8IzB4p8GbnFC60b0cBAEYDECyQFhDYIVBjTCN%2B9cFGwhZJeBdx%2BWu3XqJN%2FAZj7BGvh3jD16K0mHMyipS7LD0MDLZjlvYQ0v%2FDZF1a%2BAf6HOmtBv86plaPSu83IYDHXnmTwiWPvb7KNgKxDsx%2B4nqmgmvLopjXs5yVZ5M87A492jYNtFc5D%2BVxqLyt3Tw6YwN217YjK1T6RAY5TGhqqGq0%2FQRm%2BoKz7lmqRfgJNdxZ9ce7e8gCF4MN47X3nc27widQ0EtPuaq95Y7ZEukrm6JL2e3dqhhfUsxcsVbUA4gHIUDSWE4%2BvZeR0uxxFJV4IJUZ3GuJKjidKav6jrBoSoZtFJ2oS1ECRYvSidJT3G5GlRzd2joGP2Z%2FSGYlUCUtX87FMt6Pr6qUeQOzchaIeB3kRQbhiNxc%2F59T6FCFJriL0JINhgQjDUCQbKaeSXiP4XTaQ0XPJ1ACUDwquMlbULdY7JjM3hmrN1%2BgVbsYk17D3%2FyN%2By4z%2Ft8BUsMAMAAA%3D%3D'>Run in SwiftFiddle</a>.
 
 ### Latest Blog Post
 

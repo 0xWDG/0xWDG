@@ -40,15 +40,15 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA12ST2vcMBDFv8qgS23YKJTSUgzbH
 
 ### Random Blog Post
 
-[Property Wrappers Deep Dive](https://wesleydegroot.nl/blog/property-wrappers-deep-dive)
+[Using the share sheet to share content](https://wesleydegroot.nl/blog/using-the-share-sheet-to-share-content)
 
 ### Highlighted Application
 
-[Aurora Editor](https://wesleydegroot.nl/apps/Aurora-Editor)
+[Contact Manager](https://wesleydegroot.nl/apps/Contact-Manager)
 
 ### Highlighted Project
 
-[ScreenshotImporter](https://github.com/0xWDG/ScreenshotImporter)
+[WebShell](https://github.com/djyde/WebShell)
 
 ### Connect
 
@@ -72,7 +72,7 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA12ST2vcMBDFv8qgS23YKJTSUgzbH
 
 ### Stats
 
-My projects have 418 ⭐️, and 44 Forks.  
+My projects have 0 ⭐️, and 0 Forks.  
 [![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
 ![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
 ![](https://hit.yhype.me/github/profile?user_id=1290461)

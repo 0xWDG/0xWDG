@@ -40,11 +40,11 @@ Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA12ST2vcMBDFv8qgS23YKJTSUgzbH
 
 ### Random Blog Post
 
-[Using the share sheet to share content](https://wesleydegroot.nl/blog/using-the-share-sheet-to-share-content)
+[Building xcstrings-translator](https://wesleydegroot.nl/blog/building-xcstrings-translator)
 
 ### Highlighted Application
 
-[Contact Manager](https://wesleydegroot.nl/apps/Contact-Manager)
+[XCStrings Translator](https://wesleydegroot.nl/apps/XCStrings-Translator)
 
 ### Highlighted Project
 

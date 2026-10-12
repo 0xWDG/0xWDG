@@ -1,97 +1,56 @@
+<div align="center">
+  <h1>Hi, I’m Wesley de Groot 👋</h1>
+  <p>Apple-platform developer, open-source contributor, and builder of thoughtful tools.</p>
+  <p>
+    <a href="https://wesleydegroot.nl">Website</a> ·
+    <a href="https://wesleydegroot.nl/blog/">Blog</a> ·
+    <a href="https://github.com/0xWDG">GitHub</a>
+  </p>
+</div>
+
 ```swift
-class Wesley: Developer {
-  let name = "Wesley de Groot"
-  let age = 36
-  let location: Location = .Netherlands
-  let languages: [Languages] = [.Dutch, .English]
+struct Wesley {
+    let location = "The Netherlands"
+    let speaks = ["Dutch", "English"]
+    let buildsWith = ["Swift", "Objective-C", "JavaScript", "PHP"]
 
-  let programmingLanguages = ["Swift", "Objective-C", "JavaScript", "PHP"]
-  let markup = ["HTML", "CSS"]
-
-  func details() -> String {
-      var details = ""
-      for detail in Mirror(reflecting: self).children {
-          guard let label = detail.label else { continue }
-          details.append("\(label.capitalized): \(detail.value)\n")
-      }
-      return details
-  }
+    var currentlyExploring: String {
+        "Better developer experiences across Apple platforms."
+    }
 }
-
-print(Wesley().details())
 ```
 
-<details>
-  <summary>// The above doesn't compile?</summary>
-  // Just add this "missing" code.
-  
-  ```swift
-  class Developer {
-    enum Location { case Netherlands }
-    enum Languages { case Dutch, English }
-  }
-  ```
-</details>
-Or <a href='https://swiftfiddle.com/?c=H4sIAAAAAAAAA12ST2vcMBDFv8qgS23YKJTSUgzbHpK2IWzagAM5RHvQSrO2Wnlk9MelXfa7F63s3dA5SaPfPEaPd2CKNcwMo%2FMRvrpEWkbjSJAgZWUI8IzB4p8GbnFC60b0cBAEYDECyQFhDYIVBjTCN%2B9cFGwhZJeBdx%2BWu3XqJN%2FAZj7BGvh3jD16K0mHMyipS7LD0MDLZjlvYQ0v%2FDZF1a%2BAf6HOmtBv86plaPSu83IYDHXnmTwiWPvb7KNgKxDsx%2B4nqmgmvLopjXs5yVZ5M87A492jYNtFc5D%2BVxqLyt3Tw6YwN217YjK1T6RAY5TGhqqGq0%2FQRm%2BoKz7lmqRfgJNdxZ9ce7e8gCF4MN47X3nc27widQ0EtPuaq95Y7ZEukrm6JL2e3dqhhfUsxcsVbUA4gHIUDSWE4%2BvZeR0uxxFJV4IJUZ3GuJKjidKav6jrBoSoZtFJ2oS1ECRYvSidJT3G5GlRzd2joGP2Z%2FSGYlUCUtX87FMt6Pr6qUeQOzchaIeB3kRQbhiNxc%2F59T6FCFJriL0JINhgQjDUCQbKaeSXiP4XTaQ0XPJ1ACUDwquMlbULdY7JjM3hmrN1%2BgVbsYk17D3%2FyN%2By4z%2Ft8BUsMAMAAA%3D%3D'>Run in SwiftFiddle</a>.
+I enjoy creating polished applications, useful developer tools, and practical Swift resources. If you are here to explore an idea, collaborate on open source, or learn something new, you are in the right place.
 
-### Latest Blog Post
+## Featured work
 
-[Swift Package Best Practices](https://wesleydegroot.nl/blog/swift-package-best-practices)
+| Application | Project |
+| :-- | :-- |
+| [Workout Route](https://wesleydegroot.nl/apps/Workout-Route) | [FeatureFlagKit](https://github.com/0xWDG/FeatureFlagKit) |
 
-### Random Blog Post
+## From the blog
 
-[Building xcstrings-translator](https://wesleydegroot.nl/blog/building-xcstrings-translator)
+**Latest:** [Swift Package Best Practices](https://wesleydegroot.nl/blog/swift-package-best-practices)<br />
+**Discover something different:** [Translating closures to async](https://wesleydegroot.nl/blog/closures-to-async)
 
-### Highlighted Application
+Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 
-[XCStrings Translator](https://wesleydegroot.nl/apps/XCStrings-Translator)
+## Let’s connect
 
-### Highlighted Project
+<a href="https://mastodon.social/@0xWDG" rel="me noreferrer"><img src="https://img.shields.io/mastodon/follow/109083228102657977?logo=mastodon&style=for-the-badge&color=3382ed&labelColor=1c1917" alt="Follow 0xWDG on Mastodon" /></a>
+<a href="https://discordapp.com/users/918438083861573692" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-0xWDG-5865F2?logo=discord&style=for-the-badge&logoColor=white" alt="Message 0xWDG on Discord" /></a>
+<a href="https://twitter.com/0xWDG" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/0xWDG?logo=x&style=for-the-badge&color=3382ed&labelColor=1c1917" alt="Follow 0xWDG on X" /></a>
+<a href="https://github.com/0xWDG" rel="noreferrer"><img src="https://img.shields.io/github/followers/0xWDG?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" alt="Follow 0xWDG on GitHub" /></a>
 
-[WebShell](https://github.com/djyde/WebShell)
+## By the numbers
 
-### Connect
+My projects have earned **419 stars** and **44 forks**.
 
-<a href="https://mastodon.social/@0xWDG" target="_blank" rel="noreferrer"><img src="https://img.shields.io/mastodon/follow/109083228102657977?logo=mastodon&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
-<a href="https://discordapp.com/users/918438083861573692" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/0xWDG?logo=discord&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
-<a href="https://www.twitter.com/0xWDG" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/0xWDG?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a><br />
-<a href="https://www.github.com/0xWDG" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/0xWDG?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
-<a href="https://wesleydegroot.nl" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Website-wesleydegroot.nl-blue?style=for-the-badge" />
-</a>
-
-<!--
-### I'm working on
-
-[AuroraEditor](https://github.com/AuroraEditor/AuroraEditor), [CodeEdit](https://github.com/CodeEditApp/CodeEdit), And many more...
-
-<!--
-### Summary
-<img src='https://metrics.lecoq.io/0xWDG?template=classic'>
--->
-
-### Stats
-
-My projects have 0 ⭐️, and 0 Forks.  
-[![committers.top badge](https://user-badge.committers.top/netherlands/0xWDG.svg)](https://user-badge.committers.top/netherlands/0xWDG)
-![](https://komarev.com/ghpvc/?username=0xWDG&style=plastic)
-![](https://hit.yhype.me/github/profile?user_id=1290461)
-
-<a href='#stats'><img src='https://streak-stats.demolab.com/?user=0xWDG&hide_border=true&date_format=j-M-Y'></a>
-
-<table><tr>
-  <td><a href='#stats'><img src='https://github-readme-stats.vercel.app/api/?username=0xWDG&count_private=true&show_icons=true'></a></td>
-  <td><a href='#stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=0xWDG'></a></td>
-</tr></table>
-
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-<h3 align="left">More stats:</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=0xWDG&no-bg=true&no-frame=true" alt="GHPS">
--->
-
-Interested learning more about Swift? [Check out my blog](https://wesleydegroot.nl/blog/).
-
-### Pinned repo's:
+<div align="center">
+  <a href="https://github.com/0xWDG">
+    <img src="https://github-readme-stats.vercel.app/api?username=0xWDG&show_icons=true&hide_border=true" alt="Wesley's GitHub statistics" />
+  </a>
+  <a href="https://github.com/0xWDG">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xWDG&layout=compact&hide_border=true" alt="Wesley's most used programming languages" />
+  </a>
+</div>

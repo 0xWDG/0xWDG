@@ -26,12 +26,12 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 | Application | Project |
 | :-- | :-- |
-| [Workout Route](https://wesleydegroot.nl/apps/Workout-Route) | [FeatureFlagKit](https://github.com/0xWDG/FeatureFlagKit) |
+| [Calendo](https://wesleydegroot.nl/apps/Calendo) | [PHPFramework](https://github.com/0xWDG/PHPFramework) |
 
 ## From the blog
 
 **Latest:** [Swift Package Best Practices](https://wesleydegroot.nl/blog/swift-package-best-practices)<br />
-**Discover something different:** [Translating closures to async](https://wesleydegroot.nl/blog/closures-to-async)
+**Discover something different:** [ContentUnavailableView](https://wesleydegroot.nl/blog/contentunavailableview)
 
 Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 
@@ -44,7 +44,7 @@ Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for artic
 
 ## By the numbers
 
-My projects have earned **419 stars** and **44 forks**.
+My projects have earned **0 stars** and **0 forks**.
 
 <div align="center">
   <a href="https://github.com/0xWDG">

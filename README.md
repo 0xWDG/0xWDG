@@ -26,12 +26,12 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 | Application | Project |
 | :-- | :-- |
-| [Calendo](https://wesleydegroot.nl/apps/Calendo) | [PHPFramework](https://github.com/0xWDG/PHPFramework) |
+| []() | []() |
 
 ## From the blog
 
-**Latest:** [Swift Package Best Practices](https://wesleydegroot.nl/blog/swift-package-best-practices)<br />
-**Discover something different:** [ContentUnavailableView](https://wesleydegroot.nl/blog/contentunavailableview)
+**Latest:** []()<br />
+**Discover something different:** []()
 
 Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

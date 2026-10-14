@@ -26,12 +26,12 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 | Application | Project |
 | :-- | :-- |
-| []() | []() |
+| [Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route) | [PreventScreenshot](https://github.com/0xWDG/PreventScreenshot) |
 
 ## From the blog
 
-**Latest:** []()<br />
-**Discover something different:** []()
+**Latest:** [App Store Optimization for iOS](https://wesleydegroot.nl/blog/app-store-optimization-for-ios)<br />
+**Discover something different:** [Understanding assertions in Swift](https://wesleydegroot.nl/blog/understanding-assertions-in-swift)
 
 Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

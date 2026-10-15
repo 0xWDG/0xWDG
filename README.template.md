@@ -24,9 +24,15 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 ## Featured work
 
-| Application | Project |
-| :-- | :-- |
-| {{HIGHLIGHTEDAPPLICATION}} | {{HIGHLIGHTEDPROJECT}} |
+<table>
+  <tr>
+    <td width="100"><a href="{{APPLICATION_URL}}"><img src="{{APPLICATION_ICON_URL}}" alt="{{HIGHLIGHTEDAPPLICATION}} icon" width="100" height="100" /></a></td>
+    <td><h4>{{APPLICATION_NAME}}</h4>{{APPLICATION_DESCRIPTION}}<br /><a href="{{APPLICATION_URL}}">Read more</a></td>
+  </tr>
+</table>
+
+### {{HIGHLIGHTEDPROJECT}}
+
 
 ## From the blog
 

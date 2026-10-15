@@ -24,14 +24,20 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 ## Featured work
 
-| Application | Project |
-| :-- | :-- |
-| [Surprise Route](https://wesleydegroot.nl/apps/Surprise-Route) | [PreventScreenshot](https://github.com/0xWDG/PreventScreenshot) |
+<table>
+  <tr>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/HexConquest"><img src="https://wesleydegroot.nl/assets/apps/HexConquest.png" alt="HexConquest icon" width="100" height="100" /></a></td>
+    <td><h4>HexConquest</h4>In Hex Conquest, every decision shapes the battlefield. Your goal is simple: conquer more tiles than your opponents. But to win, you’ll need foresight, cunning, and the ability to adapt as the map shi<br /><a href="https://wesleydegroot.nl/apps/HexConquest">Read more</a></td>
+  </tr>
+</table>
+
+### [Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
+
 
 ## From the blog
 
 **Latest:** [App Store Optimization for iOS](https://wesleydegroot.nl/blog/app-store-optimization-for-ios)<br />
-**Discover something different:** [Understanding assertions in Swift](https://wesleydegroot.nl/blog/understanding-assertions-in-swift)
+**Discover something different:** [Reduced Motion](https://wesleydegroot.nl/blog/reduced-motion)
 
 Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

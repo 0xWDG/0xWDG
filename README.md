@@ -26,18 +26,21 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/HexConquest"><img src="https://wesleydegroot.nl/assets/apps/HexConquest.png" alt="HexConquest icon" width="100" height="100" /></a></td>
-    <td><h4>HexConquest</h4>In Hex Conquest, every decision shapes the battlefield. Your goal is simple: conquer more tiles than your opponents. But to win, you’ll need foresight, cunning, and the ability to adapt as the map shi<br /><a href="https://wesleydegroot.nl/apps/HexConquest">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Appsterdam"><img src="https://wesleydegroot.nl/assets/apps/Appsterdam.png" alt="Appsterdam icon" width="100" height="100" /></a></td>
+    <td><h4>Appsterdam</h4>
+<strong>Appsterdam</strong> is an extraordinary community that celebrates app makers and fosters collaboration. Here are some key points about this vibrant initiative:
+
+1. <strong>Volunteer-Driven Co<br /><a href="https://wesleydegroot.nl/apps/Appsterdam">Read more</a></td>
   </tr>
 </table>
 
-### [Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
+### [CMS](https://github.com/0xWDG/CMS)
 
 
 ## From the blog
 
 **Latest:** [App Store Optimization for iOS](https://wesleydegroot.nl/blog/app-store-optimization-for-ios)<br />
-**Discover something different:** [Reduced Motion](https://wesleydegroot.nl/blog/reduced-motion)
+**Discover something different:** [Easy Publishers](https://wesleydegroot.nl/blog/easy-publishers)
 
 Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 
@@ -50,7 +53,7 @@ Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for artic
 
 ## By the numbers
 
-My projects have earned **0 stars** and **0 forks**.
+My projects have earned **421 stars** and **44 forks**.
 
 <div align="center">
   <a href="https://github.com/0xWDG">

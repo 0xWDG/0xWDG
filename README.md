@@ -26,21 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Appsterdam"><img src="https://wesleydegroot.nl/assets/apps/Appsterdam.png" alt="Appsterdam icon" width="100" height="100" /></a></td>
-    <td><h4>Appsterdam</h4>
-<strong>Appsterdam</strong> is an extraordinary community that celebrates app makers and fosters collaboration. Here are some key points about this vibrant initiative:
-
-1. <strong>Volunteer-Driven Co<br /><a href="https://wesleydegroot.nl/apps/Appsterdam">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/DV-Guide"><img src="https://wesleydegroot.nl/assets/apps/DV-Guide.png" alt="DV Guide icon" width="100" height="100" /></a></td>
+    <td><h4>DV Guide</h4>Dreamlight Valley Guide is a comprehensive mobile application designed to assist villagers in exploring the beautiful and magical world of Dreamlight Valley. The app provides users with all the necess<br /><a href="https://wesleydegroot.nl/apps/DV-Guide">Read more</a></td>
   </tr>
 </table>
 
-### [CMS](https://github.com/0xWDG/CMS)
+### [spm](https://github.com/0xWDG/spm)
 
 
 ## From the blog
 
 **Latest:** [App Store Optimization for iOS](https://wesleydegroot.nl/blog/app-store-optimization-for-ios)<br />
-**Discover something different:** [Easy Publishers](https://wesleydegroot.nl/blog/easy-publishers)
+**Discover something different:** [Hacktoberfest 2025](https://wesleydegroot.nl/blog/hacktoberfest-2025)
 
 Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 
@@ -53,7 +50,7 @@ Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for artic
 
 ## By the numbers
 
-My projects have earned **421 stars** and **44 forks**.
+My projects have earned **0 stars** and **0 forks**.
 
 <div align="center">
   <a href="https://github.com/0xWDG">

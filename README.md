@@ -26,18 +26,20 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/DV-Guide"><img src="https://wesleydegroot.nl/assets/apps/DV-Guide.png" alt="DV Guide icon" width="100" height="100" /></a></td>
-    <td><h4>DV Guide</h4>Dreamlight Valley Guide is a comprehensive mobile application designed to assist villagers in exploring the beautiful and magical world of Dreamlight Valley. The app provides users with all the necess<br /><a href="https://wesleydegroot.nl/apps/DV-Guide">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/PopArt-Stickers"><img src="https://wesleydegroot.nl/assets/apps/PopArt-Stickers.png" alt="PopArt Stickers icon" width="100" height="100" /></a></td>
+    <td><h4>PopArt Stickers</h4>Pop Art is a style of art based on simple, bold images of everyday items, such as soup cans, painted in bright colors, which began in the 1950s in the UK and US.
+
+Pop Art artists, like Andy Warhol and<br /><a href="https://wesleydegroot.nl/apps/PopArt-Stickers">Read more</a></td>
   </tr>
 </table>
 
-### [spm](https://github.com/0xWDG/spm)
+### [SerializeKit](https://github.com/0xWDG/SerializeKit)
 
 
 ## From the blog
 
 **Latest:** [App Store Optimization for iOS](https://wesleydegroot.nl/blog/app-store-optimization-for-ios)<br />
-**Discover something different:** [Hacktoberfest 2025](https://wesleydegroot.nl/blog/hacktoberfest-2025)
+**Discover something different:** [Creating Widgets with WidgetKit](https://wesleydegroot.nl/blog/creating-widgets-with-widgetkit)
 
 Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

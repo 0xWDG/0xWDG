@@ -26,20 +26,20 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Image-Actions"><img src="https://wesleydegroot.nl/assets/apps/Image-Actions.png" alt="Image Actions icon" width="100" height="100" /></a></td>
-    <td><h4>Image Actions</h4>Image Actions is a fast, simple way to transform your images using Shortcuts.
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Surprise-Route"><img src="https://wesleydegroot.nl/assets/apps/Surprise-Route.png" alt="Surprise Route icon" width="100" height="100" /></a></td>
+    <td><h4>Surprise Route</h4>Surprise Route Generator – Discover New Adventures!
 
-Create powerful image workflows you can run with a tap, a widget, or an automation. Instead of opening an editor every <br /><a href="https://wesleydegroot.nl/apps/Image-Actions">Read more</a></td>
+Transform your routine walks or runs into thrilling adventures with the Surprise Route Generator app. Tired of the same path? Whether you're aimi<br /><a href="https://wesleydegroot.nl/apps/Surprise-Route">Read more</a></td>
   </tr>
 </table>
 
-### [CodeEditor](https://github.com/0xWDG/CodeEditor)
+### [Colors](https://github.com/0xWDG/Colors)
 
 
 ## From the blog
 
-**Latest:** [App Store Optimization for iOS](https://wesleydegroot.nl/blog/app-store-optimization-for-ios)<br />
-**Discover something different:** [Using the share sheet to share content](https://wesleydegroot.nl/blog/using-the-share-sheet-to-share-content)
+**Latest:** [SF Symbols in iOS](https://wesleydegroot.nl/blog/sf-symbols-in-ios)<br />
+**Discover something different:** [Interpolation and formatting in Text](https://wesleydegroot.nl/blog/interpolation-and-formatting-in-text)
 
 Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 
@@ -52,7 +52,7 @@ Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for artic
 
 ## By the numbers
 
-My projects have earned **421 stars** and **43 forks**.
+My projects have earned **0 stars** and **0 forks**.
 
 <div align="center">
   <a href="https://github.com/0xWDG">

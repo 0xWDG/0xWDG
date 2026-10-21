@@ -26,22 +26,22 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Surprise-Route"><img src="https://wesleydegroot.nl/assets/apps/Surprise-Route.png" alt="Surprise Route icon" width="100" height="100" /></a></td>
-    <td><h4>Surprise Route</h4>Surprise Route Generator – Discover New Adventures!
+    <td width="100"><a href="https://wesleydegroot.nl/apps/XCStrings-Translator"><img src="https://wesleydegroot.nl/assets/apps/XCStrings-Translator.png" alt="XCStrings Translator icon" width="100" height="100" /></a></td>
+    <td><h4>XCStrings Translator</h4>XCStrings Translator helps macOS developers quickly translate Xcode String Catalogs (.xcstrings) using Apple’s on-device Translation framework.
 
-Transform your routine walks or runs into thrilling adventures with the Surprise Route Generator app. Tired of the same path? Whether you're aimi<br /><a href="https://wesleydegroot.nl/apps/Surprise-Route">Read more</a></td>
+Open a catalog from the app, Finder, or the Open With<br /><a href="https://wesleydegroot.nl/apps/XCStrings-Translator">Read more</a></td>
   </tr>
 </table>
 
-### [Colors](https://github.com/0xWDG/Colors)
+### [Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
 
 
 ## From the blog
 
 **Latest:** [SF Symbols in iOS](https://wesleydegroot.nl/blog/sf-symbols-in-ios)<br />
-**Discover something different:** [Interpolation and formatting in Text](https://wesleydegroot.nl/blog/interpolation-and-formatting-in-text)
+**Discover something different:** [Differentiate Without Color](https://wesleydegroot.nl/blog/differentiate-without-color)
 
-Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
+Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 
 ## Let’s connect
 
@@ -51,8 +51,6 @@ Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for artic
 <a href="https://github.com/0xWDG" rel="noreferrer"><img src="https://img.shields.io/github/followers/0xWDG?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" alt="Follow 0xWDG on GitHub" /></a>
 
 ## By the numbers
-
-My projects have earned **0 stars** and **0 forks**.
 
 <div align="center">
   <a href="https://github.com/0xWDG">

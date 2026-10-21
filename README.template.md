@@ -39,7 +39,7 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 **Latest:** {{BLOGPOST}}<br />
 **Discover something different:** {{RND_BLOGPOST}}
 
-Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
+Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 
 ## Let’s connect
 
@@ -49,8 +49,6 @@ Interested in Swift? [Browse the blog](https://wesleydegroot.nl/blog/) for artic
 <a href="https://github.com/0xWDG" rel="noreferrer"><img src="https://img.shields.io/github/followers/0xWDG?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" alt="Follow 0xWDG on GitHub" /></a>
 
 ## By the numbers
-
-My projects have earned **{{TOTAL_STARS}} stars** and **{{TOTAL_FORKS}} forks**.
 
 <div align="center">
   <a href="https://github.com/0xWDG">

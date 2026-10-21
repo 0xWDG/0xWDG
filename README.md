@@ -26,20 +26,21 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/XCStrings-Translator"><img src="https://wesleydegroot.nl/assets/apps/XCStrings-Translator.png" alt="XCStrings Translator icon" width="100" height="100" /></a></td>
-    <td><h4>XCStrings Translator</h4>XCStrings Translator helps macOS developers quickly translate Xcode String Catalogs (.xcstrings) using Apple’s on-device Translation framework.
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Hacker-Stickers"><img src="https://wesleydegroot.nl/assets/apps/Hacker-Stickers.png" alt="Hacker Stickers icon" width="100" height="100" /></a></td>
+    <td><h4>Hacker Stickers</h4>Finally a sticker pack for nerds! Ever in a convo and wish there was a sticker to say x or y?
+We got you covered with over 60 stickers curated by a nerd for a nerd.
 
-Open a catalog from the app, Finder, or the Open With<br /><a href="https://wesleydegroot.nl/apps/XCStrings-Translator">Read more</a></td>
+Have fun with them….and if you see<br /><a href="https://wesleydegroot.nl/apps/Hacker-Stickers">Read more</a></td>
   </tr>
 </table>
 
-### [Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
+### [ImagePicker](https://github.com/0xWDG/ImagePicker)
 
 
 ## From the blog
 
 **Latest:** [SF Symbols in iOS](https://wesleydegroot.nl/blog/sf-symbols-in-ios)<br />
-**Discover something different:** [Differentiate Without Color](https://wesleydegroot.nl/blog/differentiate-without-color)
+**Discover something different:** [SwiftUI Lists](https://wesleydegroot.nl/blog/swiftui-lists)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

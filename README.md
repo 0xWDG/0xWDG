@@ -26,21 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Hacker-Stickers"><img src="https://wesleydegroot.nl/assets/apps/Hacker-Stickers.png" alt="Hacker Stickers icon" width="100" height="100" /></a></td>
-    <td><h4>Hacker Stickers</h4>Finally a sticker pack for nerds! Ever in a convo and wish there was a sticker to say x or y?
-We got you covered with over 60 stickers curated by a nerd for a nerd.
-
-Have fun with them….and if you see<br /><a href="https://wesleydegroot.nl/apps/Hacker-Stickers">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Contact-Manager"><img src="https://wesleydegroot.nl/assets/apps/Contact-Manager.png" alt="Contact Manager icon" width="100" height="100" /></a></td>
+    <td><h4>Contact Manager</h4>Contact Manager brings your contacts into one calm, useful workspace. Browse, search, and organize people with groups and smart lists; stay on top of birthdays and follow-ups; and review duplicates an<br /><a href="https://wesleydegroot.nl/apps/Contact-Manager">Read more</a></td>
   </tr>
 </table>
 
-### [ImagePicker](https://github.com/0xWDG/ImagePicker)
+### [CodeEdit](https://github.com/codeeditapp/CodeEdit)
 
 
 ## From the blog
 
 **Latest:** [SF Symbols in iOS](https://wesleydegroot.nl/blog/sf-symbols-in-ios)<br />
-**Discover something different:** [SwiftUI Lists](https://wesleydegroot.nl/blog/swiftui-lists)
+**Discover something different:** [Swift Package: XCUITestHelper](https://wesleydegroot.nl/blog/swift-package-xcuitesthelper)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

@@ -26,18 +26,20 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Contact-Manager"><img src="https://wesleydegroot.nl/assets/apps/Contact-Manager.png" alt="Contact Manager icon" width="100" height="100" /></a></td>
-    <td><h4>Contact Manager</h4>Contact Manager brings your contacts into one calm, useful workspace. Browse, search, and organize people with groups and smart lists; stay on top of birthdays and follow-ups; and review duplicates an<br /><a href="https://wesleydegroot.nl/apps/Contact-Manager">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Calendo"><img src="https://wesleydegroot.nl/assets/apps/Calendo.png" alt="Calendo icon" width="100" height="100" /></a></td>
+    <td><h4>Calendo</h4>Calendo: Your Flexible, Private Calendar
+
+Calendo keeps personal appointments, work meetings, reminders, and family plans together using your device's calendars. Explore month, day, week, year, and co<br /><a href="https://wesleydegroot.nl/apps/Calendo">Read more</a></td>
   </tr>
 </table>
 
-### [CodeEdit](https://github.com/codeeditapp/CodeEdit)
+### [Inspect](https://github.com/0xWDG/Inspect)
 
 
 ## From the blog
 
 **Latest:** [SF Symbols in iOS](https://wesleydegroot.nl/blog/sf-symbols-in-ios)<br />
-**Discover something different:** [Swift Package: XCUITestHelper](https://wesleydegroot.nl/blog/swift-package-xcuitesthelper)
+**Discover something different:** [Default values for UserDefaults](https://wesleydegroot.nl/blog/default-values-for-userdefaults)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

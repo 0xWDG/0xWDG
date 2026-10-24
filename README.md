@@ -26,20 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Calendo"><img src="https://wesleydegroot.nl/assets/apps/Calendo.png" alt="Calendo icon" width="100" height="100" /></a></td>
-    <td><h4>Calendo</h4>Calendo: Your Flexible, Private Calendar
-
-Calendo keeps personal appointments, work meetings, reminders, and family plans together using your device's calendars. Explore month, day, week, year, and co<br /><a href="https://wesleydegroot.nl/apps/Calendo">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/DV-Guide"><img src="https://wesleydegroot.nl/assets/apps/DV-Guide.png" alt="DV Guide icon" width="100" height="100" /></a></td>
+    <td><h4>DV Guide</h4>Dreamlight Valley Guide is a comprehensive mobile application designed to assist villagers in exploring the beautiful and magical world of Dreamlight Valley. The app provides users with all the necess<br /><a href="https://wesleydegroot.nl/apps/DV-Guide">Read more</a></td>
   </tr>
 </table>
 
-### [Inspect](https://github.com/0xWDG/Inspect)
+### [NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
 
 
 ## From the blog
 
 **Latest:** [SF Symbols in iOS](https://wesleydegroot.nl/blog/sf-symbols-in-ios)<br />
-**Discover something different:** [Default values for UserDefaults](https://wesleydegroot.nl/blog/default-values-for-userdefaults)
+**Discover something different:** [Surprise Route](https://wesleydegroot.nl/blog/surprise-route)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

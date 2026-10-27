@@ -26,18 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/DV-Guide"><img src="https://wesleydegroot.nl/assets/apps/DV-Guide.png" alt="DV Guide icon" width="100" height="100" /></a></td>
-    <td><h4>DV Guide</h4>Dreamlight Valley Guide is a comprehensive mobile application designed to assist villagers in exploring the beautiful and magical world of Dreamlight Valley. The app provides users with all the necess<br /><a href="https://wesleydegroot.nl/apps/DV-Guide">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/World-Of-Crime"><img src="https://wesleydegroot.nl/assets/apps/default.png" alt="World Of Crime icon" width="100" height="100" /></a></td>
+    <td><h4>World Of Crime</h4>World of Crime is a text-based role-playing game (RPG) that immerses players in a world of crime and adventure. In this game, players take on the role of a criminal and navigate through various challe<br /><a href="https://wesleydegroot.nl/apps/World-Of-Crime">Read more</a></td>
   </tr>
 </table>
 
-### [PreferenceKit](https://github.com/0xWDG/PreferenceKit)
+### [Aurora.js](https://github.com/0xWDG/Aurora.js)
 
 
 ## From the blog
 
-**Latest:** [SF Symbols in iOS](https://wesleydegroot.nl/blog/sf-symbols-in-ios)<br />
-**Discover something different:** [SwiftData Basics](https://wesleydegroot.nl/blog/swiftdata-basics)
+**Latest:** [Performance Profiling in Xcode](https://wesleydegroot.nl/blog/performance-profiling-in-xcode)<br />
+**Discover something different:** [Dependency Injection in Swift](https://wesleydegroot.nl/blog/dependency-injection-in-swift)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

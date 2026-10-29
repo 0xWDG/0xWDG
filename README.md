@@ -26,20 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/XCStrings-Translator"><img src="https://wesleydegroot.nl/assets/apps/XCStrings-Translator.png" alt="XCStrings Translator icon" width="100" height="100" /></a></td>
-    <td><h4>XCStrings Translator</h4>XCStrings Translator helps macOS developers quickly translate Xcode String Catalogs (.xcstrings) using Apple’s on-device Translation framework.
-
-Open a catalog from the app, Finder, or the Open With<br /><a href="https://wesleydegroot.nl/apps/XCStrings-Translator">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/HexConquest"><img src="https://wesleydegroot.nl/assets/apps/HexConquest.png" alt="HexConquest icon" width="100" height="100" /></a></td>
+    <td><h4>HexConquest</h4>In Hex Conquest, every decision shapes the battlefield. Your goal is simple: conquer more tiles than your opponents. But to win, you’ll need foresight, cunning, and the ability to adapt as the map shi<br /><a href="https://wesleydegroot.nl/apps/HexConquest">Read more</a></td>
   </tr>
 </table>
 
-### [InjectJS](https://github.com/0xWDG/InjectJS)
+### [Colors](https://github.com/0xWDG/Colors)
 
 
 ## From the blog
 
 **Latest:** [Performance Profiling in Xcode](https://wesleydegroot.nl/blog/performance-profiling-in-xcode)<br />
-**Discover something different:** [Swift Package: ImagePicker](https://wesleydegroot.nl/blog/swift-package-imagepicker)
+**Discover something different:** [Swift Charts Framework](https://wesleydegroot.nl/blog/swift-charts-framework)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

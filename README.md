@@ -26,18 +26,26 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/HexConquest"><img src="https://wesleydegroot.nl/assets/apps/HexConquest.png" alt="HexConquest icon" width="100" height="100" /></a></td>
-    <td><h4>HexConquest</h4>In Hex Conquest, every decision shapes the battlefield. Your goal is simple: conquer more tiles than your opponents. But to win, you’ll need foresight, cunning, and the ability to adapt as the map shi<br /><a href="https://wesleydegroot.nl/apps/HexConquest">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Tools-Stickers"><img src="https://wesleydegroot.nl/assets/apps/Tools-Stickers.png" alt="Tools Stickers icon" width="100" height="100" /></a></td>
+    <td><h4>Tools Stickers</h4>Hardware Tools!
+
+FRIEND: Hey, can you hand me the pliers?
+YOU: What?
+FRIEND: The pliers!
+YOU: Which ones are the pliers?
+
+Have you ever had this conversation?
+Here is a new way to communicate what you<br /><a href="https://wesleydegroot.nl/apps/Tools-Stickers">Read more</a></td>
   </tr>
 </table>
 
-### [Colors](https://github.com/0xWDG/Colors)
+### [spm](https://github.com/0xWDG/spm)
 
 
 ## From the blog
 
 **Latest:** [Performance Profiling in Xcode](https://wesleydegroot.nl/blog/performance-profiling-in-xcode)<br />
-**Discover something different:** [Swift Charts Framework](https://wesleydegroot.nl/blog/swift-charts-framework)
+**Discover something different:** [Make your app visible with alternative app names](https://wesleydegroot.nl/blog/inalternativeappnames)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

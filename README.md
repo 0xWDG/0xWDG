@@ -26,26 +26,20 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Tools-Stickers"><img src="https://wesleydegroot.nl/assets/apps/Tools-Stickers.png" alt="Tools Stickers icon" width="100" height="100" /></a></td>
-    <td><h4>Tools Stickers</h4>Hardware Tools!
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Calendo"><img src="https://wesleydegroot.nl/assets/apps/Calendo.png" alt="Calendo icon" width="100" height="100" /></a></td>
+    <td><h4>Calendo</h4>Calendo: Your Flexible, Private Calendar
 
-FRIEND: Hey, can you hand me the pliers?
-YOU: What?
-FRIEND: The pliers!
-YOU: Which ones are the pliers?
-
-Have you ever had this conversation?
-Here is a new way to communicate what you<br /><a href="https://wesleydegroot.nl/apps/Tools-Stickers">Read more</a></td>
+Calendo keeps personal appointments, work meetings, reminders, and family plans together using your device's calendars. Explore month, day, week, year, and co<br /><a href="https://wesleydegroot.nl/apps/Calendo">Read more</a></td>
   </tr>
 </table>
 
-### [spm](https://github.com/0xWDG/spm)
+### [OnboardingKit](https://github.com/0xWDG/OnboardingKit)
 
 
 ## From the blog
 
 **Latest:** [Performance Profiling in Xcode](https://wesleydegroot.nl/blog/performance-profiling-in-xcode)<br />
-**Discover something different:** [Make your app visible with alternative app names](https://wesleydegroot.nl/blog/inalternativeappnames)
+**Discover something different:** [Remove the background from images using Swift](https://wesleydegroot.nl/blog/remove-the-background-from-images-using-swift)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

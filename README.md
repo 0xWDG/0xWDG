@@ -26,20 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Calendo"><img src="https://wesleydegroot.nl/assets/apps/Calendo.png" alt="Calendo icon" width="100" height="100" /></a></td>
-    <td><h4>Calendo</h4>Calendo: Your Flexible, Private Calendar
-
-Calendo keeps personal appointments, work meetings, reminders, and family plans together using your device's calendars. Explore month, day, week, year, and co<br /><a href="https://wesleydegroot.nl/apps/Calendo">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/DV-Guide"><img src="https://wesleydegroot.nl/assets/apps/DV-Guide.png" alt="DV Guide icon" width="100" height="100" /></a></td>
+    <td><h4>DV Guide</h4>Dreamlight Valley Guide is a comprehensive mobile application designed to assist villagers in exploring the beautiful and magical world of Dreamlight Valley. The app provides users with all the necess<br /><a href="https://wesleydegroot.nl/apps/DV-Guide">Read more</a></td>
   </tr>
 </table>
 
-### [OnboardingKit](https://github.com/0xWDG/OnboardingKit)
+### [CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
 
 
 ## From the blog
 
 **Latest:** [Performance Profiling in Xcode](https://wesleydegroot.nl/blog/performance-profiling-in-xcode)<br />
-**Discover something different:** [Remove the background from images using Swift](https://wesleydegroot.nl/blog/remove-the-background-from-images-using-swift)
+**Discover something different:** [AppDevCon 2025](https://wesleydegroot.nl/blog/appdevcon-2025)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

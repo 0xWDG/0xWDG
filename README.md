@@ -26,18 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/DV-Guide"><img src="https://wesleydegroot.nl/assets/apps/DV-Guide.png" alt="DV Guide icon" width="100" height="100" /></a></td>
-    <td><h4>DV Guide</h4>Dreamlight Valley Guide is a comprehensive mobile application designed to assist villagers in exploring the beautiful and magical world of Dreamlight Valley. The app provides users with all the necess<br /><a href="https://wesleydegroot.nl/apps/DV-Guide">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Workout-Route"><img src="https://wesleydegroot.nl/assets/apps/Workout-Route.png" alt="Workout Route icon" width="100" height="100" /></a></td>
+    <td><h4>Workout Route</h4>Bring your workouts to life with Workout Route. Instead of just numbers, see the actual paths you’ve taken during your runs, walks, hikes, and rides. Workout Route securely reads your workout data fro<br /><a href="https://wesleydegroot.nl/apps/Workout-Route">Read more</a></td>
   </tr>
 </table>
 
-### [CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
+### [CodeEditor](https://github.com/0xWDG/CodeEditor)
 
 
 ## From the blog
 
 **Latest:** [Performance Profiling in Xcode](https://wesleydegroot.nl/blog/performance-profiling-in-xcode)<br />
-**Discover something different:** [AppDevCon 2025](https://wesleydegroot.nl/blog/appdevcon-2025)
+**Discover something different:** [Mastering animations in SwiftUI](https://wesleydegroot.nl/blog/animations-in-swiftui)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

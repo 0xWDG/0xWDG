@@ -26,18 +26,26 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Workout-Route"><img src="https://wesleydegroot.nl/assets/apps/Workout-Route.png" alt="Workout Route icon" width="100" height="100" /></a></td>
-    <td><h4>Workout Route</h4>Bring your workouts to life with Workout Route. Instead of just numbers, see the actual paths you’ve taken during your runs, walks, hikes, and rides. Workout Route securely reads your workout data fro<br /><a href="https://wesleydegroot.nl/apps/Workout-Route">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Tools-Stickers"><img src="https://wesleydegroot.nl/assets/apps/Tools-Stickers.png" alt="Tools Stickers icon" width="100" height="100" /></a></td>
+    <td><h4>Tools Stickers</h4>Hardware Tools!
+
+FRIEND: Hey, can you hand me the pliers?
+YOU: What?
+FRIEND: The pliers!
+YOU: Which ones are the pliers?
+
+Have you ever had this conversation?
+Here is a new way to communicate what you<br /><a href="https://wesleydegroot.nl/apps/Tools-Stickers">Read more</a></td>
   </tr>
 </table>
 
-### [CodeEditor](https://github.com/0xWDG/CodeEditor)
+### [SecureStorage](https://github.com/0xWDG/SecureStorage)
 
 
 ## From the blog
 
-**Latest:** [Performance Profiling in Xcode](https://wesleydegroot.nl/blog/performance-profiling-in-xcode)<br />
-**Discover something different:** [Mastering animations in SwiftUI](https://wesleydegroot.nl/blog/animations-in-swiftui)
+**Latest:** [Actors in Swift](https://wesleydegroot.nl/blog/actors-in-swift)<br />
+**Discover something different:** [Keyboard Navigation](https://wesleydegroot.nl/blog/keyboard-navigation)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

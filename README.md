@@ -26,26 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Tools-Stickers"><img src="https://wesleydegroot.nl/assets/apps/Tools-Stickers.png" alt="Tools Stickers icon" width="100" height="100" /></a></td>
-    <td><h4>Tools Stickers</h4>Hardware Tools!
-
-FRIEND: Hey, can you hand me the pliers?
-YOU: What?
-FRIEND: The pliers!
-YOU: Which ones are the pliers?
-
-Have you ever had this conversation?
-Here is a new way to communicate what you<br /><a href="https://wesleydegroot.nl/apps/Tools-Stickers">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/DV-Guide"><img src="https://wesleydegroot.nl/assets/apps/DV-Guide.png" alt="DV Guide icon" width="100" height="100" /></a></td>
+    <td><h4>DV Guide</h4>Dreamlight Valley Guide is a comprehensive mobile application designed to assist villagers in exploring the beautiful and magical world of Dreamlight Valley. The app provides users with all the necess<br /><a href="https://wesleydegroot.nl/apps/DV-Guide">Read more</a></td>
   </tr>
 </table>
 
-### [SecureStorage](https://github.com/0xWDG/SecureStorage)
+### [XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
 
 
 ## From the blog
 
 **Latest:** [Actors in Swift](https://wesleydegroot.nl/blog/actors-in-swift)<br />
-**Discover something different:** [Keyboard Navigation](https://wesleydegroot.nl/blog/keyboard-navigation)
+**Discover something different:** [Swift Package: XCUITestHelper](https://wesleydegroot.nl/blog/swift-package-xcuitesthelper)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

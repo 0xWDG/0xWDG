@@ -26,18 +26,20 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/DV-Guide"><img src="https://wesleydegroot.nl/assets/apps/DV-Guide.png" alt="DV Guide icon" width="100" height="100" /></a></td>
-    <td><h4>DV Guide</h4>Dreamlight Valley Guide is a comprehensive mobile application designed to assist villagers in exploring the beautiful and magical world of Dreamlight Valley. The app provides users with all the necess<br /><a href="https://wesleydegroot.nl/apps/DV-Guide">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Lucky-Stickers"><img src="https://wesleydegroot.nl/assets/apps/Lucky-Stickers.png" alt="Lucky Stickers icon" width="100" height="100" /></a></td>
+    <td><h4>Lucky Stickers</h4>This year I got my very first dog, a York Terrier named 'Lucky'.
+
+He brings so much joy to our family, that it inspired me to make a sticker app of him. Lucky is a very playful puppy who never sits st<br /><a href="https://wesleydegroot.nl/apps/Lucky-Stickers">Read more</a></td>
   </tr>
 </table>
 
-### [XCUITestHelper](https://github.com/0xWDG/XCUITestHelper)
+### [build-documentation](https://github.com/0xWDG/build-documentation)
 
 
 ## From the blog
 
 **Latest:** [Actors in Swift](https://wesleydegroot.nl/blog/actors-in-swift)<br />
-**Discover something different:** [Swift Package: XCUITestHelper](https://wesleydegroot.nl/blog/swift-package-xcuitesthelper)
+**Discover something different:** [Fixing slow scrolling in Calendo](https://wesleydegroot.nl/blog/fixing-slow-scrolling-in-calendo)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

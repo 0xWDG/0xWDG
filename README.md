@@ -26,20 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Lucky-Stickers"><img src="https://wesleydegroot.nl/assets/apps/Lucky-Stickers.png" alt="Lucky Stickers icon" width="100" height="100" /></a></td>
-    <td><h4>Lucky Stickers</h4>This year I got my very first dog, a York Terrier named 'Lucky'.
-
-He brings so much joy to our family, that it inspired me to make a sticker app of him. Lucky is a very playful puppy who never sits st<br /><a href="https://wesleydegroot.nl/apps/Lucky-Stickers">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Workout-Route"><img src="https://wesleydegroot.nl/assets/apps/Workout-Route.png" alt="Workout Route icon" width="100" height="100" /></a></td>
+    <td><h4>Workout Route</h4>Bring your workouts to life with Workout Route. Instead of just numbers, see the actual paths you’ve taken during your runs, walks, hikes, and rides. Workout Route securely reads your workout data fro<br /><a href="https://wesleydegroot.nl/apps/Workout-Route">Read more</a></td>
   </tr>
 </table>
 
-### [build-documentation](https://github.com/0xWDG/build-documentation)
+### [iGive](https://github.com/0xWDG/iGive)
 
 
 ## From the blog
 
-**Latest:** [Actors in Swift](https://wesleydegroot.nl/blog/actors-in-swift)<br />
-**Discover something different:** [Fixing slow scrolling in Calendo](https://wesleydegroot.nl/blog/fixing-slow-scrolling-in-calendo)
+**Latest:** [Contrast Checker](https://wesleydegroot.nl/blog/contrast-checker)<br />
+**Discover something different:** [Localizing In Xcode](https://wesleydegroot.nl/blog/localizing-in-xcode)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

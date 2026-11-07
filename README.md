@@ -26,18 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Workout-Route"><img src="https://wesleydegroot.nl/assets/apps/Workout-Route.png" alt="Workout Route icon" width="100" height="100" /></a></td>
-    <td><h4>Workout Route</h4>Bring your workouts to life with Workout Route. Instead of just numbers, see the actual paths you’ve taken during your runs, walks, hikes, and rides. Workout Route securely reads your workout data fro<br /><a href="https://wesleydegroot.nl/apps/Workout-Route">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Contact-Manager"><img src="https://wesleydegroot.nl/assets/apps/Contact-Manager.png" alt="Contact Manager icon" width="100" height="100" /></a></td>
+    <td><h4>Contact Manager</h4>Contact Manager brings your contacts into one calm, useful workspace. Browse, search, and organize people with groups and smart lists; stay on top of birthdays and follow-ups; and review duplicates an<br /><a href="https://wesleydegroot.nl/apps/Contact-Manager">Read more</a></td>
   </tr>
 </table>
 
-### [iGive](https://github.com/0xWDG/iGive)
+### [Aurora.swift](https://github.com/0xWDG/Aurora.swift)
 
 
 ## From the blog
 
-**Latest:** [Contrast Checker](https://wesleydegroot.nl/blog/contrast-checker)<br />
-**Discover something different:** [Localizing In Xcode](https://wesleydegroot.nl/blog/localizing-in-xcode)
+**Latest:** [Apple System Colors](https://wesleydegroot.nl/blog/apple-colors)<br />
+**Discover something different:** [iOS Settings URL's](https://wesleydegroot.nl/blog/ios-settings-urls)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

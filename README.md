@@ -26,18 +26,21 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Contact-Manager"><img src="https://wesleydegroot.nl/assets/apps/Contact-Manager.png" alt="Contact Manager icon" width="100" height="100" /></a></td>
-    <td><h4>Contact Manager</h4>Contact Manager brings your contacts into one calm, useful workspace. Browse, search, and organize people with groups and smart lists; stay on top of birthdays and follow-ups; and review duplicates an<br /><a href="https://wesleydegroot.nl/apps/Contact-Manager">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Hacker-Stickers"><img src="https://wesleydegroot.nl/assets/apps/Hacker-Stickers.png" alt="Hacker Stickers icon" width="100" height="100" /></a></td>
+    <td><h4>Hacker Stickers</h4>Finally a sticker pack for nerds! Ever in a convo and wish there was a sticker to say x or y?
+We got you covered with over 60 stickers curated by a nerd for a nerd.
+
+Have fun with them….and if you see<br /><a href="https://wesleydegroot.nl/apps/Hacker-Stickers">Read more</a></td>
   </tr>
 </table>
 
-### [Aurora.swift](https://github.com/0xWDG/Aurora.swift)
+### [PHPFramework](https://github.com/0xWDG/PHPFramework)
 
 
 ## From the blog
 
 **Latest:** [Apple System Colors](https://wesleydegroot.nl/blog/apple-colors)<br />
-**Discover something different:** [iOS Settings URL's](https://wesleydegroot.nl/blog/ios-settings-urls)
+**Discover something different:** [Creating a dynamic user interface for extensions in Aurora Editor](https://wesleydegroot.nl/blog/creating-a-dynamic-ui-for-extensions-in-aurora-editor)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

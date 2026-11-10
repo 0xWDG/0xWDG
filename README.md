@@ -26,26 +26,21 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Tools-Stickers"><img src="https://wesleydegroot.nl/assets/apps/Tools-Stickers.png" alt="Tools Stickers icon" width="100" height="100" /></a></td>
-    <td><h4>Tools Stickers</h4>Hardware Tools!
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Appsterdam"><img src="https://wesleydegroot.nl/assets/apps/Appsterdam.png" alt="Appsterdam icon" width="100" height="100" /></a></td>
+    <td><h4>Appsterdam</h4>
+<strong>Appsterdam</strong> is an extraordinary community that celebrates app makers and fosters collaboration. Here are some key points about this vibrant initiative:
 
-FRIEND: Hey, can you hand me the pliers?
-YOU: What?
-FRIEND: The pliers!
-YOU: Which ones are the pliers?
-
-Have you ever had this conversation?
-Here is a new way to communicate what you<br /><a href="https://wesleydegroot.nl/apps/Tools-Stickers">Read more</a></td>
+1. <strong>Volunteer-Driven Co<br /><a href="https://wesleydegroot.nl/apps/Appsterdam">Read more</a></td>
   </tr>
 </table>
 
-### [Inspect](https://github.com/0xWDG/Inspect)
+### [NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
 
 
 ## From the blog
 
-**Latest:** [Apple System Colors](https://wesleydegroot.nl/blog/apple-colors)<br />
-**Discover something different:** [AsyncImage in SwiftUI](https://wesleydegroot.nl/blog/asyncimage-in-swiftui)
+**Latest:** [Localization and Internationalization](https://wesleydegroot.nl/blog/localization-and-internationalization)<br />
+**Discover something different:** [Searchable Modifier in SwiftUI](https://wesleydegroot.nl/blog/searchable-modifier-in-swiftui)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

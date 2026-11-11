@@ -26,21 +26,20 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Appsterdam"><img src="https://wesleydegroot.nl/assets/apps/Appsterdam.png" alt="Appsterdam icon" width="100" height="100" /></a></td>
-    <td><h4>Appsterdam</h4>
-<strong>Appsterdam</strong> is an extraordinary community that celebrates app makers and fosters collaboration. Here are some key points about this vibrant initiative:
+    <td width="100"><a href="https://wesleydegroot.nl/apps/XCStrings-Translator"><img src="https://wesleydegroot.nl/assets/apps/XCStrings-Translator.png" alt="XCStrings Translator icon" width="100" height="100" /></a></td>
+    <td><h4>XCStrings Translator</h4>XCStrings Translator helps macOS developers quickly translate Xcode String Catalogs (.xcstrings) using Apple’s on-device Translation framework.
 
-1. <strong>Volunteer-Driven Co<br /><a href="https://wesleydegroot.nl/apps/Appsterdam">Read more</a></td>
+Open a catalog from the app, Finder, or the Open With<br /><a href="https://wesleydegroot.nl/apps/XCStrings-Translator">Read more</a></td>
   </tr>
 </table>
 
-### [NetworkMonitor](https://github.com/0xWDG/NetworkMonitor)
+### [GlobalChat](https://github.com/0xWDG/GlobalChat)
 
 
 ## From the blog
 
 **Latest:** [Localization and Internationalization](https://wesleydegroot.nl/blog/localization-and-internationalization)<br />
-**Discover something different:** [Searchable Modifier in SwiftUI](https://wesleydegroot.nl/blog/searchable-modifier-in-swiftui)
+**Discover something different:** [CocoaPods Trunk Read-only Plan](https://wesleydegroot.nl/blog/cocoapods-trunk-read-only-plan)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

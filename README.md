@@ -26,20 +26,22 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/XCStrings-Translator"><img src="https://wesleydegroot.nl/assets/apps/XCStrings-Translator.png" alt="XCStrings Translator icon" width="100" height="100" /></a></td>
-    <td><h4>XCStrings Translator</h4>XCStrings Translator helps macOS developers quickly translate Xcode String Catalogs (.xcstrings) using Apple’s on-device Translation framework.
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Just-Selfie"><img src="https://wesleydegroot.nl/assets/apps/Just-Selfie.png" alt="Just Selfie icon" width="100" height="100" /></a></td>
+    <td><h4>Just Selfie</h4>Do you also like to make great selfies?
+Then this is the app you're looking for!
 
-Open a catalog from the app, Finder, or the Open With<br /><a href="https://wesleydegroot.nl/apps/XCStrings-Translator">Read more</a></td>
+Select your filter, and shoot beautiful and perhaps somewhat hilarious selfies!
+Wear your favorite selfie, the filters<br /><a href="https://wesleydegroot.nl/apps/Just-Selfie">Read more</a></td>
   </tr>
 </table>
 
-### [GlobalChat](https://github.com/0xWDG/GlobalChat)
+### [Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
 
 
 ## From the blog
 
 **Latest:** [Localization and Internationalization](https://wesleydegroot.nl/blog/localization-and-internationalization)<br />
-**Discover something different:** [CocoaPods Trunk Read-only Plan](https://wesleydegroot.nl/blog/cocoapods-trunk-read-only-plan)
+**Discover something different:** [iOS App States](https://wesleydegroot.nl/blog/app-states-in-ios)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

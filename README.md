@@ -26,22 +26,20 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Just-Selfie"><img src="https://wesleydegroot.nl/assets/apps/Just-Selfie.png" alt="Just Selfie icon" width="100" height="100" /></a></td>
-    <td><h4>Just Selfie</h4>Do you also like to make great selfies?
-Then this is the app you're looking for!
-
-Select your filter, and shoot beautiful and perhaps somewhat hilarious selfies!
-Wear your favorite selfie, the filters<br /><a href="https://wesleydegroot.nl/apps/Just-Selfie">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Apple-Music-2-Discord"><img src="https://wesleydegroot.nl/assets/apps/default.png" alt="Apple Music 2 Discord icon" width="100" height="100" /></a></td>
+    <td><h4>Apple Music 2 Discord</h4>Display your Apple Music play status to Discord.
+With Apple Music 2 Discord you can display your current Apple Music play status to Discord.  
+It will show the song name, artist name, album name, and <br /><a href="https://wesleydegroot.nl/apps/Apple-Music-2-Discord">Read more</a></td>
   </tr>
 </table>
 
-### [Admob-SwiftUI](https://github.com/0xWDG/Admob-SwiftUI)
+### [GlobalChat](https://github.com/0xWDG/GlobalChat)
 
 
 ## From the blog
 
 **Latest:** [Localization and Internationalization](https://wesleydegroot.nl/blog/localization-and-internationalization)<br />
-**Discover something different:** [iOS App States](https://wesleydegroot.nl/blog/app-states-in-ios)
+**Discover something different:** [Tips and ideas to start your own blog](https://wesleydegroot.nl/blog/start-your-own-blog)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

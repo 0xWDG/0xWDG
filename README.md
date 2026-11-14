@@ -26,20 +26,24 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Apple-Music-2-Discord"><img src="https://wesleydegroot.nl/assets/apps/default.png" alt="Apple Music 2 Discord icon" width="100" height="100" /></a></td>
-    <td><h4>Apple Music 2 Discord</h4>Display your Apple Music play status to Discord.
-With Apple Music 2 Discord you can display your current Apple Music play status to Discord.  
-It will show the song name, artist name, album name, and <br /><a href="https://wesleydegroot.nl/apps/Apple-Music-2-Discord">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers"><img src="https://wesleydegroot.nl/assets/apps/Electrical-Symbols-Stickers.png" alt="Electrical Symbols Stickers icon" width="100" height="100" /></a></td>
+    <td><h4>Electrical Symbols Stickers</h4>The best electrical symbol stickers!
+
+Do you use electrical drawings a lot?
+Do you know how to fix the plug?
+This sticker pack is designed for all electrical engineers!
+
+Share symbols, help others wit<br /><a href="https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers">Read more</a></td>
   </tr>
 </table>
 
-### [GlobalChat](https://github.com/0xWDG/GlobalChat)
+### [build-swift](https://github.com/0xWDG/build-swift)
 
 
 ## From the blog
 
 **Latest:** [Localization and Internationalization](https://wesleydegroot.nl/blog/localization-and-internationalization)<br />
-**Discover something different:** [Tips and ideas to start your own blog](https://wesleydegroot.nl/blog/start-your-own-blog)
+**Discover something different:** [Swift Package: SecureStorage](https://wesleydegroot.nl/blog/swift-package-securestorage)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

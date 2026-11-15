@@ -26,24 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers"><img src="https://wesleydegroot.nl/assets/apps/Electrical-Symbols-Stickers.png" alt="Electrical Symbols Stickers icon" width="100" height="100" /></a></td>
-    <td><h4>Electrical Symbols Stickers</h4>The best electrical symbol stickers!
-
-Do you use electrical drawings a lot?
-Do you know how to fix the plug?
-This sticker pack is designed for all electrical engineers!
-
-Share symbols, help others wit<br /><a href="https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/DinnerConnect"><img src="https://wesleydegroot.nl/assets/apps/DinnerConnect.png" alt="DinnerConnect icon" width="100" height="100" /></a></td>
+    <td><h4>DinnerConnect</h4>Are you tired of dining alone or always eating at the same places? DinnerConnect is here to spice up your dining experience! Our app connects you with like-minded food enthusiasts looking to share del<br /><a href="https://wesleydegroot.nl/apps/DinnerConnect">Read more</a></td>
   </tr>
 </table>
 
-### [build-swift](https://github.com/0xWDG/build-swift)
+### [ScreenshotImporter](https://github.com/0xWDG/ScreenshotImporter)
 
 
 ## From the blog
 
 **Latest:** [Localization and Internationalization](https://wesleydegroot.nl/blog/localization-and-internationalization)<br />
-**Discover something different:** [Swift Package: SecureStorage](https://wesleydegroot.nl/blog/swift-package-securestorage)
+**Discover something different:** [Aurora Editor](https://wesleydegroot.nl/blog/aurora-editor)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

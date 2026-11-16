@@ -26,18 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/DinnerConnect"><img src="https://wesleydegroot.nl/assets/apps/DinnerConnect.png" alt="DinnerConnect icon" width="100" height="100" /></a></td>
-    <td><h4>DinnerConnect</h4>Are you tired of dining alone or always eating at the same places? DinnerConnect is here to spice up your dining experience! Our app connects you with like-minded food enthusiasts looking to share del<br /><a href="https://wesleydegroot.nl/apps/DinnerConnect">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/World-Of-Crime"><img src="https://wesleydegroot.nl/assets/apps/default.png" alt="World Of Crime icon" width="100" height="100" /></a></td>
+    <td><h4>World Of Crime</h4>World of Crime is a text-based role-playing game (RPG) that immerses players in a world of crime and adventure. In this game, players take on the role of a criminal and navigate through various challe<br /><a href="https://wesleydegroot.nl/apps/World-Of-Crime">Read more</a></td>
   </tr>
 </table>
 
-### [ScreenshotImporter](https://github.com/0xWDG/ScreenshotImporter)
+### [TelemetryDeck-Stats](https://github.com/0xWDG/TelemetryDeck-Stats)
 
 
 ## From the blog
 
 **Latest:** [Localization and Internationalization](https://wesleydegroot.nl/blog/localization-and-internationalization)<br />
-**Discover something different:** [Aurora Editor](https://wesleydegroot.nl/blog/aurora-editor)
+**Discover something different:** [Accessibility in SwiftUI](https://wesleydegroot.nl/blog/accessibility-in-swiftui)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

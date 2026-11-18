@@ -26,20 +26,20 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/iWebTools"><img src="https://wesleydegroot.nl/assets/apps/iWebTools.png" alt="iWebTools icon" width="100" height="100" /></a></td>
-    <td><h4>iWebTools</h4>This app is a must have for every Web-Developer.
-Ever wished to inspect the HTML/CSS of a website or check its online status?
-This app is your companion for debugging websites, ensuring compliance wit<br /><a href="https://wesleydegroot.nl/apps/iWebTools">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Apple-Music-2-Discord"><img src="https://wesleydegroot.nl/assets/apps/default.png" alt="Apple Music 2 Discord icon" width="100" height="100" /></a></td>
+    <td><h4>Apple Music 2 Discord</h4>Display your Apple Music play status to Discord.
+With Apple Music 2 Discord you can display your current Apple Music play status to Discord.  
+It will show the song name, artist name, album name, and <br /><a href="https://wesleydegroot.nl/apps/Apple-Music-2-Discord">Read more</a></td>
   </tr>
 </table>
 
-### [iGive](https://github.com/0xWDG/iGive)
+### [ImagePicker](https://github.com/0xWDG/ImagePicker)
 
 
 ## From the blog
 
 **Latest:** [Key Paths in Swift](https://wesleydegroot.nl/blog/key-paths-in-swift)<br />
-**Discover something different:** [@Environment variables](https://wesleydegroot.nl/blog/@environment)
+**Discover something different:** [Building Calendo](https://wesleydegroot.nl/blog/building-calendo)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

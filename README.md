@@ -33,13 +33,13 @@ It will show the song name, artist name, album name, and <br /><a href="https://
   </tr>
 </table>
 
-### [ImagePicker](https://github.com/0xWDG/ImagePicker)
+### [CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
 
 
 ## From the blog
 
 **Latest:** [Key Paths in Swift](https://wesleydegroot.nl/blog/key-paths-in-swift)<br />
-**Discover something different:** [Building Calendo](https://wesleydegroot.nl/blog/building-calendo)
+**Discover something different:** [Key Paths in Swift](https://wesleydegroot.nl/blog/key-paths-in-swift)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

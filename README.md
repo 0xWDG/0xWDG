@@ -33,13 +33,13 @@ It will show the song name, artist name, album name, and <br /><a href="https://
   </tr>
 </table>
 
-### [CachedAsyncImage](https://github.com/0xWDG/CachedAsyncImage)
+### [SwiftLoggerUI](https://github.com/0xWDG/SwiftLoggerUI)
 
 
 ## From the blog
 
 **Latest:** [Key Paths in Swift](https://wesleydegroot.nl/blog/key-paths-in-swift)<br />
-**Discover something different:** [Key Paths in Swift](https://wesleydegroot.nl/blog/key-paths-in-swift)
+**Discover something different:** [GeometryReader in SwiftUI](https://wesleydegroot.nl/blog/geometryreader-in-swiftui)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

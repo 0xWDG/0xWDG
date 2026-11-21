@@ -26,20 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Apple-Music-2-Discord"><img src="https://wesleydegroot.nl/assets/apps/default.png" alt="Apple Music 2 Discord icon" width="100" height="100" /></a></td>
-    <td><h4>Apple Music 2 Discord</h4>Display your Apple Music play status to Discord.
-With Apple Music 2 Discord you can display your current Apple Music play status to Discord.  
-It will show the song name, artist name, album name, and <br /><a href="https://wesleydegroot.nl/apps/Apple-Music-2-Discord">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/World-Of-Crime"><img src="https://wesleydegroot.nl/assets/apps/default.png" alt="World Of Crime icon" width="100" height="100" /></a></td>
+    <td><h4>World Of Crime</h4>World of Crime is a text-based role-playing game (RPG) that immerses players in a world of crime and adventure. In this game, players take on the role of a criminal and navigate through various challe<br /><a href="https://wesleydegroot.nl/apps/World-Of-Crime">Read more</a></td>
   </tr>
 </table>
 
-### [SwiftLoggerUI](https://github.com/0xWDG/SwiftLoggerUI)
+### [ScreenshotImporter](https://github.com/0xWDG/ScreenshotImporter)
 
 
 ## From the blog
 
 **Latest:** [Key Paths in Swift](https://wesleydegroot.nl/blog/key-paths-in-swift)<br />
-**Discover something different:** [GeometryReader in SwiftUI](https://wesleydegroot.nl/blog/geometryreader-in-swiftui)
+**Discover something different:** [Simplifying Game Controller Integration with GameControllerKit](https://wesleydegroot.nl/blog/swift-package-gamecontrollerkit)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

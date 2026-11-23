@@ -26,21 +26,20 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Appsterdam"><img src="https://wesleydegroot.nl/assets/apps/Appsterdam.png" alt="Appsterdam icon" width="100" height="100" /></a></td>
-    <td><h4>Appsterdam</h4>
-<strong>Appsterdam</strong> is an extraordinary community that celebrates app makers and fosters collaboration. Here are some key points about this vibrant initiative:
-
-1. <strong>Volunteer-Driven Co<br /><a href="https://wesleydegroot.nl/apps/Appsterdam">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Apple-Music-2-Discord"><img src="https://wesleydegroot.nl/assets/apps/default.png" alt="Apple Music 2 Discord icon" width="100" height="100" /></a></td>
+    <td><h4>Apple Music 2 Discord</h4>Display your Apple Music play status to Discord.
+With Apple Music 2 Discord you can display your current Apple Music play status to Discord.  
+It will show the song name, artist name, album name, and <br /><a href="https://wesleydegroot.nl/apps/Apple-Music-2-Discord">Read more</a></td>
   </tr>
 </table>
 
-### [iCloudStorage](https://github.com/0xWDG/iCloudStorage)
+### [spm](https://github.com/0xWDG/spm)
 
 
 ## From the blog
 
 **Latest:** [Key Paths in Swift](https://wesleydegroot.nl/blog/key-paths-in-swift)<br />
-**Discover something different:** [Swift Package: SecureStorage](https://wesleydegroot.nl/blog/swift-package-securestorage)
+**Discover something different:** [Thermal States on iOS](https://wesleydegroot.nl/blog/thermal-states-on-ios)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

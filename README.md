@@ -26,20 +26,18 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/Apple-Music-2-Discord"><img src="https://wesleydegroot.nl/assets/apps/default.png" alt="Apple Music 2 Discord icon" width="100" height="100" /></a></td>
-    <td><h4>Apple Music 2 Discord</h4>Display your Apple Music play status to Discord.
-With Apple Music 2 Discord you can display your current Apple Music play status to Discord.  
-It will show the song name, artist name, album name, and <br /><a href="https://wesleydegroot.nl/apps/Apple-Music-2-Discord">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/DV-Guide"><img src="https://wesleydegroot.nl/assets/apps/DV-Guide.png" alt="DV Guide icon" width="100" height="100" /></a></td>
+    <td><h4>DV Guide</h4>Dreamlight Valley Guide is a comprehensive mobile application designed to assist villagers in exploring the beautiful and magical world of Dreamlight Valley. The app provides users with all the necess<br /><a href="https://wesleydegroot.nl/apps/DV-Guide">Read more</a></td>
   </tr>
 </table>
 
-### [spm](https://github.com/0xWDG/spm)
+### [quacky.nl](https://github.com/0xWDG/quacky.nl)
 
 
 ## From the blog
 
-**Latest:** [Key Paths in Swift](https://wesleydegroot.nl/blog/key-paths-in-swift)<br />
-**Discover something different:** [Thermal States on iOS](https://wesleydegroot.nl/blog/thermal-states-on-ios)
+**Latest:** [AsyncSequence in Swift](https://wesleydegroot.nl/blog/asyncsequence-in-swift)<br />
+**Discover something different:** [Tips and ideas to start your own blog](https://wesleydegroot.nl/blog/start-your-own-blog)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 

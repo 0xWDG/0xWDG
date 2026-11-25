@@ -26,18 +26,24 @@ I enjoy creating polished applications, useful developer tools, and practical Sw
 
 <table>
   <tr>
-    <td width="100"><a href="https://wesleydegroot.nl/apps/DV-Guide"><img src="https://wesleydegroot.nl/assets/apps/DV-Guide.png" alt="DV Guide icon" width="100" height="100" /></a></td>
-    <td><h4>DV Guide</h4>Dreamlight Valley Guide is a comprehensive mobile application designed to assist villagers in exploring the beautiful and magical world of Dreamlight Valley. The app provides users with all the necess<br /><a href="https://wesleydegroot.nl/apps/DV-Guide">Read more</a></td>
+    <td width="100"><a href="https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers"><img src="https://wesleydegroot.nl/assets/apps/Electrical-Symbols-Stickers.png" alt="Electrical Symbols Stickers icon" width="100" height="100" /></a></td>
+    <td><h4>Electrical Symbols Stickers</h4>The best electrical symbol stickers!
+
+Do you use electrical drawings a lot?
+Do you know how to fix the plug?
+This sticker pack is designed for all electrical engineers!
+
+Share symbols, help others wit<br /><a href="https://wesleydegroot.nl/apps/Electrical-Symbols-Stickers">Read more</a></td>
   </tr>
 </table>
 
-### [quacky.nl](https://github.com/0xWDG/quacky.nl)
+### [CMS](https://github.com/0xWDG/CMS)
 
 
 ## From the blog
 
 **Latest:** [AsyncSequence in Swift](https://wesleydegroot.nl/blog/asyncsequence-in-swift)<br />
-**Discover something different:** [Tips and ideas to start your own blog](https://wesleydegroot.nl/blog/start-your-own-blog)
+**Discover something different:** [If case let](https://wesleydegroot.nl/blog/if-case-let)
 
 Interested in Swift? [Browse my blog](https://wesleydegroot.nl/blog/) for articles, experiments, and practical notes.
 
